@@ -320,8 +320,7 @@ def create_inclusive_graph(exclusive_codes: dict, inclusive_codes: dict) -> None
 
     plt.title(
         "SFIA Code Relationships (4-Layer: Tags → Exclusive Code Groups → Combinations → Inclusive Codes)\n"
-        "Layer1: Tags | Layer2: Exclusive Code Groups (one circle per tag) | Layer3: Tag Combinations | Layer4: Inclusive Codes\n"
-        "Dark blue = inclusive codes (via combinations) | Light blue circles = exclusive code groups (direct to tags, dashed edges)",
+        "Layer1: Tags | Layer2: Exclusive Code Groups | Layer3: Tag Combinations | Layer4: Inclusive Codes\n",
         fontsize=11,
         fontweight="bold",
     )
