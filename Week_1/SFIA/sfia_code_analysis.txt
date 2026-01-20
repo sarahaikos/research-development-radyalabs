@@ -1,0 +1,65 @@
+SFIA Code Analysis by Tags
+================================================================================
+
+DATA ONLY (13 codes):
+  AIDE, ANCC, AVMT, BPRE, CPMG, CSMG, ICPM, INCA, INOV, ISCO, MLNG, PRTS, RMGT
+
+SOFT ONLY (12 codes):
+  ASUP, BENM, FMIT, HCEV, INVA, POMG, SEAC, SFAS, SFEN, UNAN, URCH, USEV
+
+DEVO ONLY (0 codes):
+  (none)
+
+CYBR ONLY (20 codes):
+  ASMG, CNSL, CRIM, CSOP, DEMG, DEMM, DGFS, ETMG, HWDE, NTAS, OCOP, RSCH, SORC, SUBF, TEAC, TECH, THIN, TMCR, VURE, WFPL
+
+CLOU ONLY (1 codes):
+  COMG
+
+CLOU + CYBR (3 codes):
+  ITMG, NTDS, SYSP
+
+CYBR + DATA (15 codes):
+  AUDT, BINT, CIPM, DAAN, DATM, DATS, DENG, ETDL, INAS, IRMG, ITSP, OCEN, PEDP, QUMG, STPL
+
+CYBR + DEVO (2 codes):
+  EEXP, PENT
+
+CYBR + SOFT (7 codes):
+  ITCM, PDSV, PGMG, PRMG, RESC, RESD, SUPP
+
+DATA + DEVO (3 codes):
+  JADN, LEDA, ORDI
+
+DATA + SOFT (6 codes):
+  BUSA, DBDS, DTAN, FEAS, PROD, QUAS
+
+DEVO + SOFT (2 codes):
+  BPTS, CFMG
+
+CLOU + CYBR + DATA (3 codes):
+  COPL, IFDN, STMG
+
+CLOU + CYBR + DEVO (1 codes):
+  ITOP
+
+CYBR + DATA + DEVO (7 codes):
+  BURM, DBAD, IAMT, KNOW, SCAD, SCTY, VUAS
+
+CYBR + DATA + SOFT (1 codes):
+  GOVN
+
+CYBR + DEVO + SOFT (3 codes):
+  CHMG, SINT, SLEN
+
+DATA + DEVO + SOFT (2 codes):
+  METL, OCDV
+
+CLOU + CYBR + DEVO + SOFT (2 codes):
+  DEPL, RELM
+
+CYBR + DATA + DEVO + SOFT (12 codes):
+  DESN, DLMG, MEAS, NFTS, PBMG, PEMT, PROG, REQM, RLMT, SWDN, TEST, USUP
+
+CLOU + CYBR + DATA + DEVO + SOFT (1 codes):
+  ARCH

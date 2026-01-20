@@ -1,0 +1,148 @@
+Tags,Category,Subcategory,Skill,Code,Levels,,,,,,,What it covers
+"CYBR_01, DATA_10",Strategy and architecture,Strategy and planning,Strategic planning,ITSP,,,,4,5,6,7,Long term technical direction
+DATA_09,Strategy and architecture,Strategy and planning,Information system coordination,ISCO,,,,,,6,7,Coordinate enterprise system
+"CYBR_13, DATA_05",Strategy and architecture,Strategy and planning,Information management,IRMG,,,3,4,5,6,7,Info lifecycle & policy
+"CYBR_06, DATA_04",Strategy and architecture,Strategy and planning,Enterprise and business architecture,STPL,,,,,5,6,7,"Org-wide architecture, align data with strategy"
+"CYBR_07, CLOU_02, DATA_19, SOFT_28, DEVO_26",Strategy and architecture,Strategy and planning,Solution architecture,ARCH,,,,4,5,6,,"End-to-end system design, platform architecture, cloud architecture/design"
+DATA_33,Strategy and architecture,Strategy and planning,Innovation management,INOV,,,,,5,6,7,Data innovation innitiatives
+,Strategy and architecture,Strategy and planning,Emerging technology monitoring,EMRG,,,,4,5,6,,
+CYBR_19,Strategy and architecture,Strategy and planning,Formal research,RSCH,,2,3,4,5,6,,Experimental & exploratory work
+,Strategy and architecture,Strategy and planning,Sustainability,SUST,,,,4,5,6,,
+SOFT_48,Strategy and architecture,Financial and value management,Financial management,FMIT,,,,4,5,6,,
+SOFT_38,Strategy and architecture,Financial and value management,Investment appraisal,INVA,,,,4,5,6,,
+SOFT_40,Strategy and architecture,Financial and value management,Benefits management,BENM,,,3,4,5,6,,
+,Strategy and architecture,Financial and value management,Budgeting and forecasting,BUDF,,2,3,4,5,6,,
+,Strategy and architecture,Financial and value management,Financial analysis,FIAN,,2,3,4,5,6,,
+CLOU_11,Strategy and architecture,Financial and value management,Cost management,COMG,,2,3,4,5,6,,Cost optimization & budgeting
+CYBR_03,Strategy and architecture,Financial and value management,Demang management,DEMM,,,,4,5,6,,
+"CYBR_16, DATA_41, SOFT_14, DEVO_07",Strategy and architecture,Financial and value management,Measurement,MEAS,,2,3,4,5,6,,"KPIs, DORA metrics, engineering metrics"
+"CYBR_02, DATA_48, DEVO_33",Strategy and architecture,Security and privacy,Information security,SCTY,,2,3,4,5,6,7,Secure coding & systems
+"CYBR_14, DATA_49",Strategy and architecture,Security and privacy,Information assurance,INAS,,2,3,4,5,6,7,"Data security, assurance & compliance"
+"CYBR_12, DATA_07",Strategy and architecture,Security and privacy,Information and data compliance,PEDP,,,,4,5,6,,Privacy & data laws
+CYBR_20,Strategy and architecture,Security and privacy,Vulnerability research,VURE,,2,3,4,5,6,,
+CYBR_21,Strategy and architecture,Security and privacy,Threat intelligence,THIN,,2,3,4,5,6,,Threat analysis
+"CYBR_09, DATA_01, SOFT_45",Strategy and architecture,"Governance, risk, and compliance",Governance,GOVN,,,,,,6,7,Data governance across org
+"CYBR_10, DATA_02, DEVO_02",Strategy and architecture,"Governance, risk, and compliance",Risk management,BURM,,2,3,4,5,6,7,"Technical and deliver risks, data risk & compliance"
+DATA_03,Strategy and architecture,"Governance, risk, and compliance",Artificial intelligence and data ethics,AIDE,,,3,4,5,6,,"AI systems & strategy, ethical AI, bias, fairness"
+"CYBR_11, DATA_53",Strategy and architecture,"Governance, risk, and compliance",Audit,AUDT,,2,3,4,5,6,7,Data audits & compliance
+"CYBR_15, DATA_46",Strategy and architecture,"Governance, risk, and compliance",Quality management,QUMG,,2,3,4,5,6,7,Engineering quality standards
+"DATA_47, SOFT_13",Strategy and architecture,"Governance, risk, and compliance",Qualit assurance,QUAS,,2,3,4,5,6,,Standards & quality systems
+CYBR_17,Strategy and architecture,Advice and guidance,Consultancy,CNSL,,,,4,5,6,7,
+CYBR_18,Strategy and architecture,Advice and guidance,Specialist advice,TECH,,,,4,5,6,,Guding technical teams
+"DATA_36, SOFT_07, DEVO_23",Strategy and architecture,Advice and guidance,Methods and tools,METL,,2,3,4,5,6,,"Agile, CI/CD, DevOps toolchains, data tooling, practices"
+SOFT_37,Change and transformation,Change implementation,Portfolio management,POMG,,,,,5,6,7,
+"CYBR_22, SOFT_39",Change and transformation,Change implementation,Programme management,PGMG,,,,,,6,7,Data pipelines & apps
+"CYBR_23, SOFT_19",Change and transformation,Change implementation,Project management,PRMG,,,,4,5,6,7,"Planning & coordination, scope, time, cost"
+,Change and transformation,Change implementation,"Portfolio, programme and project support",PROF,,2,3,4,5,6,,
+CYBR_24,Change and transformation,Change implementation,Delivery management,DEMG,,,3,4,5,6,,
+"DATA_28, SOFT_23",Change and transformation,Change analysis,Business situation analysis,BUSA,,2,3,4,5,6,,"Translating needs into solution, data requirements"
+"DATA_29, SOFT_24",Change and transformation,Change analysis,Feasibility assessment,FEAS,,2,3,4,5,6,,Data solution feasibility
+"CYBR_05, DATA_30, SOFT_01, DEVO_24",Change and transformation,Change analysis,Requirements definition and management,REQM,,2,3,4,5,6,,"FR & NFR, engineering clarity, translating needs into specs"
+,Change and transformation,Change analysis,Business modelling,BSMO,,2,3,4,5,6,,
+"SOFT_31, DEVO_22",Change and transformation,Change analysis,User acceptance testing,BPTS,,2,3,4,5,6,,User validation
+DATA_34,Change and transformation,Change planning,Business process improvement,BPRE,,2,3,4,5,6,7,Process optimization
+"DATA_35, SOFT_22, DEVO_04",Change and transformation,Change planning,Organisational capability development,OCDV,,,,,5,6,7,"Maturity growth (DevOps, agile)"
+"DATA_37, DEVO_03",Change and transformation,Change planning,Organisation design and implementation,ORDI,,,3,4,5,6,7,Structuring teams & operating models
+"CYBR_25, DATA_42",Change and transformation,Change planning,Organisational change management,CIPM,,2,3,4,5,6,,Change adoption
+"DATA_45, DEVO_12",Change and transformation,Change planning,Job analysis and design,JADN,,,3,4,5,,,Role clarity & skill alignment
+"CYBR_26, DATA_43",Change and transformation,Change planning,Organisational change enablement,OCEN,,,,4,5,6,,Adoption & enablement
+"DATA_18, SOFT_20",Development and implementation,Systems development,Product management,PROD,,2,3,4,5,6,,"Value & road map, product ownership"
+"CYBR_27, DATA_23, SOFT_17, DEVO_08",Development and implementation,Systems development,System development management,DLMG,,,,4,5,6,7,"Owning delivery outcomes, delivery management"
+"CYBR_28, SOFT_18, DEVO_01",Development and implementation,Systems development,Systems and software lifecycle engineering,SLEN,,,3,4,5,6,7,Defines and improve SDLC
+"CYBR_29, DATA_21, SOFT_02, DEVO_27",Development and implementation,Systems development,Systems design,DESN,,2,3,4,5,6,,"High-level and detailed design, system-level design, data system design"
+"CYBR_31, DATA_24, SOFT_03, DEVO_25",Development and implementation,Systems development,Software design,SWDN,,2,3,4,5,6,,"Component-level design, data application design"
+"CYBR_32, CLOU_04",Development and implementation,Systems development,Network design,NTDS,,2,3,4,5,6,,"VPC, routing, security groups"
+"CYBR_30, CLOU_03, DATA_20",Development and implementation,Systems development,Infrastructure design,IFDN,,2,3,4,5,6,,"Data infrastructure, compute, storage, network design"
+CYBR_33,Development and implementation,Systems development,Harware design,HWDE,,2,3,4,5,6,,
+"CYBR_34, DATA_22, SOFT_04, DEVO_14",Development and implementation,Systems development,Programming / software development,PROG,,2,3,4,5,6,,"Writing, testing, maintaining code (core coding skill)"
+"CYBR_35, SOFT_05, DEVO_17",Development and implementation,Systems development,Systems integration and build,SINT,,2,3,4,5,6,,"CI pipelines, integrations"
+"CYBR_37, DATA_25, SOFT_09, DEVO_15",Development and implementation,Systems development,Functional testing,TEST,1,2,3,4,5,6,,"Feature validation | unit, integration, system testing, data process testing"
+"CYBR_38, DATA_26, SOFT_10, DEVO_16",Development and implementation,Systems development,Non-functional testing,NFTS,1,2,3,4,5,6,,
+DATA_27,Development and implementation,Systems development,Process testing,PRTS,1,2,3,4,5,6,,
+,Development and implementation,Systems development,Software configuration,PORT,,2,3,4,5,6,,"Versioning, builds, CI/CD"
+"CYBR_36, SOFT_06",Development and implementation,Systems development,Real-time / embedded systems development,RESD,,2,3,4,5,6,,Time critical system
+SOFT_15,Development and implementation,Systems development,Safety engineering,SFEN,,2,3,4,5,6,,
+SOFT_21,Development and implementation,Systems development,Safety assessment,SFAS,,,,4,5,6,,Safety assurance
+,Development and implementation,Systems development,Radio frequency engineering,RFEN,,2,3,4,5,6,,
+,Development and implementation,Systems development,Animation development,ADEV,,2,3,4,5,6,,
+"CYBR_08, DATA_06",Development and implementation,Data and analytics,Data management,DATM,,2,3,4,5,6,,Data policies & standards
+"DATA_15, SOFT_29",Development and implementation,Data and analytics,Data modelling and design,DTAN,,2,3,4,5,,,
+"DATA_16, SOFT_30",Development and implementation,Data and analytics,Database design,DBDS,,2,3,4,5,,,Schema & normalization
+"CYBR_71, DATA_11",Development and implementation,Data and analytics,Data analytics,DAAN,,2,3,4,5,6,7,"Dasboards, insights, metrics"
+"CYBR_72, DATA_12",Development and implementation,Data and analytics,Data science,DATS,,2,3,4,5,6,,"Modeling, experimentation"
+DATA_13,Development and implementation,Data and analytics,Machine learning,MLNG,,2,3,4,5,6,,"ML models, evaluation"
+"CYBR_73, DATA_14",Development and implementation,Data and analytics,Business intelligence,BINT,,2,3,4,5,,,BI platforms
+"CYBR_74, DATA_17",Development and implementation,Data and analytics,Data engineering,DENG,,2,3,4,5,6,,Data pipelines & storage
+,Development and implementation,Data and analytics,Data visualisation,VISL,,2,3,4,5,,,Visual storytelling
+SOFT_25,Development and implementation,User centred design,User research,URCH,,2,3,4,5,6,,
+,Development and implementation,User centred design,Customer experience,CEXP,,2,3,4,5,6,,
+,Development and implementation,User centred design,Accessibility and inclusion,ACIN,,2,3,4,5,6,,
+SOFT_26,Development and implementation,User centred design,User experience analysis,UNAN,,2,3,4,5,,,
+SOFT_27,Development and implementation,User centred design,User experience design,HCEV,,2,3,4,5,6,,"Usability, interaction design"
+SOFT_32,Development and implementation,User centred design,User experience evaluation,USEV,,2,3,4,5,6,,
+DATA_31,Development and implementation,Content management,Content design and authoring,INCA,1,2,3,4,5,6,,Data content & documentation
+DATA_32,Development and implementation,Content management,Content publishing,ICPM,1,2,3,4,5,6,,
+"CYBR_45, DATA_39, DEVO_09",Development and implementation,Content management,Knowledge management,KNOW,,2,3,4,5,6,7,Documentation & knowledge sharing
+,Development and implementation,Content management,Graphic design,GRDN,1,2,3,4,5,,,
+,Development and implementation,Computational science,Scientic modelling,SCMO,,,,4,5,6,7,
+,Development and implementation,Computational science,Numerical analysis,NUAN,,,,4,5,6,7,
+,Development and implementation,Computational science,High-performance computing,HPCC,,,,4,5,6,7,
+"CYBR_52, CLOU_01",Delivery and operation,Technology management,Technology service management,ITMG,,,,,5,6,7,Cloud service strategy management
+SOFT_16,Delivery and operation,Technology management,Application support,ASUP,,2,3,4,5,,,Post release support
+"CYBR_53, CLOU_05, DEVO_21",Delivery and operation,Technology management,Infrastructure operations,ITOP,1,2,3,4,5,,,"Runtime environments, cloud opeartions, monitoring"
+"CYBR_59, CLOU_06",Delivery and operation,Technology management,System software administration,SYSP,,2,3,4,5,,,"OS, middleware, cloud services"
+CYBR_54,Delivery and operation,Technology management,Network support,NTAS,1,2,3,4,5,,,
+,Delivery and operation,Technology management,Systems installation and removal,HSIN,1,2,3,4,5,,,
+"SOFT_08, DEVO_13",Delivery and operation,Technology management,Configuration management,CFMG,,2,3,4,5,6,,"IaC, config consistency, versioning"
+"CYBR_56, CLOU_09, SOFT_11, DEVO_18",Delivery and operation,Technology management,Release management,RELM,,2,3,4,5,6,,"Controlled releases, safe and repeatable releases, automated deployment, cloud release pipelines"
+"CYBR_57, CLOU_10, SOFT_12, DEVO_19",Delivery and operation,Technology management,Deployment,DEPL,,2,3,4,5,6,,
+"CYBR_58, CLOU_08, DATA_63",Delivery and operation,Technology management,Storage management,STMG,,2,3,4,5,6,,"Storage & data lifecycle, object/block storage, backups"
+,Delivery and operation,Technology management,Facilities management,DCMA,,2,3,4,5,6,,
+,Delivery and operation,Service management,Service level management,SLMO,,2,3,4,5,6,7,
+,Delivery and operation,Service management,Service catalogue management,SCMG,,2,3,4,5,,,
+DATA_58,Delivery and operation,Service management,Availability management,AVMT,,,3,4,5,6,,Data platform uptime
+"CYBR_62, CLOU_07, DATA_59",Delivery and operation,Service management,Continuity management,COPL,,2,3,4,5,6,,"Disaster recovery, DR, backups, resilience"
+DATA_64,Delivery and operation,Service management,Capacity management,CPMG,,2,3,4,5,6,,Data platform scaling
+"CYBR_63, DATA_57, SOFT_35, DEVO_29",Delivery and operation,Service management,Incident management,USUP,1,2,3,4,5,6,,Live incident response
+"CYBR_64, DATA_60, SOFT_36, DEVO_28",Delivery and operation,Service management,Problem management,PBMG,,2,3,4,5,,,Root cause analysis
+"CYBR_65, SOFT_34, DEVO_32",Delivery and operation,Service management,Change control,CHMG,,2,3,4,5,6,,Safe system evolution
+CYBR_66,Delivery and operation,Service management,Asset management,ASMG,,2,3,4,5,6,,
+SOFT_33,Delivery and operation,Service management,Service acceptance,SEAC,,,3,4,5,6,,
+"CYBR_61, DATA_51, DEVO_34",Delivery and operation,Security services,Identity and access mangagement,IAMT,1,2,3,4,5,6,,Access control
+"CYBR_60, DATA_50, DEVO_35",Delivery and operation,Security services,Security operations,SCAD,1,2,3,4,5,6,,Monitoring & response
+"CYBR_67, DATA_52, DEVO_30",Delivery and operation,Security services,Vulnerability assessment,VUAS,,2,3,4,5,,,Security posture
+CYBR_68,Delivery and operation,Security services,Digital forensics,DGFS,,2,3,4,5,6,,
+CYBR_69,Delivery and operation,Security services,Cybercrime investigation,CRIM,,2,3,4,5,6,,
+CYBR_70,Delivery and operation,Security services,Offensive cyber operations,OCOP,,2,3,4,5,6,,
+"CYBR_39, DEVO_31",Delivery and operation,Security services,Penetration testing,PENT,,2,3,4,5,6,,Security validation
+DATA_55,Delivery and operation,Data and records operations,Record management,RMGT,1,2,3,4,5,,,
+DATA_61,Delivery and operation,Data and records operations,Analytical classificaiton and coding,ANCC,,2,3,4,5,6,,Classification
+"CYBR_55, DATA_62, DEVO_20",Delivery and operation,Data and records operations,Database administration,DBAD,,2,3,4,5,,,DB operations
+"CYBR_40, DATA_44, SOFT_43, DEVO_10",People and skills,People management,Performance management,PEMT,,,,4,5,6,,Team & individual performance
+"CYBR_41, DEVO_11",People and skills,People management,Employee experience,EEXP,,,,4,5,6,,Dev productivity & engagement
+,People and skills,People management,Organisation facilitation,OFCL,,,,4,5,6,,
+"CYBR_42, SOFT_44",People and skills,People management,Professional development,PDSV,,,,4,5,6,,
+CYBR_43,People and skills,People management,Workforce planning,WFPL,,,,4,5,6,,
+"CYBR_44, SOFT_42",People and skills,People management,Resourcing,RESC,,2,3,4,5,6,,
+CYBR_47,People and skills,Skills management,Learning and development management,ETMG,,2,3,4,5,6,7,
+CYBR_46,People and skills,Skills management,Learning design and development,TMCR,,2,3,4,5,,,
+"CYBR_48, DATA_40",People and skills,Skills management,Learning delivery,ETDL,,2,3,4,5,,,Training & learning programs
+"DATA_38, DEVO_06",People and skills,Skills management,Competency assessment,LEDA,,2,3,4,5,6,,Skills evaluation & development
+CYBR_51,People and skills,Skills management,Certification scheme operation,CSOP,,2,3,4,5,6,,
+CYBR_49,People and skills,Skills management,Teaching,TEAC,,2,3,4,5,6,7,
+CYBR_50,People and skills,Skills management,Subject formation,SUBF,,,,4,5,6,7,
+CYBR_75,Relationships and engagement,Stakeholder management,Sourcing,SORC,,2,3,4,5,6,7,
+"CYBR_76, SOFT_46",Relationships and engagement,Stakeholder management,Supplier management,SUPP,,2,3,4,5,6,7,
+"CYBR_77, SOFT_47",Relationships and engagement,Stakeholder management,Contract management,ITCM,,2,3,4,5,6,7,
+"CYBR_04, DATA_08, SOFT_41, DEVO_05",Relationships and engagement,Stakeholder management,Stakeholder relationship management,RLMT,,,,4,5,6,7,Cross-team & business alignment
+DATA_56,Relationships and engagement,Stakeholder management,Customer service support,CSMG,1,2,3,4,5,6,,
+,Relationships and engagement,Stakeholder management,Business administration,ADMN,1,2,3,4,5,6,,
+,Relationships and engagement,Sales and bid management,Bid/proposal management,BIDM,,,3,4,5,6,,
+,Relationships and engagement,Sales and bid management,Selling,SALE,,,3,4,5,6,,
+,Relationships and engagement,Sales and bid management,Sales support,SSUP,1,2,3,4,5,6,,
+,Relationships and engagement,Marketing,Marketing management,MKTG,,,,4,5,6,7,
+,Relationships and engagement,Marketing,Market research,MRCH,,,3,4,5,6,,
+,Relationships and engagement,Marketing,Brand management,BRMG,,,,4,5,6,,
+,Relationships and engagement,Marketing,Customer engagement and loyalty,CELO,,,3,4,5,6,,
+,Relationships and engagement,Marketing,Marketing campaign management,MKCM,,,3,4,5,,,
+,Relationships and engagement,Marketing,Digital marketing,DIGM,,2,3,4,5,,,

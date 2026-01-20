@@ -1,0 +1,148 @@
+Code,Category,Subcategory,Skill,tags
+BPTS,Change and transformation,Change analysis,User acceptance testing,"DEVO, SOFT"
+BSMO,Change and transformation,Change analysis,Business modelling,
+BUSA,Change and transformation,Change analysis,Business situation analysis,"DATA, SOFT"
+FEAS,Change and transformation,Change analysis,Feasibility assessment,"DATA, SOFT"
+REQM,Change and transformation,Change analysis,Requirements definition and management,"CYBR, DATA, DEVO, SOFT"
+DEMG,Change and transformation,Change implementation,Delivery management,CYBR
+PGMG,Change and transformation,Change implementation,Programme management,"CYBR, SOFT"
+POMG,Change and transformation,Change implementation,Portfolio management,SOFT
+PRMG,Change and transformation,Change implementation,Project management,"CYBR, SOFT"
+PROF,Change and transformation,Change implementation,"Portfolio, programme and project support",
+BPRE,Change and transformation,Change planning,Business process improvement,DATA
+CIPM,Change and transformation,Change planning,Organisational change management,"CYBR, DATA"
+JADN,Change and transformation,Change planning,Job analysis and design,"DATA, DEVO"
+OCDV,Change and transformation,Change planning,Organisational capability development,"DATA, DEVO, SOFT"
+OCEN,Change and transformation,Change planning,Organisational change enablement,"CYBR, DATA"
+ORDI,Change and transformation,Change planning,Organisation design and implementation,"DATA, DEVO"
+ANCC,Delivery and operation,Data and records operations,Analytical classificaiton and coding,DATA
+DBAD,Delivery and operation,Data and records operations,Database administration,"CYBR, DATA, DEVO"
+RMGT,Delivery and operation,Data and records operations,Record management,DATA
+CRIM,Delivery and operation,Security services,Cybercrime investigation,CYBR
+DGFS,Delivery and operation,Security services,Digital forensics,CYBR
+IAMT,Delivery and operation,Security services,Identity and access mangagement,"CYBR, DATA, DEVO"
+OCOP,Delivery and operation,Security services,Offensive cyber operations,CYBR
+PENT,Delivery and operation,Security services,Penetration testing,"CYBR, DEVO"
+SCAD,Delivery and operation,Security services,Security operations,"CYBR, DATA, DEVO"
+VUAS,Delivery and operation,Security services,Vulnerability assessment,"CYBR, DATA, DEVO"
+ASMG,Delivery and operation,Service management,Asset management,CYBR
+AVMT,Delivery and operation,Service management,Availability management,DATA
+CHMG,Delivery and operation,Service management,Change control,"CYBR, DEVO, SOFT"
+COPL,Delivery and operation,Service management,Continuity management,"CLOU, CYBR, DATA"
+CPMG,Delivery and operation,Service management,Capacity management,DATA
+PBMG,Delivery and operation,Service management,Problem management,"CYBR, DATA, DEVO, SOFT"
+SCMG,Delivery and operation,Service management,Service catalogue management,
+SEAC,Delivery and operation,Service management,Service acceptance,SOFT
+SLMO,Delivery and operation,Service management,Service level management,
+USUP,Delivery and operation,Service management,Incident management,"CYBR, DATA, DEVO, SOFT"
+ASUP,Delivery and operation,Technology management,Application support,SOFT
+CFMG,Delivery and operation,Technology management,Configuration management,"DEVO, SOFT"
+DCMA,Delivery and operation,Technology management,Facilities management,
+DEPL,Delivery and operation,Technology management,Deployment,"CLOU, CYBR, DEVO, SOFT"
+HSIN,Delivery and operation,Technology management,Systems installation and removal,
+ITMG,Delivery and operation,Technology management,Technology service management,"CLOU, CYBR"
+ITOP,Delivery and operation,Technology management,Infrastructure operations,"CLOU, CYBR, DEVO"
+NTAS,Delivery and operation,Technology management,Network support,CYBR
+RELM,Delivery and operation,Technology management,Release management,"CLOU, CYBR, DEVO, SOFT"
+STMG,Delivery and operation,Technology management,Storage management,"CLOU, CYBR, DATA"
+SYSP,Delivery and operation,Technology management,System software administration,"CLOU, CYBR"
+HPCC,Development and implementation,Computational science,High-performance computing,
+NUAN,Development and implementation,Computational science,Numerical analysis,
+SCMO,Development and implementation,Computational science,Scientic modelling,
+GRDN,Development and implementation,Content management,Graphic design,
+ICPM,Development and implementation,Content management,Content publishing,DATA
+INCA,Development and implementation,Content management,Content design and authoring,DATA
+KNOW,Development and implementation,Content management,Knowledge management,"CYBR, DATA, DEVO"
+BINT,Development and implementation,Data and analytics,Business intelligence,"CYBR, DATA"
+DAAN,Development and implementation,Data and analytics,Data analytics,"CYBR, DATA"
+DATM,Development and implementation,Data and analytics,Data management,"CYBR, DATA"
+DATS,Development and implementation,Data and analytics,Data science,"CYBR, DATA"
+DBDS,Development and implementation,Data and analytics,Database design,"DATA, SOFT"
+DENG,Development and implementation,Data and analytics,Data engineering,"CYBR, DATA"
+DTAN,Development and implementation,Data and analytics,Data modelling and design,"DATA, SOFT"
+MLNG,Development and implementation,Data and analytics,Machine learning,DATA
+VISL,Development and implementation,Data and analytics,Data visualisation,
+ADEV,Development and implementation,Systems development,Animation development,
+DESN,Development and implementation,Systems development,Systems design,"CYBR, DATA, DEVO, SOFT"
+DLMG,Development and implementation,Systems development,System development management,"CYBR, DATA, DEVO, SOFT"
+HWDE,Development and implementation,Systems development,Harware design,CYBR
+IFDN,Development and implementation,Systems development,Infrastructure design,"CLOU, CYBR, DATA"
+NFTS,Development and implementation,Systems development,Non-functional testing,"CYBR, DATA, DEVO, SOFT"
+NTDS,Development and implementation,Systems development,Network design,"CLOU, CYBR"
+PORT,Development and implementation,Systems development,Software configuration,
+PROD,Development and implementation,Systems development,Product management,"DATA, SOFT"
+PROG,Development and implementation,Systems development,Programming / software development,"CYBR, DATA, DEVO, SOFT"
+PRTS,Development and implementation,Systems development,Process testing,DATA
+RESD,Development and implementation,Systems development,Real-time / embedded systems development,"CYBR, SOFT"
+RFEN,Development and implementation,Systems development,Radio frequency engineering,
+SFAS,Development and implementation,Systems development,Safety assessment,SOFT
+SFEN,Development and implementation,Systems development,Safety engineering,SOFT
+SINT,Development and implementation,Systems development,Systems integration and build,"CYBR, DEVO, SOFT"
+SLEN,Development and implementation,Systems development,Systems and software lifecycle engineering,"CYBR, DEVO, SOFT"
+SWDN,Development and implementation,Systems development,Software design,"CYBR, DATA, DEVO, SOFT"
+TEST,Development and implementation,Systems development,Functional testing,"CYBR, DATA, DEVO, SOFT"
+ACIN,Development and implementation,User centred design,Accessibility and inclusion,
+CEXP,Development and implementation,User centred design,Customer experience,
+HCEV,Development and implementation,User centred design,User experience design,SOFT
+UNAN,Development and implementation,User centred design,User experience analysis,SOFT
+URCH,Development and implementation,User centred design,User research,SOFT
+USEV,Development and implementation,User centred design,User experience evaluation,SOFT
+EEXP,People and skills,People management,Employee experience,"CYBR, DEVO"
+OFCL,People and skills,People management,Organisation facilitation,
+PDSV,People and skills,People management,Professional development,"CYBR, SOFT"
+PEMT,People and skills,People management,Performance management,"CYBR, DATA, DEVO, SOFT"
+RESC,People and skills,People management,Resourcing,"CYBR, SOFT"
+WFPL,People and skills,People management,Workforce planning,CYBR
+CSOP,People and skills,Skills management,Certification scheme operation,CYBR
+ETDL,People and skills,Skills management,Learning delivery,"CYBR, DATA"
+ETMG,People and skills,Skills management,Learning and development management,CYBR
+LEDA,People and skills,Skills management,Competency assessment,"DATA, DEVO"
+SUBF,People and skills,Skills management,Subject formation,CYBR
+TEAC,People and skills,Skills management,Teaching,CYBR
+TMCR,People and skills,Skills management,Learning design and development,CYBR
+BRMG,Relationships and engagement,Marketing,Brand management,
+CELO,Relationships and engagement,Marketing,Customer engagement and loyalty,
+DIGM,Relationships and engagement,Marketing,Digital marketing,
+MKCM,Relationships and engagement,Marketing,Marketing campaign management,
+MKTG,Relationships and engagement,Marketing,Marketing management,
+MRCH,Relationships and engagement,Marketing,Market research,
+BIDM,Relationships and engagement,Sales and bid management,Bid/proposal management,
+SALE,Relationships and engagement,Sales and bid management,Selling,
+SSUP,Relationships and engagement,Sales and bid management,Sales support,
+ADMN,Relationships and engagement,Stakeholder management,Business administration,
+CSMG,Relationships and engagement,Stakeholder management,Customer service support,DATA
+ITCM,Relationships and engagement,Stakeholder management,Contract management,"CYBR, SOFT"
+RLMT,Relationships and engagement,Stakeholder management,Stakeholder relationship management,"CYBR, DATA, DEVO, SOFT"
+SORC,Relationships and engagement,Stakeholder management,Sourcing,CYBR
+SUPP,Relationships and engagement,Stakeholder management,Supplier management,"CYBR, SOFT"
+CNSL,Strategy and architecture,Advice and guidance,Consultancy,CYBR
+METL,Strategy and architecture,Advice and guidance,Methods and tools,"DATA, DEVO, SOFT"
+TECH,Strategy and architecture,Advice and guidance,Specialist advice,CYBR
+BENM,Strategy and architecture,Financial and value management,Benefits management,SOFT
+BUDF,Strategy and architecture,Financial and value management,Budgeting and forecasting,
+COMG,Strategy and architecture,Financial and value management,Cost management,CLOU
+DEMM,Strategy and architecture,Financial and value management,Demang management,CYBR
+FIAN,Strategy and architecture,Financial and value management,Financial analysis,
+FMIT,Strategy and architecture,Financial and value management,Financial management,SOFT
+INVA,Strategy and architecture,Financial and value management,Investment appraisal,SOFT
+MEAS,Strategy and architecture,Financial and value management,Measurement,"CYBR, DATA, DEVO, SOFT"
+AIDE,Strategy and architecture,"Governance, risk, and compliance",Artificial intelligence and data ethics,DATA
+AUDT,Strategy and architecture,"Governance, risk, and compliance",Audit,"CYBR, DATA"
+BURM,Strategy and architecture,"Governance, risk, and compliance",Risk management,"CYBR, DATA, DEVO"
+GOVN,Strategy and architecture,"Governance, risk, and compliance",Governance,"CYBR, DATA, SOFT"
+QUAS,Strategy and architecture,"Governance, risk, and compliance",Qualit assurance,"DATA, SOFT"
+QUMG,Strategy and architecture,"Governance, risk, and compliance",Quality management,"CYBR, DATA"
+INAS,Strategy and architecture,Security and privacy,Information assurance,"CYBR, DATA"
+PEDP,Strategy and architecture,Security and privacy,Information and data compliance,"CYBR, DATA"
+SCTY,Strategy and architecture,Security and privacy,Information security,"CYBR, DATA, DEVO"
+THIN,Strategy and architecture,Security and privacy,Threat intelligence,CYBR
+VURE,Strategy and architecture,Security and privacy,Vulnerability research,CYBR
+ARCH,Strategy and architecture,Strategy and planning,Solution architecture,"CLOU, CYBR, DATA, DEVO, SOFT"
+EMRG,Strategy and architecture,Strategy and planning,Emerging technology monitoring,
+INOV,Strategy and architecture,Strategy and planning,Innovation management,DATA
+IRMG,Strategy and architecture,Strategy and planning,Information management,"CYBR, DATA"
+ISCO,Strategy and architecture,Strategy and planning,Information system coordination,DATA
+ITSP,Strategy and architecture,Strategy and planning,Strategic planning,"CYBR, DATA"
+RSCH,Strategy and architecture,Strategy and planning,Formal research,CYBR
+STPL,Strategy and architecture,Strategy and planning,Enterprise and business architecture,"CYBR, DATA"
+SUST,Strategy and architecture,Strategy and planning,Sustainability,
