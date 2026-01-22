@@ -1,0 +1,100 @@
+module_id,module_name,tag,sfia_level
+DATA_L2_01,Data Literacy Fundamentals,DATA,2
+DATA_L2_02,Introduction to Programming for Data,DATA,2
+DATA_L2_03,Basic Statistics for Data Analysis,DATA,2
+DATA_L2_04,Data Types Formats and Sources,DATA,2
+DATA_L2_05,Spreadsheet and Simple Data Analysis,DATA,2
+DATA_L3_01,Data Analysis with Python or R,DATA,3
+DATA_L3_02,SQL for Data Analysis,DATA,3
+DATA_L3_03,Data Cleaning and Preprocessing,DATA,3
+DATA_L3_04,Exploratory Data Analysis,DATA,3
+DATA_L3_05,Introductory Machine Learning Concepts,DATA,3
+DATA_L4_01,Applied Machine Learning Models,DATA,4
+DATA_L4_02,Feature Engineering Techniques,DATA,4
+DATA_L4_03,Data Engineering Pipelines Batch,DATA,4
+DATA_L4_04,Data Visualization and Storytelling,DATA,4
+DATA_L4_05,Model Evaluation and Validation,DATA,4
+DATA_L5_01,Scalable Data Pipelines and ETL,DATA,5
+DATA_L5_02,Advanced Machine Learning Algorithms,DATA,5
+DATA_L5_03,Model Deployment and Monitoring,DATA,5
+DATA_L5_04,Data Governance and Ethics,DATA,5
+DATA_L5_05,Analytics for Business Decision Making,DATA,5
+DATA_L6_01,Data Platform Architecture,DATA,6
+DATA_L6_02,AI Strategy and Roadmap Design,DATA,6
+DATA_L6_03,Large Scale Data Systems Optimization,DATA,6
+DATA_L6_04,Responsible AI and Risk Management,DATA,6
+DATA_L7_01,Enterprise Data and AI Strategy,DATA,7
+DATA_L7_02,Organization Wide Data Transformation,DATA,7
+DATA_L7_03,AI Governance and Policy Design,DATA,7
+DEVO_L2_01,Introduction to DevOps Concepts,DEVO,2
+DEVO_L2_02,Version Control Basics,DEVO,2
+DEVO_L2_03,Command Line Fundamentals,DEVO,2
+DEVO_L3_01,CICD Fundamentals,DEVO,3
+DEVO_L3_02,Infrastructure Basics,DEVO,3
+DEVO_L3_03,Container Fundamentals,DEVO,3
+DEVO_L3_04,Monitoring and Logging Basics,DEVO,3
+DEVO_L4_01,CICD Pipeline Design,DEVO,4
+DEVO_L4_02,Infrastructure as Code,DEVO,4
+DEVO_L4_03,Container Orchestration Basics,DEVO,4
+DEVO_L4_04,DevOps Security Foundations,DEVO,4
+DEVO_L5_01,Advanced CICD Automation,DEVO,5
+DEVO_L5_02,Cloud Native DevOps Practices,DEVO,5
+DEVO_L5_03,Reliability Engineering Basics,DEVO,5
+DEVO_L5_04,DevSecOps Implementation,DEVO,5
+DEVO_L6_01,DevOps Architecture Design,DEVO,6
+DEVO_L6_02,Platform Engineering,DEVO,6
+DEVO_L6_03,Large Scale Reliability Strategy,DEVO,6
+DEVO_L7_01,Enterprise DevOps Transformation,DEVO,7
+DEVO_L7_02,DevOps Governance and Standards,DEVO,7
+SOFT_L2_01,Programming Fundamentals,SOFT,2
+SOFT_L2_02,Basic Algorithms and Logic,SOFT,2
+SOFT_L2_03,Introduction to Software Development,SOFT,2
+SOFT_L3_01,Object Oriented Programming,SOFT,3
+SOFT_L3_02,Data Structures and Algorithms,SOFT,3
+SOFT_L3_03,Software Testing Fundamentals,SOFT,3
+SOFT_L3_04,Version Control and Collaboration,SOFT,3
+SOFT_L4_01,Software Design Principles,SOFT,4
+SOFT_L4_02,API Design and Integration,SOFT,4
+SOFT_L4_03,Secure Coding Practices,SOFT,4
+SOFT_L4_04,System Design Fundamentals,SOFT,4
+SOFT_L5_01,Software Architecture Patterns,SOFT,5
+SOFT_L5_02,Performance Optimization,SOFT,5
+SOFT_L5_03,Quality Engineering and Test Strategy,SOFT,5
+SOFT_L5_04,Technical Leadership Fundamentals,SOFT,5
+SOFT_L6_01,Large Scale System Architecture,SOFT,6
+SOFT_L6_02,Software Modernization Strategy,SOFT,6
+SOFT_L6_03,Engineering Best Practices Governance,SOFT,6
+SOFT_L7_01,Enterprise Software Strategy,SOFT,7
+SOFT_L7_02,Technology Vision and Innovation Leadership,SOFT,7
+CYBR_L2_01,Cybersecurity Fundamentals,CYBR,2
+CYBR_L2_02,Basic Threat Awareness,CYBR,2
+CYBR_L2_03,Security Hygiene and Best Practices,CYBR,2
+CYBR_L3_01,Network and Application Security,CYBR,3
+CYBR_L3_02,Identity and Access Management Basics,CYBR,3
+CYBR_L3_03,Vulnerability Assessment Fundamentals,CYBR,3
+CYBR_L4_01,Security Architecture Fundamentals,CYBR,4
+CYBR_L4_02,Incident Detection and Response,CYBR,4
+CYBR_L4_03,Risk Assessment and Threat Modeling,CYBR,4
+CYBR_L5_01,Security Operations Management,CYBR,5
+CYBR_L5_02,Penetration Testing and Advanced Defense,CYBR,5
+CYBR_L5_03,Governance Risk and Compliance,CYBR,5
+CYBR_L6_01,Enterprise Security Architecture,CYBR,6
+CYBR_L6_02,Cyber Risk Strategy,CYBR,6
+CYBR_L6_03,Security Program Management,CYBR,6
+CYBR_L7_01,Organizational Cybersecurity Strategy,CYBR,7
+CYBR_L7_02,Industry and National Security Policy,CYBR,7
+CLOU_L2_01,Cloud Computing Fundamentals,CLOU,2
+CLOU_L2_02,Cloud Service Models,CLOU,2
+CLOU_L3_01,Cloud Resource Management,CLOU,3
+CLOU_L3_02,Cloud Networking Basics,CLOU,3
+CLOU_L3_03,Cloud Security Fundamentals,CLOU,3
+CLOU_L4_01,Cloud Architecture Design,CLOU,4
+CLOU_L4_02,Cost Optimization and Performance,CLOU,4
+CLOU_L4_03,Multi Cloud and Hybrid Concepts,CLOU,4
+CLOU_L5_01,Cloud Migration Strategy,CLOU,5
+CLOU_L5_02,Cloud Governance and Compliance,CLOU,5
+CLOU_L5_03,Cloud Native Application Design,CLOU,5
+CLOU_L6_01,Enterprise Cloud Architecture,CLOU,6
+CLOU_L6_02,Cloud Operating Models,CLOU,6
+CLOU_L7_01,Digital Transformation Strategy,CLOU,7
+CLOU_L7_02,Organization Wide Cloud Adoption,CLOU,7
