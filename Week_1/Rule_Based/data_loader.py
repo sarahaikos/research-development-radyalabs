@@ -29,12 +29,6 @@ def load_modules_from_csv(csv_path: str) -> List[Module]:
 
 
 def load_module_mappings(csv_path: str) -> Dict[str, List[tuple]]:
-    """
-    Load module-SFIA skill mappings from CSV
-    
-    Expected CSV format:
-    module_id,sfia_skill_code,required_level,achieved_level
-    """
     mappings = {}
     
     with open(csv_path, 'r', encoding='utf-8') as f:
@@ -54,8 +48,6 @@ def load_module_mappings(csv_path: str) -> Dict[str, List[tuple]]:
 
 
 def estimate_module_hours(sfia_level: int) -> float:
-    """Estimate module duration based on SFIA level"""
-    # Rough estimates: higher levels = more hours
     level_hours = {
         1: 2.0,
         2: 4.0,
@@ -69,45 +61,29 @@ def estimate_module_hours(sfia_level: int) -> float:
 
 
 def populate_module_data(modules: List[Module], mappings: Dict[str, List[tuple]]):
-    """
-    Populate module prerequisites and skills_covered from mappings
-    """
     for module in modules:
         if module.module_id in mappings:
             skills = mappings[module.module_id]
             module.skills_covered = skills
             
-            # Set prerequisites: need skills at required_level - 1
+            # set prerequisites: need skills at required_level - 1
             prerequisites = []
             for skill_code, required_level, _ in skills:
                 if required_level > 1:
                     prerequisites.append((skill_code, required_level - 1))
-            
-            # Remove duplicates
             module.prerequisites = list(set(prerequisites))
 
 
 def generate_default_rules(modules: List[Module], mappings: Dict[str, List[tuple]]) -> List[Rule]:
-    """
-    Generate default recommendation rules based on skill gaps and progression
-    
-    Args:
-        modules: List of modules
-        mappings: Module-skill mappings
-        
-    Returns:
-        List of Rule objects
-    """
     rules = []
     
-    # Rule 1: Recommend modules for skill gaps (low mastery)
+    # rule 1: recommend modules for skill gaps (low mastery)
     rule_id = 1
     for module in modules:
         if not module.skills_covered:
-            continue
-        
-        # Create a rule that recommends this module when there's a skill gap
-        for skill_code, required_level, achieved_level in module.skills_covered[:3]:  # Top 3 skills
+            continue  
+        # create a rule that recommends this module when there's a skill gap
+        for skill_code, required_level, achieved_level in module.skills_covered[:3]:
             rule = Rule(
                 rule_id=f'gap_{module.module_id}_{skill_code}_{required_level}',
                 name=f'Skill Gap: {skill_code} Level {required_level}',
@@ -125,12 +101,11 @@ def generate_default_rules(modules: List[Module], mappings: Dict[str, List[tuple
             rules.append(rule)
             rule_id += 1
     
-    # Rule 2: Recommend next level modules when current level is mastered
+    # eule 2: recommend next level modules when current level is mastered
     for module in modules:
         if not module.skills_covered:
             continue
-        
-        # Check if this is a progression module (next level)
+        # check if this is a progression module (next level)
         for skill_code, required_level, achieved_level in module.skills_covered[:2]:
             if required_level > 1:
                 rule = Rule(
@@ -154,7 +129,7 @@ def generate_default_rules(modules: List[Module], mappings: Dict[str, List[tuple
                 rules.append(rule)
                 rule_id += 1
     
-    # Rule 3: Recommend modules based on activity engagement
+    # rule 3: recommend modules based on activity engagement
     for module in modules:
         if module.tag in ['DATA', 'SOFT', 'DEVO']:
             rule = Rule(
@@ -173,14 +148,13 @@ def generate_default_rules(modules: List[Module], mappings: Dict[str, List[tuple
             rules.append(rule)
             rule_id += 1
     
-    # Rule 4: Recommend modules that build on completed modules
+    # rule 4: recommend modules that build on completed modules
     for module in modules:
         if not module.prerequisites:
             continue
-        
-        # Create rule that recommends this module if prerequisites are met
+        # create rule that recommends this module if prerequisites are met
         prereq_conditions = {}
-        for skill_code, min_level in module.prerequisites[:2]:  # Top 2 prerequisites
+        for skill_code, min_level in module.prerequisites[:2]:
             prereq_conditions[f'prereq_{skill_code}_{min_level}'] = {
                 'skill': skill_code,
                 'level': min_level,
@@ -210,29 +184,13 @@ def generate_default_rules(modules: List[Module], mappings: Dict[str, List[tuple
 
 def create_sample_learner(learner_id: str, skill_codes: List[str], 
                          n_attempts_per_skill: int = 3) -> 'Learner':
-    """
-    Create a sample learner with assessment attempts and activities
-    
-    Args:
-        learner_id: Unique learner identifier
-        skill_codes: List of SFIA skill codes to generate data for
-        n_attempts_per_skill: Number of assessment attempts per skill-level
-        
-    Returns:
-        Learner object with sample data
-    """
     from module_recommendation_engine import Learner
-    
     learner = Learner(learner_id=learner_id)
-    
-    # Generate assessment attempts
     base_time = datetime.now() - timedelta(days=90)
     
     for skill_code in skill_codes:
-        for level in range(1, 6):  # Levels 1-5
-            # Generate multiple attempts with improving scores
+        for level in range(1, 6):
             for attempt_num in range(1, n_attempts_per_skill + 1):
-                # Simulate improvement over attempts
                 base_score = 40 + (level - 1) * 10
                 improvement = (attempt_num - 1) * 8
                 score = min(95, base_score + improvement + random.randint(-5, 5))
@@ -249,13 +207,12 @@ def create_sample_learner(learner_id: str, skill_codes: List[str],
                 )
                 learner.assessment_attempts.append(attempt)
     
-    # Generate learning activities
     activity_types = ['video', 'quiz', 'exercise', 'project', 'reading']
     
-    for _ in range(50):  # 50 activities
+    for _ in range(50): 
         activity = LearningActivity(
             activity_type=random.choice(activity_types),
-            module_id=None,  # Could be populated
+            module_id=None,
             skill_code=random.choice(skill_codes) if skill_codes else None,
             duration_minutes=random.uniform(10, 120),
             timestamp=base_time + timedelta(
@@ -265,35 +222,17 @@ def create_sample_learner(learner_id: str, skill_codes: List[str],
             completion_rate=random.uniform(0.5, 1.0)
         )
         learner.learning_activities.append(activity)
-    
-    # Set available time
-    learner.available_time_hours = random.uniform(5, 20)
-    
-    # Mark some modules as completed
-    # This would typically come from actual data
-    
+    learner.available_time_hours = random.uniform(5, 20)    
     return learner
 
 
 def load_learner_from_csv(learner_id: str, assessments_csv: str, 
                          activities_csv: str, profile_csv: str = None) -> 'Learner':
-    """
-    Load learner data from CSV files
-    
-    Args:
-        learner_id: Learner identifier to load
-        assessments_csv: Path to assessment attempts CSV
-        activities_csv: Path to learning activities CSV
-        profile_csv: Optional path to learner profile CSV (available_time, completed_modules)
-        
-    Returns:
-        Learner object with loaded data
-    """
     from module_recommendation_engine import Learner, AssessmentAttempt, LearningActivity
     
     learner = Learner(learner_id=learner_id)
     
-    # Load assessment attempts
+    # assessment attempts
     with open(assessments_csv, 'r', encoding='utf-8') as f:
         reader = csv.DictReader(f)
         for row in reader:
@@ -307,7 +246,7 @@ def load_learner_from_csv(learner_id: str, assessments_csv: str,
                 )
                 learner.assessment_attempts.append(attempt)
     
-    # Load learning activities
+    # learning activities
     with open(activities_csv, 'r', encoding='utf-8') as f:
         reader = csv.DictReader(f)
         for row in reader:
@@ -322,7 +261,7 @@ def load_learner_from_csv(learner_id: str, assessments_csv: str,
                 )
                 learner.learning_activities.append(activity)
     
-    # Load profile if provided
+    # profile if provided
     if profile_csv and os.path.exists(profile_csv):
         with open(profile_csv, 'r', encoding='utf-8') as f:
             reader = csv.DictReader(f)
@@ -334,4 +273,3 @@ def load_learner_from_csv(learner_id: str, assessments_csv: str,
                         learner.completed_modules = set(completed.split(','))
     
     return learner
-
