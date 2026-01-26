@@ -1,0 +1,42 @@
+Tags,Subcategory,Sub-area,,Skill,Code,Levels,,,,,,,What it covers
+"SOFTWARE, ARCH",Systems development,Design and architecture,System architecture and design,Systems design,DESN,,2,3,4,5,6,,"Defining overall system structure, components, interfaces, and constraints to meet business and technical requirements"
+SOFTWARE,Systems development,Design and architecture,Application design,Software design,SWDN,,2,3,4,5,6,,"Designing software components, modules, data structures, and interactions before implementation"
+"INFRA, NETWORK",Systems development,Design and architecture,Network architecture,Network design,NTDS,,2,3,4,5,6,,"Designing network topologies, protocols, capacity, and connectivity to support system requirements"
+"INFRA, CLOUD",Systems development,Design and architecture,Infrastructure architecture,Infrastructure design,IFDN,,2,3,4,5,6,,"Designing compute, storage, and platform infrastructure (on-prem or cloud)"
+"EMBEDDED, HARDWARE",Systems development,Design and architecture,Hardware engineering,Harware design,HWDE,,2,3,4,5,6,,"Designing physical hardware components and systems, including boards, chips, and devices"
+"EMBEDDED, HARDWARE",Systems development,Design and architecture,Radio frequency engineering,Radio frequency engineering,RFEN,,2,3,4,5,6,,"Design and optimisation of RF systems, antennas, and wireless communication components"
+SOFTWARE,Systems development,Development and build,Software implementation,Programming / software development,PROG,,2,3,4,5,6,,"Writing, testing, and maintaining application code using appropriate languages and frameworks"
+"SOFTWARE, INFRA",Systems development,Development and build,System integration,Systems integration and build,SINT,,2,3,4,5,6,,"Integrating hardware, software, and subsystems into a functioning whole and managing builds"
+"SOFTWARE, DEVOPS",Systems development,Development and build,Configuration and release,Software configuration,PORT,,2,3,4,5,6,,"Managing software versions, configurations, environments, and deployment readiness"
+EMBEDDED,Systems development,Development and build,Embedded development,Real-time / embedded systems development,RESD,,2,3,4,5,6,,Developing time-critical and resource-constrained systems such as IoT and control systems
+"UIUX, MEDIA",Systems development,Development and build,Interactive and visual development,Animation development,ADEV,,2,3,4,5,6,,"Developing animations and interactive visual components for applications, games, or simulations"
+"SOFTWARE, QA",Systems development,Testing and quality assurance,Functional QA,Functional testing,TEST,1,2,3,4,5,6,,Verifying that system functions behave as specified according to requirements
+"SOFTWARE, QA",Systems development,Testing and quality assurance,Quality attributes testing,Non-functional testing,NFTS,1,2,3,4,5,6,,"Testing performance, security, usability, scalability, and reliability"
+"SOFTWARE, QA",Systems development,Testing and quality assurance,Process & compliance QA,Process testing,PRTS,1,2,3,4,5,6,,Validating development and operational processes against standards and regulations
+"SOFTWARE, MANAGEMENT",Systems development,"Lifecycle, safety, and governance",Lifecycle management,Systems and software lifecycle engineering,SLEN,,,3,4,5,6,7,"Applying lifecycle models (e.g. Agile, DevOps, V-model) across development and deployment"
+MANAGEMENT,Systems development,"Lifecycle, safety, and governance",Development management,System development management,DLMG,,,,4,5,6,7,"Planning, monitoring, and controlling system development activities and resources"
+MANAGEMENT,Systems development,"Lifecycle, safety, and governance",Product delivery,Product management,PROD,,2,3,4,5,6,,"Managing product vision, roadmap, prioritisation, and value delivery"
+"SAFETY, EMBEDDED",Systems development,"Lifecycle, safety, and governance",System safety design,Safety engineering,SFEN,,2,3,4,5,6,,Designing systems to prevent hazards and ensure safe operation
+SAFETY,Systems development,"Lifecycle, safety, and governance",Safety validation,Safety assessment,SFAS,,,,4,5,6,,Assessing and certifying system safety against standards and regulations
+DATA,Data and analytics,Data and analytics,Data operations,Data management,DATM,,2,3,4,5,6,,"Managing data lifecycle, governance, quality, and accessibility"
+DATA,Data and analytics,Data and analytics,Data arhitecture,Data modelling and design,DTAN,,2,3,4,5,,,Designing logical and physical data models aligned with system needs
+DATA,Data and analytics,Data and analytics,Database engineering,Database design,DBDS,,2,3,4,5,,,"Designing databases, schemas, indexing, and storage strategies"
+DATA,Data and analytics,Data and analytics,Analytics implementation,Data analytics,DAAN,,2,3,4,5,6,7,Analysing datasets to extract insights and support decision-making
+"DATA, AI",Data and analytics,Data and analytics,Advanced analytics,Data science,DATS,,2,3,4,5,6,,Applying statistical and computational techniques to complex data problems
+"DATA, AI",Data and analytics,Data and analytics,ML development,Machine learning,MLNG,,2,3,4,5,6,,"Developing, training, evaluating, and deploying machine learning models"
+DATA,Data and analytics,Data and analytics,BI systems,Business intelligence,BINT,,2,3,4,5,,,"Developing dashboards, reports, and analytics platforms for business users"
+DATA,Data and analytics,Data and analytics,Data pipelines,Data engineering,DENG,,2,3,4,5,6,,"Building data pipelines, ETL processes, and scalable data platforms"
+"DATA, UIUX",Data and analytics,Data and analytics,Visual analytics,Data visualisation,VISL,,2,3,4,5,,,Designing visual representations of data to support interpretation and insight
+UIUX,User centred design,User centred design,User discovery,User research,URCH,,2,3,4,5,6,,Collecting qualitative and quantitative user insights to inform design
+UIUX,User centred design,User centred design,Experience strategy,Customer experience,CEXP,,2,3,4,5,6,,Designing end-to-end customer journeys and service experiences
+UIUX,User centred design,User centred design,Inclusive design,Accessibility and inclusion,ACIN,,2,3,4,5,6,,Ensuring systems are usable by people with diverse abilities and needs
+UIUX,User centred design,User centred design,UX analysis,User experience analysis,UNAN,,2,3,4,5,,,"Analysing user behaviour, usability issues, and interaction patterns"
+UIUX,User centred design,User centred design,Interaction design,User experience design,HCEV,,2,3,4,5,6,,"Designing interfaces, interactions, and workflows"
+UIUX,User centred design,User centred design,UX validation,User experience evaluation,USEV,,2,3,4,5,6,,Evaluating designs through usability testing and feedback
+"CONTENT, UIUX",Content management,Content management,Content creation,Content design and authoring,INCA,1,2,3,4,5,6,,"Creating structured, user-focused digital content"
+CONTENT,Content management,Content management,Content delivery,Content publishing,ICPM,1,2,3,4,5,6,,"Managing publication, workflows, and distribution of content"
+CONTENT,Content management,Content management,Knowledge systems,Knowledge management,KNOW,,2,3,4,5,6,7,"Capturing, structuring, and sharing organisational knowledge"
+UIUX,Content management,Content management,Visual design,Graphic design,GRDN,1,2,3,4,5,,,"Designing visual assets, branding, and graphical elements"
+"SCIENCE, DATA",Computational science,Computational science,Computational modelling,Scientic modelling,SCMO,,,,4,5,6,7,Developing mathematical and simulation models of real-world systems
+"SCIENCE, DATA",Computational science,Computational science,Numerical computation,Numerical analysis,NUAN,,,,4,5,6,7,Applying numerical methods to solve complex mathematical problems
+"SCIENCE, CLOUD",Computational science,Computational science,Scalable computing,High-performance computing,HPCC,,,,4,5,6,7,Developing and optimising software for parallel and high-performance systems

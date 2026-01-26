@@ -1,0 +1,62 @@
+Tag,Code,Skill,Subcategory,Sub-area
+AI,DATS,Data science,Data and analytics,Data and analytics
+AI,MLNG,Machine learning,Data and analytics,Data and analytics
+ARCH,DESN,Systems design,Systems development,Design and architecture
+CLOUD,HPCC,High-performance computing,Computational science,Computational science
+CLOUD,IFDN,Infrastructure design,Systems development,Design and architecture
+CONTENT,ICPM,Content publishing,Content management,Content management
+CONTENT,INCA,Content design and authoring,Content management,Content management
+CONTENT,KNOW,Knowledge management,Content management,Content management
+DATA,BINT,Business intelligence,Data and analytics,Data and analytics
+DATA,DAAN,Data analytics,Data and analytics,Data and analytics
+DATA,DATM,Data management,Data and analytics,Data and analytics
+DATA,DATS,Data science,Data and analytics,Data and analytics
+DATA,DBDS,Database design,Data and analytics,Data and analytics
+DATA,DENG,Data engineering,Data and analytics,Data and analytics
+DATA,DTAN,Data modelling and design,Data and analytics,Data and analytics
+DATA,MLNG,Machine learning,Data and analytics,Data and analytics
+DATA,NUAN,Numerical analysis,Computational science,Computational science
+DATA,SCMO,Scientic modelling,Computational science,Computational science
+DATA,VISL,Data visualisation,Data and analytics,Data and analytics
+DEVOPS,PORT,Software configuration,Systems development,Development and build
+EMBEDDED,HWDE,Harware design,Systems development,Design and architecture
+EMBEDDED,RESD,Real-time / embedded systems development,Systems development,Development and build
+EMBEDDED,RFEN,Radio frequency engineering,Systems development,Design and architecture
+EMBEDDED,SFEN,Safety engineering,Systems development,"Lifecycle, safety, and governance"
+HARDWARE,HWDE,Harware design,Systems development,Design and architecture
+HARDWARE,RFEN,Radio frequency engineering,Systems development,Design and architecture
+INFRA,IFDN,Infrastructure design,Systems development,Design and architecture
+INFRA,NTDS,Network design,Systems development,Design and architecture
+INFRA,SINT,Systems integration and build,Systems development,Development and build
+MANAGEMENT,DLMG,System development management,Systems development,"Lifecycle, safety, and governance"
+MANAGEMENT,PROD,Product management,Systems development,"Lifecycle, safety, and governance"
+MANAGEMENT,SLEN,Systems and software lifecycle engineering,Systems development,"Lifecycle, safety, and governance"
+MEDIA,ADEV,Animation development,Systems development,Development and build
+NETWORK,NTDS,Network design,Systems development,Design and architecture
+QA,NFTS,Non-functional testing,Systems development,Testing and quality assurance
+QA,PRTS,Process testing,Systems development,Testing and quality assurance
+QA,TEST,Functional testing,Systems development,Testing and quality assurance
+SAFETY,SFAS,Safety assessment,Systems development,"Lifecycle, safety, and governance"
+SAFETY,SFEN,Safety engineering,Systems development,"Lifecycle, safety, and governance"
+SCIENCE,HPCC,High-performance computing,Computational science,Computational science
+SCIENCE,NUAN,Numerical analysis,Computational science,Computational science
+SCIENCE,SCMO,Scientic modelling,Computational science,Computational science
+SOFTWARE,DESN,Systems design,Systems development,Design and architecture
+SOFTWARE,NFTS,Non-functional testing,Systems development,Testing and quality assurance
+SOFTWARE,PORT,Software configuration,Systems development,Development and build
+SOFTWARE,PROG,Programming / software development,Systems development,Development and build
+SOFTWARE,PRTS,Process testing,Systems development,Testing and quality assurance
+SOFTWARE,SINT,Systems integration and build,Systems development,Development and build
+SOFTWARE,SLEN,Systems and software lifecycle engineering,Systems development,"Lifecycle, safety, and governance"
+SOFTWARE,SWDN,Software design,Systems development,Design and architecture
+SOFTWARE,TEST,Functional testing,Systems development,Testing and quality assurance
+UIUX,ACIN,Accessibility and inclusion,User centred design,User centred design
+UIUX,ADEV,Animation development,Systems development,Development and build
+UIUX,CEXP,Customer experience,User centred design,User centred design
+UIUX,GRDN,Graphic design,Content management,Content management
+UIUX,HCEV,User experience design,User centred design,User centred design
+UIUX,INCA,Content design and authoring,Content management,Content management
+UIUX,UNAN,User experience analysis,User centred design,User centred design
+UIUX,URCH,User research,User centred design,User centred design
+UIUX,USEV,User experience evaluation,User centred design,User centred design
+UIUX,VISL,Data visualisation,Data and analytics,Data and analytics
