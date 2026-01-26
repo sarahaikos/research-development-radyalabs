@@ -1,0 +1,316 @@
+SFIA_Code,Level,Capability_ID,Capability_Description,Evidence_Type,Evidence_Metric
+DESN,2,DESN_2_01,Apply defined system architecture standards and patterns,Architecture Task,% compliance with standards
+DESN,2,DESN_2_02,"Document system components, interfaces, and constraints",Documentation Task,Completeness & clarity score
+DESN,3,DESN_3_01,Design system components for well-defined problems,Design Task,Accuracy to requirements (%)
+DESN,3,DESN_3_02,Analyse design constraints and assumptions,Analysis Task,Number of constraints correctly identified
+DESN,3,DESN_3_03,Contribute to system-level design decisions,Meeting / Design Log,Contributions adopted (%)
+DESN,4,DESN_4_01,Design end-to-end system architectures,Architecture Task,Review score / % of components mapped
+DESN,4,DESN_4_02,Balance functional and non-functional requirements,Design Specification,% requirements addressed
+DESN,4,DESN_4_03,Evaluate architectural risks and trade-offs,Risk Assessment,Number of risks mitigated correctly
+DESN,5,DESN_5_01,Lead architecture design for complex systems,Leadership Task,Stakeholder approval rate (%)
+DESN,5,DESN_5_02,Define integration approaches across subsystems,Integration Plan,Successful integrations / total planned
+DESN,5,DESN_5_03,Guide architecture decisions across teams,Advisory / Meeting Log,Adoption rate of guidance (%)
+DESN,6,DESN_6_01,Establish enterprise-wide architecture principles,Enterprise Architecture Task,Adoption across systems (%)
+DESN,6,DESN_6_02,Define long-term system architecture strategy,Strategic Plan,Executive review approval (%)
+SWDN,2,SWDN_2_01,Produce detailed designs for small software components,Design Task,% accuracy against requirements
+SWDN,2,SWDN_2_02,Translate requirements into design artefacts,Documentation Task,Completeness & clarity of artefacts
+SWDN,3,SWDN_3_01,Design application modules and data structures,Design Task,Correctness and adherence to spec (%)
+SWDN,3,SWDN_3_02,Define component interfaces and interactions,Design Task,Interfaces correctly defined / total
+SWDN,3,SWDN_3_03,Apply design patterns appropriately,Design Review,Patterns correctly applied (%)
+SWDN,4,SWDN_4_01,Design complete software solutions,Architecture Task,Solution completeness & integration review score
+SWDN,4,SWDN_4_02,"Ensure designs meet quality, security, and scalability needs",Design Review,# of requirements met / total
+SWDN,4,SWDN_4_03,Validate designs against implementation constraints,Validation Task,Number of constraints correctly addressed
+SWDN,5,SWDN_5_01,Lead software design across multiple systems,Leadership Task,Stakeholder approval rate (%)
+SWDN,5,SWDN_5_02,Align software design with business objectives,Strategic Task,% of designs aligned with business goals
+SWDN,6,SWDN_6_01,Define organisational software design standards,Governance Task,Adoption of standards across teams (%)
+SWDN,6,SWDN_6_02,Govern software architecture consistency,Review / Audit,Number of systems compliant with standards
+NTDS,2,NTDS_2_01,Assist in designing network configurations,Configuration Task,Accuracy of configuration against template (%)
+NTDS,2,NTDS_2_02,Apply standard network design templates,Design Task,Correct application of templates (# correct / total)
+NTDS,3,NTDS_3_01,Design network topologies to meet capacity needs,Topology Design,% of capacity requirements met
+NTDS,3,NTDS_3_02,Select appropriate network protocols,Design Task,Correct protocol selection (%)
+NTDS,3,NTDS_3_03,Address basic network security requirements,Security Task,# of security controls correctly applied
+NTDS,4,NTDS_4_01,Design resilient and secure network architectures,Architecture Task,Review score on resilience & security
+NTDS,4,NTDS_4_02,Evaluate network performance and risks,Performance / Risk Assessment,% of performance targets met; risks mitigated
+NTDS,5,NTDS_5_01,Lead network architecture design for complex environments,Leadership Task,Stakeholder approval rate (%)
+NTDS,5,NTDS_5_02,Define network integration strategies,Integration Plan,Successful integrations / total planned
+NTDS,6,NTDS_6_01,Set strategic network architecture direction,Strategic Plan,Executive approval; alignment with organisational goals (%)
+NTDS,6,NTDS_6_02,Define organisational network standards,Governance Task,Adoption rate of standards across systems (%)
+IFDN,2,IFDN_2_01,Design infrastructure components using standard patterns,Design Task,% compliance with infrastructure patterns
+IFDN,2,IFDN_2_02,Document infrastructure configurations,Documentation Task,Completeness & clarity of configuration docs
+IFDN,3,IFDN_3_01,Design infrastructure solutions across environments,Architecture Task,Accuracy of design across environments (%)
+IFDN,3,IFDN_3_02,"Select compute, storage, and platform services",Design Task,Correct selection of services (# correct / total)
+IFDN,4,IFDN_4_01,Design scalable and secure infrastructure architectures,Architecture Task,Review score on scalability & security
+IFDN,4,IFDN_4_02,Optimise infrastructure for cost and resilience,Optimization Task,Cost reduction % and resilience score
+IFDN,5,IFDN_5_01,Lead infrastructure architecture for complex systems,Leadership Task,Stakeholder approval rate (%)
+IFDN,5,IFDN_5_02,Define cloud and platform strategies,Strategic Plan,Adoption of strategy across systems (%)
+IFDN,6,IFDN_6_01,Define enterprise infrastructure architecture vision,Strategic Plan,Alignment with organisational goals (%)
+IFDN,6,IFDN_6_02,Govern infrastructure standards and roadmap,Governance Task,Adoption of standards and roadmap compliance (%)
+PROG,2,PROG_2_01,Implement program logic using control structures,Coding Task,% correct on automated test
+PROG,2,PROG_2_02,Debug and resolve straightforward code-level errors,Coding Task,Number of bugs fixed correctly
+PROG,3,PROG_3_01,Develop modular software components,Coding Task,Correctness and adherence to spec (%)
+PROG,3,PROG_3_02,Use debugging tools and tests to resolve issues,Debugging Task,# issues resolved using tools
+PROG,3,PROG_3_03,Follow coding standards and version control practices,Code Review,% adherence to coding standards
+PROG,4,PROG_4_01,Implement complex application features,Coding Task,Feature completeness & correctness (%)
+PROG,4,PROG_4_02,Refactor code to improve performance and maintainability,Refactoring Task,Performance improvement %; maintainability rating
+PROG,4,PROG_4_03,Review and improve code quality,Code Review,Code quality score from peer review
+PROG,5,PROG_5_01,Lead implementation of critical software components,Leadership Task,Stakeholder approval rate (%)
+PROG,5,PROG_5_02,Resolve systemic and architectural code issues,Debugging & Design Task,% critical issues resolved successfully
+PROG,6,PROG_6_01,Set organisational programming standards,Governance Task,Adoption of standards across teams (%)
+PROG,6,PROG_6_02,Define long-term technical direction,Strategic Task,Alignment with organisational goals (%)
+SINT,2,SINT_2_01,Assist with integrating system components,Integration Task,% of components successfully integrated
+SINT,2,SINT_2_02,Follow defined build and integration procedures,Process Task,Compliance with defined procedures (%)
+SINT,3,SINT_3_01,Integrate hardware and software subsystems,Integration Task,Number of subsystems successfully integrated
+SINT,3,SINT_3_02,Diagnose and resolve integration issues,Debugging Task,# of integration issues resolved correctly
+SINT,4,SINT_4_01,Manage integration of complex systems,Management Task,Integration success rate (%)
+SINT,4,SINT_4_02,Coordinate system builds and deployments,Coordination Task,% on-time and error-free builds/deployments
+SINT,5,SINT_5_01,Lead system integration strategy,Leadership Task,Stakeholder approval rate (%)
+SINT,5,SINT_5_02,Resolve cross-system dependencies,Problem Solving Task,% dependencies resolved without impacting delivery
+SINT,6,SINT_6_01,Define enterprise integration frameworks,Strategic Task,Adoption rate of frameworks across systems (%)
+SINT,6,SINT_6_02,Govern system integration standards,Governance Task,Compliance with integration standards (%)
+PORT,2,PORT_2_01,Maintain software versions and configuration records,Configuration Task,% completeness and accuracy of version records
+PORT,2,PORT_2_02,Follow release and deployment procedures,Process Task,% adherence to release procedures
+PORT,3,PORT_3_01,Manage builds and environments,Build Task,% of successful builds without errors
+PORT,3,PORT_3_02,Prepare software for release,Release Task,% of releases meeting readiness criteria
+PORT,4,PORT_4_01,Define configuration management practices,Process Design,Review score / completeness of CM practices
+PORT,4,PORT_4_02,Ensure deployment readiness,Validation Task,% deployments ready without issues
+PORT,5,PORT_5_01,Lead release management across systems,Leadership Task,Stakeholder approval rate (%)
+PORT,5,PORT_5_02,Coordinate multi-environment deployments,Coordination Task,% of deployments successfully coordinated
+PORT,6,PORT_6_01,Define organisational release strategy,Strategic Task,Adoption rate of strategy across systems (%)
+PORT,6,PORT_6_02,Govern configuration and deployment standards,Governance Task,Compliance with standards (%)
+RESD,2,RESD_2_01,Develop basic embedded or real-time code,Coding Task,% correct execution on hardware tests
+RESD,2,RESD_2_02,Interface with hardware peripherals,Integration Task,% successful peripheral connections
+RESD,3,RESD_3_01,Develop embedded systems under timing and resource constraints,Development Task,Meeting timing/resource constraints (%)
+RESD,3,RESD_3_02,Debug embedded and real-time issues,Debugging Task,# of issues resolved correctly
+RESD,4,RESD_4_01,Design and implement complex embedded solutions,Design & Coding Task,Correctness and completeness of implementation (%)
+RESD,4,RESD_4_02,Optimise real-time performance,Optimization Task,Performance improvement %
+RESD,5,RESD_5_01,Lead embedded development for critical systems,Leadership Task,Stakeholder approval rate (%)
+RESD,5,RESD_5_02,Ensure reliability and safety compliance,Validation Task,Compliance with safety standards (%)
+RESD,6,RESD_6_01,Define embedded systems engineering standards,Governance Task,Adoption of engineering standards across teams (%)
+ADEV,2,ADEV_2_01,Develop basic animations and interactive elements,Development Task,% of elements functioning correctly
+ADEV,2,ADEV_2_02,Use animation tools and frameworks,Practical Task,Proficiency in selected tools (%)
+ADEV,3,ADEV_3_01,Develop interactive visual components,Development Task,% of components correctly integrated
+ADEV,3,ADEV_3_02,Integrate animations into applications,Integration Task,% of animations functioning in app
+ADEV,4,ADEV_4_01,Design and implement complex interactive systems,Design & Development Task,Completeness & functionality score (%)
+ADEV,4,ADEV_4_02,Optimise visual performance and usability,Optimization Task,Performance improvement %; usability rating
+ADEV,5,ADEV_5_01,Lead interactive and visual development initiatives,Leadership Task,Stakeholder approval rate (%)
+ADEV,6,ADEV_6_01,Define organisational standards for interactive and visual development,Governance Task,Adoption of standards across teams (%)
+TEST,1,TEST_1_01,Execute predefined test cases,Test Execution,% of test cases executed correctly
+TEST,1,TEST_1_02,Record test results and observed defects,Test Report,Completeness and accuracy of test logs
+TEST,2,TEST_2_01,Design basic functional test cases from requirements,Test Design,% of test cases correctly derived from requirements
+TEST,2,TEST_2_02,Verify system behaviour against expected outcomes,Test Execution,% of test outcomes matching expected results
+TEST,3,TEST_3_01,Design functional test scenarios covering edge cases,Test Design,Coverage of edge cases (%)
+TEST,3,TEST_3_02,Analyse defects and support root cause identification,Analysis Task,# of defects correctly analysed
+TEST,4,TEST_4_01,Plan and manage functional testing activities,Management Task,% of testing milestones met
+TEST,4,TEST_4_02,Ensure test coverage aligns with system requirements,Review Task,% of requirements covered by tests
+TEST,5,TEST_5_01,Lead functional testing strategy across systems,Leadership Task,Stakeholder approval rate (%)
+TEST,5,TEST_5_02,Define testing standards and quality metrics,Governance Task,Adoption rate of standards & metrics (%)
+TEST,6,TEST_6_01,Establish organisational functional testing governance,Governance Task,Compliance with organisational standards (%)
+TEST,6,TEST_6_02,Drive continuous improvement in testing practices,Strategic Task,% improvement in testing efficiency and effectiveness
+NFTS,1,NFTS_1_01,Execute predefined non-functional tests,Test Execution,% of non-functional tests executed correctly
+NFTS,1,NFTS_1_02,Collect performance and reliability test data,Test Report,Completeness and accuracy of collected data
+NFTS,2,NFTS_2_01,Conduct basic performance and usability testing,Test Execution,% of performance/usability criteria tested
+NFTS,2,NFTS_2_02,Identify non-functional defects,Analysis Task,# of defects correctly identified
+NFTS,3,NFTS_3_01,Design non-functional test scenarios,Test Design,"Coverage of performance, security, reliability scenarios (%)"
+NFTS,3,NFTS_3_02,"Analyse performance, security, and reliability results",Analysis Task,% of issues correctly analysed
+NFTS,4,NFTS_4_01,Plan and manage non-functional testing activities,Management Task,% of activities completed on schedule
+NFTS,4,NFTS_4_02,Evaluate system quality attributes against targets,Review Task,% of quality attributes meeting targets
+NFTS,5,NFTS_5_01,Lead non-functional testing strategy,Leadership Task,Stakeholder approval rate (%)
+NFTS,5,NFTS_5_02,"Define performance, security, and reliability benchmarks",Governance Task,% adoption of benchmarks across systems
+NFTS,6,NFTS_6_01,Establish organisational non-functional testing standards,Governance Task,Compliance with organisational standards (%)
+NFTS,6,NFTS_6_02,Govern quality attribute assurance across systems,Governance Task,% of systems meeting QA targets
+PRTS,1,PRTS_1_01,Follow defined development and operational processes,Process Task,% compliance with defined processes
+PRTS,1,PRTS_1_02,Record process compliance evidence,Documentation Task,Completeness and accuracy of process records
+PRTS,2,PRTS_2_01,Verify adherence to documented processes,Audit Task,% of adherence correctly verified
+PRTS,2,PRTS_2_02,Identify basic process deviations,Analysis Task,# of deviations correctly identified
+PRTS,3,PRTS_3_01,Conduct process audits against standards,Audit Task,% of audit findings addressed
+PRTS,3,PRTS_3_02,Analyse process compliance issues,Analysis Task,# of issues correctly analysed
+PRTS,4,PRTS_4_01,Plan and manage process assurance activities,Management Task,% of activities completed successfully
+PRTS,4,PRTS_4_02,Ensure regulatory and standard compliance,Review Task,Compliance rate (%)
+PRTS,5,PRTS_5_01,Lead process and compliance assurance strategy,Leadership Task,Stakeholder approval rate (%)
+PRTS,5,PRTS_5_02,Define process improvement initiatives,Strategic Task,% of initiatives implemented successfully
+PRTS,6,PRTS_6_01,Establish organisational process governance,Governance Task,Adoption rate of governance framework (%)
+PRTS,6,PRTS_6_02,Influence compliance policy and standards,Strategic Task,% of policies influenced / adopted
+SLEN,3,SLEN_3_01,Apply defined lifecycle models in projects,Application Task,% correct application of lifecycle model
+SLEN,3,SLEN_3_02,Support lifecycle activities across development stages,Support Task,# of activities completed correctly
+SLEN,4,SLEN_4_01,Tailor lifecycle models to project needs,Design Task,Appropriateness of lifecycle tailoring (%)
+SLEN,4,SLEN_4_02,Coordinate lifecycle activities across teams,Coordination Task,% of activities successfully coordinated
+SLEN,5,SLEN_5_01,"Lead adoption of lifecycle models (Agile, DevOps, V-model)",Leadership Task,Stakeholder adoption rate (%)
+SLEN,5,SLEN_5_02,Integrate lifecycle practices across delivery pipelines,Integration Task,% of pipelines using integrated practices
+SLEN,6,SLEN_6_01,Define organisational lifecycle frameworks,Governance Task,Adoption rate of lifecycle frameworks (%)
+SLEN,6,SLEN_6_02,Optimise lifecycle practices for efficiency and quality,Optimization Task,% improvement in process efficiency
+SLEN,7,SLEN_7_01,Set strategic direction for lifecycle engineering,Strategic Task,Alignment with organisational objectives (%)
+SLEN,7,SLEN_7_02,Influence enterprise-wide delivery and deployment models,Strategic Task,Adoption of recommended models (%)
+DLMG,4,DLMG_4_01,Plan and monitor system development activities,Management Task,% of planned activities completed on schedule
+DLMG,4,DLMG_4_02,Manage development resources and schedules,Management Task,Resource utilization efficiency (%)
+DLMG,5,DLMG_5_01,Lead system development programmes,Leadership Task,Stakeholder approval rate (%)
+DLMG,5,DLMG_5_02,"Manage risks, dependencies, and delivery constraints",Risk Management Task,% of risks mitigated successfully
+DLMG,6,DLMG_6_01,Define development management frameworks,Governance Task,Adoption of frameworks across teams (%)
+DLMG,6,DLMG_6_02,Govern large-scale development initiatives,Governance Task,Compliance with governance standards (%)
+DLMG,7,DLMG_7_01,Set strategic direction for system development,Strategic Task,Alignment of portfolios with organisational strategy (%)
+DLMG,7,DLMG_7_02,Align development portfolios with organisational strategy,Strategic Task,% of portfolios aligned with strategic objectives
+PROD,2,PROD_2_01,Support product planning and backlog activities,Planning Task,% of backlog items correctly documented
+PROD,2,PROD_2_02,Gather and document product requirements,Documentation Task,Completeness and clarity of requirements (%)
+PROD,3,PROD_3_01,Manage product backlog and prioritisation,Management Task,% of backlog prioritisation accuracy
+PROD,3,PROD_3_02,Coordinate product delivery with stakeholders,Coordination Task,% of deliveries aligned with stakeholder expectations
+PROD,4,PROD_4_01,Define product roadmap and release plans,Planning Task,Roadmap completeness and approval rate (%)
+PROD,4,PROD_4_02,"Balance value, cost, and delivery constraints",Decision Task,% of decisions meeting value/cost/delivery targets
+PROD,5,PROD_5_01,Lead product strategy and value delivery,Leadership Task,Stakeholder satisfaction rate (%)
+PROD,5,PROD_5_02,Align product outcomes with business goals,Strategic Task,% of products meeting business objectives
+PROD,6,PROD_6_01,Set organisational product management standards,Governance Task,Adoption rate of product management standards (%)
+PROD,6,PROD_6_02,Govern product portfolios and investment decisions,Governance Task,Compliance with portfolio governance (%)
+SFEN,2,SFEN_2_01,Apply basic safety engineering principles,Safety Task,% of safety principles correctly applied
+SFEN,2,SFEN_2_02,Identify potential system hazards,Analysis Task,# of hazards correctly identified
+SFEN,3,SFEN_3_01,Perform hazard analysis and risk identification,Risk Analysis Task,% of hazards analysed and risks documented
+SFEN,3,SFEN_3_02,Define safety requirements and controls,Design Task,Completeness of safety requirements (%)
+SFEN,4,SFEN_4_01,Design systems to mitigate safety risks,Design Task,% of safety risks mitigated in design
+SFEN,4,SFEN_4_02,Integrate safety requirements into system designs,Integration Task,% of safety requirements correctly integrated
+SFEN,5,SFEN_5_01,Lead system safety engineering activities,Leadership Task,Stakeholder approval rate (%)
+SFEN,5,SFEN_5_02,Ensure compliance with safety standards,Validation Task,Compliance rate with standards (%)
+SFEN,6,SFEN_6_01,Define organisational safety engineering strategy,Governance Task,Adoption rate of safety strategy (%)
+SFEN,6,SFEN_6_02,Govern system safety practices across portfolios,Governance Task,Compliance rate across portfolios (%)
+SFAS,4,SFAS_4_01,Conduct safety assessments against defined criteria,Assessment Task,% of assessments meeting criteria
+SFAS,4,SFAS_4_02,Document safety evidence and assessment results,Documentation Task,Completeness and accuracy of evidence
+SFAS,5,SFAS_5_01,Lead safety validation and certification activities,Leadership Task,Stakeholder approval of validation (%)
+SFAS,5,SFAS_5_02,Assess compliance with safety regulations and standards,Assessment Task,% compliance with regulations
+SFAS,6,SFAS_6_01,Define organisational safety assessment frameworks,Governance Task,Adoption of frameworks across organisation (%)
+SFAS,6,SFAS_6_02,Govern safety certification and assurance practices,Governance Task,Compliance with certification and assurance standards (%)
+DATM,2,DATM_2_01,Maintain data records according to defined standards,Task,% of records compliant with standards
+DATM,2,DATM_2_02,Support data quality checks and basic governance tasks,Task,# of quality checks correctly performed
+DATM,3,DATM_3_01,Manage data lifecycle activities,Task,% of lifecycle tasks completed successfully
+DATM,3,DATM_3_02,Apply data governance policies and procedures,Task,% of policies correctly applied
+DATM,4,DATM_4_01,Plan and coordinate data management activities,Management Task,% of activities delivered on schedule
+DATM,4,DATM_4_02,"Ensure data quality, integrity, and accessibility",Review Task,% of datasets meeting quality standards
+DATM,5,DATM_5_01,Lead data governance and stewardship initiatives,Leadership Task,Stakeholder approval rate (%)
+DATM,5,DATM_5_02,Define data management standards and controls,Governance Task,Adoption rate of standards (%)
+DATM,6,DATM_6_01,Establish organisational data management strategy,Governance Task,% alignment with organisational objectives
+DATM,6,DATM_6_02,Govern enterprise data assets and policies,Governance Task,Compliance rate across enterprise data assets
+DTAN,2,DTAN_2_01,Produce basic logical data models,Task,Accuracy of logical data models (%)
+DTAN,2,DTAN_2_02,Maintain data definitions and metadata,Task,% of metadata correctly maintained
+DTAN,3,DTAN_3_01,Design logical and physical data models,Design Task,Quality and completeness of data models (%)
+DTAN,3,DTAN_3_02,Align data structures with application requirements,Review Task,% of alignment with application requirements
+DTAN,4,DTAN_4_01,Define data architecture standards,Governance Task,Adoption rate of architecture standards (%)
+DTAN,4,DTAN_4_02,Ensure consistency across data models and systems,Review Task,% of models consistent across systems
+DTAN,5,DTAN_5_01,Lead data modelling and architecture practices,Leadership Task,Stakeholder approval of modelling practices (%)
+DTAN,5,DTAN_5_02,Optimise data architectures for scalability and reuse,Optimization Task,% improvement in architecture scalability and reuse
+DAAN,2,DAAN_2_01,Prepare datasets for analysis,Task,% of datasets correctly prepared
+DAAN,2,DAAN_2_02,Perform basic descriptive analysis,Task,Accuracy of descriptive analysis results (%)
+DAAN,3,DAAN_3_01,Analyse datasets to identify trends and patterns,Analysis Task,Correct identification of trends/patterns (%)
+DAAN,3,DAAN_3_02,Communicate analytical findings,Communication Task,Clarity and completeness of findings (%)
+DAAN,4,DAAN_4_01,Design analytical approaches to business problems,Design Task,Appropriateness of analytical approach (%)
+DAAN,4,DAAN_4_02,Validate data sources and analytical results,Validation Task,% of sources and results validated successfully
+DAAN,5,DAAN_5_01,Lead analytics initiatives and projects,Leadership Task,Stakeholder satisfaction rate (%)
+DAAN,5,DAAN_5_02,Translate business questions into analytical models,Application Task,% of models correctly addressing questions
+DAAN,6,DAAN_6_01,Define organisational analytics strategy,Governance Task,Adoption rate of analytics strategy (%)
+DAAN,6,DAAN_6_02,Integrate analytics into decision-making processes,Integration Task,% of decisions informed by analytics
+DAAN,7,DAAN_7_01,Set enterprise-wide analytics vision,Strategic Task,Alignment with enterprise vision (%)
+DAAN,7,DAAN_7_02,Influence data-driven culture and investment,Strategic Task,Evidence of culture adoption (%)
+DATS,2,DATS_2_01,Apply basic statistical techniques,Task,Accuracy of statistical calculations (%)
+DATS,2,DATS_2_02,Prepare datasets for modelling,Task,% of datasets correctly prepared
+DATS,3,DATS_3_01,Build and evaluate analytical models,Task,% of models evaluated with correct metrics
+DATS,3,DATS_3_02,Apply exploratory data analysis techniques,Analysis Task,Quality of insights generated (%)
+DATS,4,DATS_4_01,Develop advanced statistical and predictive models,Design Task,Accuracy and robustness of models (%)
+DATS,4,DATS_4_02,Validate models and assumptions,Validation Task,% of assumptions validated successfully
+DATS,5,DATS_5_01,Lead data science initiatives,Leadership Task,Stakeholder satisfaction rate (%)
+DATS,5,DATS_5_02,Select and apply appropriate modelling techniques,Decision Task,% of correct modelling techniques applied
+DATS,6,DATS_6_01,Define data science strategy and standards,Governance Task,Adoption of standards across teams (%)
+DATS,6,DATS_6_02,Govern ethical and responsible data science practices,Governance Task,% compliance with ethical standards
+MLNG,2,MLNG_2_01,Implement basic machine learning models,Task,Accuracy of model implementation (%)
+MLNG,2,MLNG_2_02,Prepare training and test datasets,Task,% of datasets correctly prepared
+MLNG,3,MLNG_3_01,"Train, evaluate, and tune models",Task,Model performance metrics (%)
+MLNG,3,MLNG_3_02,Apply feature engineering techniques,Task,% of features correctly engineered
+MLNG,4,MLNG_4_01,Design ML solutions for defined problems,Design Task,Quality of ML solution (%)
+MLNG,4,MLNG_4_02,Integrate models into systems and pipelines,Integration Task,% successful integration into systems
+MLNG,5,MLNG_5_01,Lead machine learning development efforts,Leadership Task,Stakeholder approval rate (%)
+MLNG,5,MLNG_5_02,Select ML approaches aligned with business needs,Decision Task,% of approaches aligned with objectives
+MLNG,6,MLNG_6_01,Define organisational ML strategy,Governance Task,Adoption of ML strategy across teams (%)
+MLNG,6,MLNG_6_02,"Govern model lifecycle, ethics, and risk",Governance Task,% compliance with governance and ethics
+BINT,2,BINT_2_01,Develop basic reports and dashboards,Task,% of reports and dashboards accurate
+BINT,2,BINT_2_02,Support BI tools and data sources,Task,% of BI support tasks completed successfully
+BINT,3,BINT_3_01,Design dashboards for business users,Design Task,User satisfaction with dashboards (%)
+BINT,3,BINT_3_02,Ensure data accuracy and usability,Review Task,% of data accurate and usable
+BINT,4,BINT_4_01,Define BI reporting standards,Governance Task,Adoption of reporting standards (%)
+BINT,4,BINT_4_02,Optimise BI platforms and performance,Optimization Task,% improvement in BI platform performance
+BINT,5,BINT_5_01,Lead BI strategy and delivery,Leadership Task,Stakeholder satisfaction rate (%)
+BINT,5,BINT_5_02,Align BI solutions with business goals,Strategic Task,% alignment with business objectives
+DENG,2,DENG_2_01,Build basic data pipelines and ETL jobs,Task,% of pipelines implemented correctly
+DENG,2,DENG_2_02,Monitor data flows and resolve issues,Task,# of flow issues resolved within SLA
+DENG,3,DENG_3_01,Develop scalable ETL and ingestion processes,Task,Performance and scalability metrics met (%)
+DENG,3,DENG_3_02,Ensure data reliability and quality in pipelines,Review Task,% of data accuracy and reliability
+DENG,4,DENG_4_01,Design data platforms and pipeline architectures,Design Task,Completeness and performance of architecture (%)
+DENG,4,DENG_4_02,Optimise performance and scalability,Optimization Task,Improvement in processing speed and throughput (%)
+DENG,5,DENG_5_01,Lead data engineering initiatives,Leadership Task,Stakeholder satisfaction rate (%)
+DENG,5,DENG_5_02,Define data platform standards and tooling,Governance Task,Adoption rate of standards (%)
+DENG,6,DENG_6_01,Set organisational data engineering strategy,Governance Task,Alignment of strategy with organisational goals (%)
+DENG,6,DENG_6_02,Govern enterprise data platforms,Governance Task,Compliance and uptime metrics (%)
+VISL,2,VISL_2_01,Create basic charts and visualisations,Task,Accuracy and clarity of visuals (%)
+VISL,2,VISL_2_02,Apply visual design guidelines,Task,% adherence to guidelines
+VISL,3,VISL_3_01,Design visualisations to communicate insights,Design Task,Stakeholder feedback on effectiveness (%)
+VISL,3,VISL_3_02,Select appropriate visual forms for data,Design Task,% of visuals correctly mapped to data type
+VISL,4,VISL_4_01,Define visual analytics standards,Governance Task,Adoption rate of standards (%)
+VISL,4,VISL_4_02,Ensure accessibility and usability of visuals,Review Task,% compliance with accessibility standards
+VISL,5,VISL_5_01,Lead visual analytics strategy,Leadership Task,Stakeholder satisfaction (%)
+VISL,5,VISL_5_02,Influence data storytelling practices,Strategic Task,Evidence of improved insights adoption (%)
+URCH,2,URCH_L2_C1,"Collect user data using interviews, surveys, and observation",Task,# of user insights correctly captured
+URCH,2,URCH_L2_C2,Document user needs and research findings,Task,Completeness and clarity of documentation (%)
+URCH,3,URCH_L3_C1,Plan and conduct structured user research activities,Task,Research plan execution rate (%)
+URCH,3,URCH_L3_C2,Analyse qualitative and quantitative user data,Analysis Task,Accuracy of research analysis (%)
+URCH,4,URCH_L4_C1,Select appropriate research methods to inform design decisions,Design Task,% of methods correctly applied
+URCH,4,URCH_L4_C2,Translate research insights into actionable requirements,Task,# of actionable requirements generated
+URCH,5,URCH_L5_C1,Define user research strategy aligned with business goals,Governance Task,Alignment of strategy with business objectives (%)
+URCH,6,URCH_L6_C1,Lead organisational user research capability and practice,Leadership Task,Stakeholder satisfaction rate (%)
+CEXP,2,CEXP_L2_C1,Map basic user journeys and touchpoints,Task,% of journeys accurately mapped
+CEXP,3,CEXP_L3_C1,Analyse end-to-end customer experiences,Analysis Task,% of insights correctly identified
+CEXP,3,CEXP_L3_C2,Identify experience gaps and improvement opportunities,Analysis Task,# of gaps accurately documented
+CEXP,4,CEXP_L4_C1,Design coherent service and experience strategies,Design Task,Stakeholder approval rate (%)
+CEXP,5,CEXP_L5_C1,Align experience strategy with brand and organisational goals,Governance Task,Alignment with strategic objectives (%)
+CEXP,6,CEXP_L6_C1,Define enterprise-wide customer experience vision,Strategic Task,Evidence of adoption across enterprise (%)
+ACIN,2,ACIN_L2_C1,Apply basic accessibility guidelines in designs,Task,% of designs compliant with guidelines
+ACIN,3,ACIN_L3_C1,Evaluate designs against accessibility standards,Review Task,% of designs passing accessibility checks
+ACIN,4,ACIN_L4_C1,Integrate inclusive design principles into solutions,Design Task,% of solutions meeting inclusive criteria
+ACIN,4,ACIN_L4_C2,Recommend improvements for accessibility compliance,Task,# of actionable recommendations implemented
+ACIN,5,ACIN_L5_C1,Define accessibility strategies and policies,Governance Task,Adoption of strategies (%)
+ACIN,6,ACIN_L6_C1,Champion inclusive design at organisational level,Leadership Task,Evidence of cultural adoption (%)
+UNAN,2,UNAN_L2_C1,Identify usability issues from user feedback,Task,# of issues correctly identified
+UNAN,3,UNAN_L3_C1,Analyse user behaviour and interaction patterns,Analysis Task,% of patterns accurately identified
+UNAN,4,UNAN_L4_C1,Conduct structured usability and experience analysis,Task,Completeness of usability analysis (%)
+UNAN,5,UNAN_L5_C1,Lead UX analysis to inform strategic design decisions,Leadership Task,Stakeholder approval (%)
+HCEV,2,HCEV_L2_C1,Design basic interface elements and interactions,Task,% of interfaces meeting requirements
+HCEV,3,HCEV_L3_C1,Create wireframes and interaction flows,Design Task,Accuracy of wireframes (%)
+HCEV,4,HCEV_L4_C1,Design end-to-end user interactions and workflows,Design Task,Completeness of workflows (%)
+HCEV,4,HCEV_L4_C2,Apply usability and accessibility principles,Review Task,% compliance with principles
+HCEV,5,HCEV_L5_C1,Define interaction design standards and patterns,Governance Task,Adoption rate of standards (%)
+HCEV,6,HCEV_L6_C1,Lead organisational interaction design strategy,Leadership Task,Stakeholder satisfaction rate (%)
+USEV,2,USEV_L2_C1,Support usability testing activities,Task,% of tests executed correctly
+USEV,3,USEV_L3_C1,Conduct usability tests and gather feedback,Task,Completeness and accuracy of test feedback (%)
+USEV,4,USEV_L4_C1,Analyse evaluation results and recommend changes,Analysis Task,% of recommendations implemented
+USEV,5,USEV_L5_C1,Plan and manage UX evaluation programmes,Leadership Task,% of evaluation goals achieved
+USEV,6,USEV_L6_C1,Define evaluation frameworks and success metrics,Governance Task,Adoption of frameworks (%)
+INCA,1,INCA_L1_C1,Create simple digital content following templates,Task,% of content meeting template standards
+INCA,2,INCA_L2_C1,"Write clear, structured user-focused content",Task,% clarity and completeness of content
+INCA,3,INCA_L3_C1,Design content structures and information hierarchy,Design Task,Stakeholder approval of structure (%)
+INCA,4,INCA_L4_C1,Apply content standards and tone of voice,Review Task,% adherence to content standards
+INCA,5,INCA_L5_C1,Define content strategy and governance,Governance Task,Adoption of content strategy (%)
+INCA,6,INCA_L6_C1,Lead organisational content design capability,Leadership Task,Stakeholder satisfaction rate (%)
+KNOW,2,KNOW_L2_C1,Capture and organise knowledge assets,Task,% of assets correctly documented
+KNOW,3,KNOW_L3_C1,Maintain knowledge repositories and taxonomies,Task,% of repositories up-to-date
+KNOW,4,KNOW_L4_C1,Design knowledge sharing processes,Design Task,Stakeholder adoption rate (%)
+KNOW,5,KNOW_L5_C1,Define organisational knowledge management strategy,Governance Task,Alignment with organisational goals (%)
+KNOW,6,KNOW_L6_C1,Integrate knowledge systems across functions,Strategic Task,# of systems successfully integrated
+KNOW,7,KNOW_L7_C1,Set enterprise-wide knowledge governance,Leadership Task,Compliance with governance framework (%)
+GRDN,1,GRDN_L1_C1,Create basic visual assets,Task,% of assets meeting quality standards
+GRDN,2,GRDN_L2_C1,Design graphics following brand guidelines,Task,% adherence to brand guidelines
+GRDN,3,GRDN_L3_C1,Produce consistent visual designs across products,Review Task,Consistency score across designs (%)
+GRDN,4,GRDN_L4_C1,Develop visual design systems,Design Task,Completeness and usability of design system (%)
+GRDN,5,GRDN_L5_C1,Define organisational visual identity,Governance Task,Stakeholder adoption rate (%)
+SCMO,4,SCMO_L4_C1,Develop computational models of systems,Task,Accuracy of model predictions (%)
+SCMO,5,SCMO_L5_C1,Validate and refine simulation models,Review Task,% of models validated successfully
+SCMO,6,SCMO_L6_C1,Lead complex modelling initiatives,Leadership Task,Stakeholder satisfaction rate (%)
+SCMO,7,SCMO_L7_C1,Define modelling standards and research direction,Governance Task,Adoption of standards (%)
+NUAN,4,NUAN_L4_C1,Apply numerical methods to solve problems,Task,Accuracy of numerical solutions (%)
+NUAN,5,NUAN_L5_C1,Optimise numerical algorithms,Optimization Task,Improvement in computational efficiency (%)
+NUAN,6,NUAN_L6_C1,Lead numerical analysis for complex systems,Leadership Task,Success rate of analyses (%)
+NUAN,7,NUAN_L7_C1,Define organisational numerical computation strategy,Strategic Task,Alignment with organisational objectives (%)
+HPCC,4,HPCC_L4_C1,Develop software for parallel execution,Task,% of code executing correctly in parallel
+HPCC,5,HPCC_L5_C1,Optimise applications for high-performance systems,Optimization Task,Performance improvement (%)
+HPCC,6,HPCC_L6_C1,Architect scalable and HPC solutions,Design Task,Scalability and reliability metrics met (%)
+HPCC,7,HPCC_L7_C1,Define enterprise HPC strategy and capability,Strategic Task,Stakeholder adoption rate (%)
