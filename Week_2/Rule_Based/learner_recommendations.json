@@ -8,12 +8,12 @@
       },
       "PROG_2_02": {
         "state": "Partial",
-        "score": 59.68,
+        "score": 54.37,
         "level": 2
       },
       "TEST_2_01": {
         "state": "Mastered",
-        "score": 90.49,
+        "score": 83.09,
         "level": 2
       },
       "DAAN_2_01": {
@@ -23,7 +23,7 @@
       },
       "DAAN_2_02": {
         "state": "Partial",
-        "score": 58.36,
+        "score": 64.25,
         "level": 2
       },
       "DATS_3_01": {
@@ -62,12 +62,12 @@
       },
       "PROG_2_02": {
         "state": "Mastered",
-        "score": 90.49,
+        "score": 89.51,
         "level": 2
       },
       "DAAN_2_01": {
         "state": "Mastered",
-        "score": 93.11,
+        "score": 94.07,
         "level": 2
       },
       "DAAN_2_02": {
@@ -76,8 +76,8 @@
         "level": 2
       },
       "MLNG_3_01": {
-        "state": "Not Mastered",
-        "score": 42.36,
+        "state": "Partial",
+        "score": 70.54,
         "level": 3
       },
       "MLNG_3_02": {
