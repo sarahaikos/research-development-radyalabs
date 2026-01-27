@@ -3,32 +3,22 @@
     "mastery": {
       "PROG_2_01": {
         "state": "Partial",
-        "score": 66.09,
+        "score": 60.85,
         "level": 2
       },
-      "PROG_2_02": {
-        "state": "Partial",
-        "score": 54.37,
-        "level": 2
-      },
-      "TEST_2_01": {
-        "state": "Mastered",
-        "score": 83.09,
-        "level": 2
+      "PROG_3_01": {
+        "state": "Not Mastered",
+        "score": 58.2,
+        "level": 3
       },
       "DAAN_2_01": {
         "state": "Partial",
-        "score": 62.88,
+        "score": 58.2,
         "level": 2
       },
-      "DAAN_2_02": {
-        "state": "Partial",
-        "score": 64.25,
-        "level": 2
-      },
-      "DATS_3_01": {
+      "MLNG_3_01": {
         "state": "Not Mastered",
-        "score": 46.6,
+        "score": 41.22,
         "level": 3
       }
     },
@@ -57,32 +47,93 @@
     "mastery": {
       "PROG_2_01": {
         "state": "Mastered",
-        "score": 92.22,
+        "score": 81.34,
         "level": 2
       },
-      "PROG_2_02": {
+      "PROG_3_01": {
         "state": "Mastered",
-        "score": 89.51,
-        "level": 2
+        "score": 87.27,
+        "level": 3
       },
       "DAAN_2_01": {
         "state": "Mastered",
-        "score": 94.07,
-        "level": 2
-      },
-      "DAAN_2_02": {
-        "state": "Mastered",
-        "score": 96.49,
+        "score": 86.22,
         "level": 2
       },
       "MLNG_3_01": {
         "state": "Partial",
-        "score": 70.54,
+        "score": 77.45,
+        "level": 3
+      }
+    },
+    "recommendations": [
+      {
+        "module": "Software Development Module",
+        "score": 1.0,
+        "rules": [
+          "Software Core Mastery"
+        ],
+        "capabilities": [
+          {
+            "id": "PROG_2_01",
+            "level": 2,
+            "description": "Implement program logic using control structures",
+            "tag": "SOFTWARE",
+            "sub_area": "Development and build",
+            "subcategory": "Systems development",
+            "state": "Mastered"
+          },
+          {
+            "id": "PROG_3_01",
+            "level": 3,
+            "description": "Develop modular software components",
+            "tag": "SOFTWARE",
+            "sub_area": "Development and build",
+            "subcategory": "Systems development",
+            "state": "Mastered"
+          }
+        ]
+      },
+      {
+        "module": "Data Analysis Module",
+        "score": 0.8,
+        "rules": [
+          "Data Analysis Intro"
+        ],
+        "capabilities": [
+          {
+            "id": "DAAN_2_01",
+            "level": 2,
+            "description": "Prepare datasets for analysis",
+            "tag": "DATA",
+            "sub_area": "Data and analytics",
+            "subcategory": "Data and analytics",
+            "state": "Mastered"
+          }
+        ]
+      }
+    ]
+  },
+  "L003": {
+    "mastery": {
+      "PROG_2_01": {
+        "state": "Partial",
+        "score": 66.1,
+        "level": 2
+      },
+      "PROG_3_01": {
+        "state": "Partial",
+        "score": 67.06,
         "level": 3
       },
-      "MLNG_3_02": {
+      "DAAN_2_01": {
+        "state": "Partial",
+        "score": 61.99,
+        "level": 2
+      },
+      "MLNG_3_01": {
         "state": "Not Mastered",
-        "score": 47.73,
+        "score": 55.56,
         "level": 3
       }
     },
@@ -101,25 +152,7 @@
             "tag": "DATA",
             "sub_area": "Data and analytics",
             "subcategory": "Data and analytics",
-            "state": "Mastered"
-          }
-        ]
-      },
-      {
-        "module": "Software Development Module",
-        "score": 0.5,
-        "rules": [
-          "Software Core Mastery"
-        ],
-        "capabilities": [
-          {
-            "id": "PROG_2_01",
-            "level": 2,
-            "description": "Implement program logic using control structures",
-            "tag": "SOFTWARE",
-            "sub_area": "Development and build",
-            "subcategory": "Systems development",
-            "state": "Mastered"
+            "state": "Partial"
           }
         ]
       }
