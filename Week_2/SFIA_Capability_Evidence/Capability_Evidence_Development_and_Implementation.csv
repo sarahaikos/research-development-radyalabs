@@ -250,67 +250,67 @@ VISL,4,VISL_4_01,Define visual analytics standards,Governance Task,Adoption rate
 VISL,4,VISL_4_02,Ensure accessibility and usability of visuals,Review Task,% compliance with accessibility standards
 VISL,5,VISL_5_01,Lead visual analytics strategy,Leadership Task,Stakeholder satisfaction (%)
 VISL,5,VISL_5_02,Influence data storytelling practices,Strategic Task,Evidence of improved insights adoption (%)
-URCH,2,URCH_L2_C1,"Collect user data using interviews, surveys, and observation",Task,# of user insights correctly captured
-URCH,2,URCH_L2_C2,Document user needs and research findings,Task,Completeness and clarity of documentation (%)
-URCH,3,URCH_L3_C1,Plan and conduct structured user research activities,Task,Research plan execution rate (%)
-URCH,3,URCH_L3_C2,Analyse qualitative and quantitative user data,Analysis Task,Accuracy of research analysis (%)
-URCH,4,URCH_L4_C1,Select appropriate research methods to inform design decisions,Design Task,% of methods correctly applied
-URCH,4,URCH_L4_C2,Translate research insights into actionable requirements,Task,# of actionable requirements generated
-URCH,5,URCH_L5_C1,Define user research strategy aligned with business goals,Governance Task,Alignment of strategy with business objectives (%)
-URCH,6,URCH_L6_C1,Lead organisational user research capability and practice,Leadership Task,Stakeholder satisfaction rate (%)
-CEXP,2,CEXP_L2_C1,Map basic user journeys and touchpoints,Task,% of journeys accurately mapped
-CEXP,3,CEXP_L3_C1,Analyse end-to-end customer experiences,Analysis Task,% of insights correctly identified
-CEXP,3,CEXP_L3_C2,Identify experience gaps and improvement opportunities,Analysis Task,# of gaps accurately documented
-CEXP,4,CEXP_L4_C1,Design coherent service and experience strategies,Design Task,Stakeholder approval rate (%)
-CEXP,5,CEXP_L5_C1,Align experience strategy with brand and organisational goals,Governance Task,Alignment with strategic objectives (%)
-CEXP,6,CEXP_L6_C1,Define enterprise-wide customer experience vision,Strategic Task,Evidence of adoption across enterprise (%)
-ACIN,2,ACIN_L2_C1,Apply basic accessibility guidelines in designs,Task,% of designs compliant with guidelines
-ACIN,3,ACIN_L3_C1,Evaluate designs against accessibility standards,Review Task,% of designs passing accessibility checks
-ACIN,4,ACIN_L4_C1,Integrate inclusive design principles into solutions,Design Task,% of solutions meeting inclusive criteria
-ACIN,4,ACIN_L4_C2,Recommend improvements for accessibility compliance,Task,# of actionable recommendations implemented
-ACIN,5,ACIN_L5_C1,Define accessibility strategies and policies,Governance Task,Adoption of strategies (%)
-ACIN,6,ACIN_L6_C1,Champion inclusive design at organisational level,Leadership Task,Evidence of cultural adoption (%)
-UNAN,2,UNAN_L2_C1,Identify usability issues from user feedback,Task,# of issues correctly identified
-UNAN,3,UNAN_L3_C1,Analyse user behaviour and interaction patterns,Analysis Task,% of patterns accurately identified
-UNAN,4,UNAN_L4_C1,Conduct structured usability and experience analysis,Task,Completeness of usability analysis (%)
-UNAN,5,UNAN_L5_C1,Lead UX analysis to inform strategic design decisions,Leadership Task,Stakeholder approval (%)
-HCEV,2,HCEV_L2_C1,Design basic interface elements and interactions,Task,% of interfaces meeting requirements
-HCEV,3,HCEV_L3_C1,Create wireframes and interaction flows,Design Task,Accuracy of wireframes (%)
-HCEV,4,HCEV_L4_C1,Design end-to-end user interactions and workflows,Design Task,Completeness of workflows (%)
-HCEV,4,HCEV_L4_C2,Apply usability and accessibility principles,Review Task,% compliance with principles
-HCEV,5,HCEV_L5_C1,Define interaction design standards and patterns,Governance Task,Adoption rate of standards (%)
-HCEV,6,HCEV_L6_C1,Lead organisational interaction design strategy,Leadership Task,Stakeholder satisfaction rate (%)
-USEV,2,USEV_L2_C1,Support usability testing activities,Task,% of tests executed correctly
-USEV,3,USEV_L3_C1,Conduct usability tests and gather feedback,Task,Completeness and accuracy of test feedback (%)
-USEV,4,USEV_L4_C1,Analyse evaluation results and recommend changes,Analysis Task,% of recommendations implemented
-USEV,5,USEV_L5_C1,Plan and manage UX evaluation programmes,Leadership Task,% of evaluation goals achieved
-USEV,6,USEV_L6_C1,Define evaluation frameworks and success metrics,Governance Task,Adoption of frameworks (%)
-INCA,1,INCA_L1_C1,Create simple digital content following templates,Task,% of content meeting template standards
-INCA,2,INCA_L2_C1,"Write clear, structured user-focused content",Task,% clarity and completeness of content
-INCA,3,INCA_L3_C1,Design content structures and information hierarchy,Design Task,Stakeholder approval of structure (%)
-INCA,4,INCA_L4_C1,Apply content standards and tone of voice,Review Task,% adherence to content standards
-INCA,5,INCA_L5_C1,Define content strategy and governance,Governance Task,Adoption of content strategy (%)
-INCA,6,INCA_L6_C1,Lead organisational content design capability,Leadership Task,Stakeholder satisfaction rate (%)
-KNOW,2,KNOW_L2_C1,Capture and organise knowledge assets,Task,% of assets correctly documented
-KNOW,3,KNOW_L3_C1,Maintain knowledge repositories and taxonomies,Task,% of repositories up-to-date
-KNOW,4,KNOW_L4_C1,Design knowledge sharing processes,Design Task,Stakeholder adoption rate (%)
-KNOW,5,KNOW_L5_C1,Define organisational knowledge management strategy,Governance Task,Alignment with organisational goals (%)
-KNOW,6,KNOW_L6_C1,Integrate knowledge systems across functions,Strategic Task,# of systems successfully integrated
-KNOW,7,KNOW_L7_C1,Set enterprise-wide knowledge governance,Leadership Task,Compliance with governance framework (%)
-GRDN,1,GRDN_L1_C1,Create basic visual assets,Task,% of assets meeting quality standards
-GRDN,2,GRDN_L2_C1,Design graphics following brand guidelines,Task,% adherence to brand guidelines
-GRDN,3,GRDN_L3_C1,Produce consistent visual designs across products,Review Task,Consistency score across designs (%)
-GRDN,4,GRDN_L4_C1,Develop visual design systems,Design Task,Completeness and usability of design system (%)
-GRDN,5,GRDN_L5_C1,Define organisational visual identity,Governance Task,Stakeholder adoption rate (%)
-SCMO,4,SCMO_L4_C1,Develop computational models of systems,Task,Accuracy of model predictions (%)
-SCMO,5,SCMO_L5_C1,Validate and refine simulation models,Review Task,% of models validated successfully
-SCMO,6,SCMO_L6_C1,Lead complex modelling initiatives,Leadership Task,Stakeholder satisfaction rate (%)
-SCMO,7,SCMO_L7_C1,Define modelling standards and research direction,Governance Task,Adoption of standards (%)
-NUAN,4,NUAN_L4_C1,Apply numerical methods to solve problems,Task,Accuracy of numerical solutions (%)
-NUAN,5,NUAN_L5_C1,Optimise numerical algorithms,Optimization Task,Improvement in computational efficiency (%)
-NUAN,6,NUAN_L6_C1,Lead numerical analysis for complex systems,Leadership Task,Success rate of analyses (%)
-NUAN,7,NUAN_L7_C1,Define organisational numerical computation strategy,Strategic Task,Alignment with organisational objectives (%)
-HPCC,4,HPCC_L4_C1,Develop software for parallel execution,Task,% of code executing correctly in parallel
-HPCC,5,HPCC_L5_C1,Optimise applications for high-performance systems,Optimization Task,Performance improvement (%)
-HPCC,6,HPCC_L6_C1,Architect scalable and HPC solutions,Design Task,Scalability and reliability metrics met (%)
-HPCC,7,HPCC_L7_C1,Define enterprise HPC strategy and capability,Strategic Task,Stakeholder adoption rate (%)
+URCH,2,URCH_2_01,"Collect user data using interviews, surveys, and observation",Task,# of user insights correctly captured
+URCH,2,URCH_2_02,Document user needs and research findings,Task,Completeness and clarity of documentation (%)
+URCH,3,URCH_3_01,Plan and conduct structured user research activities,Task,Research plan execution rate (%)
+URCH,3,URCH_3_02,Analyse qualitative and quantitative user data,Analysis Task,Accuracy of research analysis (%)
+URCH,4,URCH_4_01,Select appropriate research methods to inform design decisions,Design Task,% of methods correctly applied
+URCH,4,URCH_4_02,Translate research insights into actionable requirements,Task,# of actionable requirements generated
+URCH,5,URCH_5_01,Define user research strategy aligned with business goals,Governance Task,Alignment of strategy with business objectives (%)
+URCH,6,URCH_6_01,Lead organisational user research capability and practice,Leadership Task,Stakeholder satisfaction rate (%)
+CEXP,2,CEXP_2_01,Map basic user journeys and touchpoints,Task,% of journeys accurately mapped
+CEXP,3,CEXP_3_01,Analyse end-to-end customer experiences,Analysis Task,% of insights correctly identified
+CEXP,3,CEXP_3_02,Identify experience gaps and improvement opportunities,Analysis Task,# of gaps accurately documented
+CEXP,4,CEXP_4_01,Design coherent service and experience strategies,Design Task,Stakeholder approval rate (%)
+CEXP,5,CEXP_5_01,Align experience strategy with brand and organisational goals,Governance Task,Alignment with strategic objectives (%)
+CEXP,6,CEXP_6_01,Define enterprise-wide customer experience vision,Strategic Task,Evidence of adoption across enterprise (%)
+ACIN,2,ACIN_2_01,Apply basic accessibility guidelines in designs,Task,% of designs compliant with guidelines
+ACIN,3,ACIN_3_01,Evaluate designs against accessibility standards,Review Task,% of designs passing accessibility checks
+ACIN,4,ACIN_4_01,Integrate inclusive design principles into solutions,Design Task,% of solutions meeting inclusive criteria
+ACIN,4,ACIN_4_02,Recommend improvements for accessibility compliance,Task,# of actionable recommendations implemented
+ACIN,5,ACIN_5_01,Define accessibility strategies and policies,Governance Task,Adoption of strategies (%)
+ACIN,6,ACIN_6_01,Champion inclusive design at organisational level,Leadership Task,Evidence of cultural adoption (%)
+UNAN,2,UNAN_2_01,Identify usability issues from user feedback,Task,# of issues correctly identified
+UNAN,3,UNAN_3_01,Analyse user behaviour and interaction patterns,Analysis Task,% of patterns accurately identified
+UNAN,4,UNAN_4_01,Conduct structured usability and experience analysis,Task,Completeness of usability analysis (%)
+UNAN,5,UNAN_5_01,Lead UX analysis to inform strategic design decisions,Leadership Task,Stakeholder approval (%)
+HCEV,2,HCEV_2_01,Design basic interface elements and interactions,Task,% of interfaces meeting requirements
+HCEV,3,HCEV_3_01,Create wireframes and interaction flows,Design Task,Accuracy of wireframes (%)
+HCEV,4,HCEV_4_01,Design end-to-end user interactions and workflows,Design Task,Completeness of workflows (%)
+HCEV,4,HCEV_4_02,Apply usability and accessibility principles,Review Task,% compliance with principles
+HCEV,5,HCEV_5_01,Define interaction design standards and patterns,Governance Task,Adoption rate of standards (%)
+HCEV,6,HCEV_6_01,Lead organisational interaction design strategy,Leadership Task,Stakeholder satisfaction rate (%)
+USEV,2,USEV_2_01,Support usability testing activities,Task,% of tests executed correctly
+USEV,3,USEV_3_01,Conduct usability tests and gather feedback,Task,Completeness and accuracy of test feedback (%)
+USEV,4,USEV_4_01,Analyse evaluation results and recommend changes,Analysis Task,% of recommendations implemented
+USEV,5,USEV_5_01,Plan and manage UX evaluation programmes,Leadership Task,% of evaluation goals achieved
+USEV,6,USEV_6_01,Define evaluation frameworks and success metrics,Governance Task,Adoption of frameworks (%)
+INCA,1,INCA_1_01,Create simple digital content following templates,Task,% of content meeting template standards
+INCA,2,INCA_2_01,"Write clear, structured user-focused content",Task,% clarity and completeness of content
+INCA,3,INCA_3_01,Design content structures and information hierarchy,Design Task,Stakeholder approval of structure (%)
+INCA,4,INCA_4_01,Apply content standards and tone of voice,Review Task,% adherence to content standards
+INCA,5,INCA_5_01,Define content strategy and governance,Governance Task,Adoption of content strategy (%)
+INCA,6,INCA_6_01,Lead organisational content design capability,Leadership Task,Stakeholder satisfaction rate (%)
+KNOW,2,KNOW_2_01,Capture and organise knowledge assets,Task,% of assets correctly documented
+KNOW,3,KNOW_3_01,Maintain knowledge repositories and taxonomies,Task,% of repositories up-to-date
+KNOW,4,KNOW_4_01,Design knowledge sharing processes,Design Task,Stakeholder adoption rate (%)
+KNOW,5,KNOW_5_01,Define organisational knowledge management strategy,Governance Task,Alignment with organisational goals (%)
+KNOW,6,KNOW_6_01,Integrate knowledge systems across functions,Strategic Task,# of systems successfully integrated
+KNOW,7,KNOW_7_01,Set enterprise-wide knowledge governance,Leadership Task,Compliance with governance framework (%)
+GRDN,1,GRDN_1_01,Create basic visual assets,Task,% of assets meeting quality standards
+GRDN,2,GRDN_2_01,Design graphics following brand guidelines,Task,% adherence to brand guidelines
+GRDN,3,GRDN_3_01,Produce consistent visual designs across products,Review Task,Consistency score across designs (%)
+GRDN,4,GRDN_4_01,Develop visual design systems,Design Task,Completeness and usability of design system (%)
+GRDN,5,GRDN_5_01,Define organisational visual identity,Governance Task,Stakeholder adoption rate (%)
+SCMO,4,SCMO_4_01,Develop computational models of systems,Task,Accuracy of model predictions (%)
+SCMO,5,SCMO_5_01,Validate and refine simulation models,Review Task,% of models validated successfully
+SCMO,6,SCMO_6_01,Lead complex modelling initiatives,Leadership Task,Stakeholder satisfaction rate (%)
+SCMO,7,SCMO_7_01,Define modelling standards and research direction,Governance Task,Adoption of standards (%)
+NUAN,4,NUAN_4_01,Apply numerical methods to solve problems,Task,Accuracy of numerical solutions (%)
+NUAN,5,NUAN_5_01,Optimise numerical algorithms,Optimization Task,Improvement in computational efficiency (%)
+NUAN,6,NUAN_6_01,Lead numerical analysis for complex systems,Leadership Task,Success rate of analyses (%)
+NUAN,7,NUAN_7_01,Define organisational numerical computation strategy,Strategic Task,Alignment with organisational objectives (%)
+HPCC,4,HPCC_4_01,Develop software for parallel execution,Task,% of code executing correctly in parallel
+HPCC,5,HPCC_5_01,Optimise applications for high-performance systems,Optimization Task,Performance improvement (%)
+HPCC,6,HPCC_6_01,Architect scalable and HPC solutions,Design Task,Scalability and reliability metrics met (%)
+HPCC,7,HPCC_7_01,Define enterprise HPC strategy and capability,Strategic Task,Stakeholder adoption rate (%)

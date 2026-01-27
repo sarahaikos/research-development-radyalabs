@@ -1,0 +1,2540 @@
+{
+  "ACIN": {
+    "skill_name": "Accessibility and inclusion",
+    "subcategory": "User centred design",
+    "sub_area": "User centred design",
+    "tag": "UIUX",
+    "capabilities": [
+      {
+        "id": "ACIN_2_01",
+        "level": 2,
+        "description": "Apply basic accessibility guidelines in designs",
+        "evidence_type": "Task",
+        "evidence_metric": "% of designs compliant with guidelines"
+      },
+      {
+        "id": "ACIN_3_01",
+        "level": 3,
+        "description": "Evaluate designs against accessibility standards",
+        "evidence_type": "Review Task",
+        "evidence_metric": "% of designs passing accessibility checks"
+      },
+      {
+        "id": "ACIN_4_01",
+        "level": 4,
+        "description": "Integrate inclusive design principles into solutions",
+        "evidence_type": "Design Task",
+        "evidence_metric": "% of solutions meeting inclusive criteria"
+      },
+      {
+        "id": "ACIN_4_02",
+        "level": 4,
+        "description": "Recommend improvements for accessibility compliance",
+        "evidence_type": "Task",
+        "evidence_metric": "# of actionable recommendations implemented"
+      },
+      {
+        "id": "ACIN_5_01",
+        "level": 5,
+        "description": "Define accessibility strategies and policies",
+        "evidence_type": "Governance Task",
+        "evidence_metric": "Adoption of strategies (%)"
+      },
+      {
+        "id": "ACIN_6_01",
+        "level": 6,
+        "description": "Champion inclusive design at organisational level",
+        "evidence_type": "Leadership Task",
+        "evidence_metric": "Evidence of cultural adoption (%)"
+      }
+    ],
+    "what_it_covers": "Ensuring systems are usable by people with diverse abilities and needs"
+  },
+  "ADEV": {
+    "skill_name": "Animation development",
+    "subcategory": "Systems development",
+    "sub_area": "Development and build",
+    "tag": "UIUX, MEDIA",
+    "capabilities": [
+      {
+        "id": "ADEV_2_01",
+        "level": 2,
+        "description": "Develop basic animations and interactive elements",
+        "evidence_type": "Development Task",
+        "evidence_metric": "% of elements functioning correctly"
+      },
+      {
+        "id": "ADEV_2_02",
+        "level": 2,
+        "description": "Use animation tools and frameworks",
+        "evidence_type": "Practical Task",
+        "evidence_metric": "Proficiency in selected tools (%)"
+      },
+      {
+        "id": "ADEV_3_01",
+        "level": 3,
+        "description": "Develop interactive visual components",
+        "evidence_type": "Development Task",
+        "evidence_metric": "% of components correctly integrated"
+      },
+      {
+        "id": "ADEV_3_02",
+        "level": 3,
+        "description": "Integrate animations into applications",
+        "evidence_type": "Integration Task",
+        "evidence_metric": "% of animations functioning in app"
+      },
+      {
+        "id": "ADEV_4_01",
+        "level": 4,
+        "description": "Design and implement complex interactive systems",
+        "evidence_type": "Design & Development Task",
+        "evidence_metric": "Completeness & functionality score (%)"
+      },
+      {
+        "id": "ADEV_4_02",
+        "level": 4,
+        "description": "Optimise visual performance and usability",
+        "evidence_type": "Optimization Task",
+        "evidence_metric": "Performance improvement %; usability rating"
+      },
+      {
+        "id": "ADEV_5_01",
+        "level": 5,
+        "description": "Lead interactive and visual development initiatives",
+        "evidence_type": "Leadership Task",
+        "evidence_metric": "Stakeholder approval rate (%)"
+      },
+      {
+        "id": "ADEV_6_01",
+        "level": 6,
+        "description": "Define organisational standards for interactive and visual development",
+        "evidence_type": "Governance Task",
+        "evidence_metric": "Adoption of standards across teams (%)"
+      }
+    ],
+    "what_it_covers": "Developing animations and interactive visual components for applications, games, or simulations"
+  },
+  "BINT": {
+    "skill_name": "Business intelligence",
+    "subcategory": "Data and analytics",
+    "sub_area": "Data and analytics",
+    "tag": "DATA",
+    "capabilities": [
+      {
+        "id": "BINT_2_01",
+        "level": 2,
+        "description": "Develop basic reports and dashboards",
+        "evidence_type": "Task",
+        "evidence_metric": "% of reports and dashboards accurate"
+      },
+      {
+        "id": "BINT_2_02",
+        "level": 2,
+        "description": "Support BI tools and data sources",
+        "evidence_type": "Task",
+        "evidence_metric": "% of BI support tasks completed successfully"
+      },
+      {
+        "id": "BINT_3_01",
+        "level": 3,
+        "description": "Design dashboards for business users",
+        "evidence_type": "Design Task",
+        "evidence_metric": "User satisfaction with dashboards (%)"
+      },
+      {
+        "id": "BINT_3_02",
+        "level": 3,
+        "description": "Ensure data accuracy and usability",
+        "evidence_type": "Review Task",
+        "evidence_metric": "% of data accurate and usable"
+      },
+      {
+        "id": "BINT_4_01",
+        "level": 4,
+        "description": "Define BI reporting standards",
+        "evidence_type": "Governance Task",
+        "evidence_metric": "Adoption of reporting standards (%)"
+      },
+      {
+        "id": "BINT_4_02",
+        "level": 4,
+        "description": "Optimise BI platforms and performance",
+        "evidence_type": "Optimization Task",
+        "evidence_metric": "% improvement in BI platform performance"
+      },
+      {
+        "id": "BINT_5_01",
+        "level": 5,
+        "description": "Lead BI strategy and delivery",
+        "evidence_type": "Leadership Task",
+        "evidence_metric": "Stakeholder satisfaction rate (%)"
+      },
+      {
+        "id": "BINT_5_02",
+        "level": 5,
+        "description": "Align BI solutions with business goals",
+        "evidence_type": "Strategic Task",
+        "evidence_metric": "% alignment with business objectives"
+      }
+    ],
+    "what_it_covers": "Developing dashboards, reports, and analytics platforms for business users"
+  },
+  "CEXP": {
+    "skill_name": "Customer experience",
+    "subcategory": "User centred design",
+    "sub_area": "User centred design",
+    "tag": "UIUX",
+    "capabilities": [
+      {
+        "id": "CEXP_2_01",
+        "level": 2,
+        "description": "Map basic user journeys and touchpoints",
+        "evidence_type": "Task",
+        "evidence_metric": "% of journeys accurately mapped"
+      },
+      {
+        "id": "CEXP_3_01",
+        "level": 3,
+        "description": "Analyse end-to-end customer experiences",
+        "evidence_type": "Analysis Task",
+        "evidence_metric": "% of insights correctly identified"
+      },
+      {
+        "id": "CEXP_3_02",
+        "level": 3,
+        "description": "Identify experience gaps and improvement opportunities",
+        "evidence_type": "Analysis Task",
+        "evidence_metric": "# of gaps accurately documented"
+      },
+      {
+        "id": "CEXP_4_01",
+        "level": 4,
+        "description": "Design coherent service and experience strategies",
+        "evidence_type": "Design Task",
+        "evidence_metric": "Stakeholder approval rate (%)"
+      },
+      {
+        "id": "CEXP_5_01",
+        "level": 5,
+        "description": "Align experience strategy with brand and organisational goals",
+        "evidence_type": "Governance Task",
+        "evidence_metric": "Alignment with strategic objectives (%)"
+      },
+      {
+        "id": "CEXP_6_01",
+        "level": 6,
+        "description": "Define enterprise-wide customer experience vision",
+        "evidence_type": "Strategic Task",
+        "evidence_metric": "Evidence of adoption across enterprise (%)"
+      }
+    ],
+    "what_it_covers": "Designing end-to-end customer journeys and service experiences"
+  },
+  "DAAN": {
+    "skill_name": "Data analytics",
+    "subcategory": "Data and analytics",
+    "sub_area": "Data and analytics",
+    "tag": "DATA",
+    "capabilities": [
+      {
+        "id": "DAAN_2_01",
+        "level": 2,
+        "description": "Prepare datasets for analysis",
+        "evidence_type": "Task",
+        "evidence_metric": "% of datasets correctly prepared"
+      },
+      {
+        "id": "DAAN_2_02",
+        "level": 2,
+        "description": "Perform basic descriptive analysis",
+        "evidence_type": "Task",
+        "evidence_metric": "Accuracy of descriptive analysis results (%)"
+      },
+      {
+        "id": "DAAN_3_01",
+        "level": 3,
+        "description": "Analyse datasets to identify trends and patterns",
+        "evidence_type": "Analysis Task",
+        "evidence_metric": "Correct identification of trends/patterns (%)"
+      },
+      {
+        "id": "DAAN_3_02",
+        "level": 3,
+        "description": "Communicate analytical findings",
+        "evidence_type": "Communication Task",
+        "evidence_metric": "Clarity and completeness of findings (%)"
+      },
+      {
+        "id": "DAAN_4_01",
+        "level": 4,
+        "description": "Design analytical approaches to business problems",
+        "evidence_type": "Design Task",
+        "evidence_metric": "Appropriateness of analytical approach (%)"
+      },
+      {
+        "id": "DAAN_4_02",
+        "level": 4,
+        "description": "Validate data sources and analytical results",
+        "evidence_type": "Validation Task",
+        "evidence_metric": "% of sources and results validated successfully"
+      },
+      {
+        "id": "DAAN_5_01",
+        "level": 5,
+        "description": "Lead analytics initiatives and projects",
+        "evidence_type": "Leadership Task",
+        "evidence_metric": "Stakeholder satisfaction rate (%)"
+      },
+      {
+        "id": "DAAN_5_02",
+        "level": 5,
+        "description": "Translate business questions into analytical models",
+        "evidence_type": "Application Task",
+        "evidence_metric": "% of models correctly addressing questions"
+      },
+      {
+        "id": "DAAN_6_01",
+        "level": 6,
+        "description": "Define organisational analytics strategy",
+        "evidence_type": "Governance Task",
+        "evidence_metric": "Adoption rate of analytics strategy (%)"
+      },
+      {
+        "id": "DAAN_6_02",
+        "level": 6,
+        "description": "Integrate analytics into decision-making processes",
+        "evidence_type": "Integration Task",
+        "evidence_metric": "% of decisions informed by analytics"
+      },
+      {
+        "id": "DAAN_7_01",
+        "level": 7,
+        "description": "Set enterprise-wide analytics vision",
+        "evidence_type": "Strategic Task",
+        "evidence_metric": "Alignment with enterprise vision (%)"
+      },
+      {
+        "id": "DAAN_7_02",
+        "level": 7,
+        "description": "Influence data-driven culture and investment",
+        "evidence_type": "Strategic Task",
+        "evidence_metric": "Evidence of culture adoption (%)"
+      }
+    ],
+    "what_it_covers": "Analysing datasets to extract insights and support decision-making"
+  },
+  "DATM": {
+    "skill_name": "Data management",
+    "subcategory": "Data and analytics",
+    "sub_area": "Data and analytics",
+    "tag": "DATA",
+    "capabilities": [
+      {
+        "id": "DATM_2_01",
+        "level": 2,
+        "description": "Maintain data records according to defined standards",
+        "evidence_type": "Task",
+        "evidence_metric": "% of records compliant with standards"
+      },
+      {
+        "id": "DATM_2_02",
+        "level": 2,
+        "description": "Support data quality checks and basic governance tasks",
+        "evidence_type": "Task",
+        "evidence_metric": "# of quality checks correctly performed"
+      },
+      {
+        "id": "DATM_3_01",
+        "level": 3,
+        "description": "Manage data lifecycle activities",
+        "evidence_type": "Task",
+        "evidence_metric": "% of lifecycle tasks completed successfully"
+      },
+      {
+        "id": "DATM_3_02",
+        "level": 3,
+        "description": "Apply data governance policies and procedures",
+        "evidence_type": "Task",
+        "evidence_metric": "% of policies correctly applied"
+      },
+      {
+        "id": "DATM_4_01",
+        "level": 4,
+        "description": "Plan and coordinate data management activities",
+        "evidence_type": "Management Task",
+        "evidence_metric": "% of activities delivered on schedule"
+      },
+      {
+        "id": "DATM_4_02",
+        "level": 4,
+        "description": "Ensure data quality, integrity, and accessibility",
+        "evidence_type": "Review Task",
+        "evidence_metric": "% of datasets meeting quality standards"
+      },
+      {
+        "id": "DATM_5_01",
+        "level": 5,
+        "description": "Lead data governance and stewardship initiatives",
+        "evidence_type": "Leadership Task",
+        "evidence_metric": "Stakeholder approval rate (%)"
+      },
+      {
+        "id": "DATM_5_02",
+        "level": 5,
+        "description": "Define data management standards and controls",
+        "evidence_type": "Governance Task",
+        "evidence_metric": "Adoption rate of standards (%)"
+      },
+      {
+        "id": "DATM_6_01",
+        "level": 6,
+        "description": "Establish organisational data management strategy",
+        "evidence_type": "Governance Task",
+        "evidence_metric": "% alignment with organisational objectives"
+      },
+      {
+        "id": "DATM_6_02",
+        "level": 6,
+        "description": "Govern enterprise data assets and policies",
+        "evidence_type": "Governance Task",
+        "evidence_metric": "Compliance rate across enterprise data assets"
+      }
+    ],
+    "what_it_covers": "Managing data lifecycle, governance, quality, and accessibility"
+  },
+  "DATS": {
+    "skill_name": "Data science",
+    "subcategory": "Data and analytics",
+    "sub_area": "Data and analytics",
+    "tag": "DATA, AI",
+    "capabilities": [
+      {
+        "id": "DATS_2_01",
+        "level": 2,
+        "description": "Apply basic statistical techniques",
+        "evidence_type": "Task",
+        "evidence_metric": "Accuracy of statistical calculations (%)"
+      },
+      {
+        "id": "DATS_2_02",
+        "level": 2,
+        "description": "Prepare datasets for modelling",
+        "evidence_type": "Task",
+        "evidence_metric": "% of datasets correctly prepared"
+      },
+      {
+        "id": "DATS_3_01",
+        "level": 3,
+        "description": "Build and evaluate analytical models",
+        "evidence_type": "Task",
+        "evidence_metric": "% of models evaluated with correct metrics"
+      },
+      {
+        "id": "DATS_3_02",
+        "level": 3,
+        "description": "Apply exploratory data analysis techniques",
+        "evidence_type": "Analysis Task",
+        "evidence_metric": "Quality of insights generated (%)"
+      },
+      {
+        "id": "DATS_4_01",
+        "level": 4,
+        "description": "Develop advanced statistical and predictive models",
+        "evidence_type": "Design Task",
+        "evidence_metric": "Accuracy and robustness of models (%)"
+      },
+      {
+        "id": "DATS_4_02",
+        "level": 4,
+        "description": "Validate models and assumptions",
+        "evidence_type": "Validation Task",
+        "evidence_metric": "% of assumptions validated successfully"
+      },
+      {
+        "id": "DATS_5_01",
+        "level": 5,
+        "description": "Lead data science initiatives",
+        "evidence_type": "Leadership Task",
+        "evidence_metric": "Stakeholder satisfaction rate (%)"
+      },
+      {
+        "id": "DATS_5_02",
+        "level": 5,
+        "description": "Select and apply appropriate modelling techniques",
+        "evidence_type": "Decision Task",
+        "evidence_metric": "% of correct modelling techniques applied"
+      },
+      {
+        "id": "DATS_6_01",
+        "level": 6,
+        "description": "Define data science strategy and standards",
+        "evidence_type": "Governance Task",
+        "evidence_metric": "Adoption of standards across teams (%)"
+      },
+      {
+        "id": "DATS_6_02",
+        "level": 6,
+        "description": "Govern ethical and responsible data science practices",
+        "evidence_type": "Governance Task",
+        "evidence_metric": "% compliance with ethical standards"
+      }
+    ],
+    "what_it_covers": "Applying statistical and computational techniques to complex data problems"
+  },
+  "DENG": {
+    "skill_name": "Data engineering",
+    "subcategory": "Data and analytics",
+    "sub_area": "Data and analytics",
+    "tag": "DATA",
+    "capabilities": [
+      {
+        "id": "DENG_2_01",
+        "level": 2,
+        "description": "Build basic data pipelines and ETL jobs",
+        "evidence_type": "Task",
+        "evidence_metric": "% of pipelines implemented correctly"
+      },
+      {
+        "id": "DENG_2_02",
+        "level": 2,
+        "description": "Monitor data flows and resolve issues",
+        "evidence_type": "Task",
+        "evidence_metric": "# of flow issues resolved within SLA"
+      },
+      {
+        "id": "DENG_3_01",
+        "level": 3,
+        "description": "Develop scalable ETL and ingestion processes",
+        "evidence_type": "Task",
+        "evidence_metric": "Performance and scalability metrics met (%)"
+      },
+      {
+        "id": "DENG_3_02",
+        "level": 3,
+        "description": "Ensure data reliability and quality in pipelines",
+        "evidence_type": "Review Task",
+        "evidence_metric": "% of data accuracy and reliability"
+      },
+      {
+        "id": "DENG_4_01",
+        "level": 4,
+        "description": "Design data platforms and pipeline architectures",
+        "evidence_type": "Design Task",
+        "evidence_metric": "Completeness and performance of architecture (%)"
+      },
+      {
+        "id": "DENG_4_02",
+        "level": 4,
+        "description": "Optimise performance and scalability",
+        "evidence_type": "Optimization Task",
+        "evidence_metric": "Improvement in processing speed and throughput (%)"
+      },
+      {
+        "id": "DENG_5_01",
+        "level": 5,
+        "description": "Lead data engineering initiatives",
+        "evidence_type": "Leadership Task",
+        "evidence_metric": "Stakeholder satisfaction rate (%)"
+      },
+      {
+        "id": "DENG_5_02",
+        "level": 5,
+        "description": "Define data platform standards and tooling",
+        "evidence_type": "Governance Task",
+        "evidence_metric": "Adoption rate of standards (%)"
+      },
+      {
+        "id": "DENG_6_01",
+        "level": 6,
+        "description": "Set organisational data engineering strategy",
+        "evidence_type": "Governance Task",
+        "evidence_metric": "Alignment of strategy with organisational goals (%)"
+      },
+      {
+        "id": "DENG_6_02",
+        "level": 6,
+        "description": "Govern enterprise data platforms",
+        "evidence_type": "Governance Task",
+        "evidence_metric": "Compliance and uptime metrics (%)"
+      }
+    ],
+    "what_it_covers": "Building data pipelines, ETL processes, and scalable data platforms"
+  },
+  "DESN": {
+    "skill_name": "Systems design",
+    "subcategory": "Systems development",
+    "sub_area": "Design and architecture",
+    "tag": "SOFTWARE, ARCH",
+    "capabilities": [
+      {
+        "id": "DESN_2_01",
+        "level": 2,
+        "description": "Apply defined system architecture standards and patterns",
+        "evidence_type": "Architecture Task",
+        "evidence_metric": "% compliance with standards"
+      },
+      {
+        "id": "DESN_2_02",
+        "level": 2,
+        "description": "Document system components, interfaces, and constraints",
+        "evidence_type": "Documentation Task",
+        "evidence_metric": "Completeness & clarity score"
+      },
+      {
+        "id": "DESN_3_01",
+        "level": 3,
+        "description": "Design system components for well-defined problems",
+        "evidence_type": "Design Task",
+        "evidence_metric": "Accuracy to requirements (%)"
+      },
+      {
+        "id": "DESN_3_02",
+        "level": 3,
+        "description": "Analyse design constraints and assumptions",
+        "evidence_type": "Analysis Task",
+        "evidence_metric": "Number of constraints correctly identified"
+      },
+      {
+        "id": "DESN_3_03",
+        "level": 3,
+        "description": "Contribute to system-level design decisions",
+        "evidence_type": "Meeting / Design Log",
+        "evidence_metric": "Contributions adopted (%)"
+      },
+      {
+        "id": "DESN_4_01",
+        "level": 4,
+        "description": "Design end-to-end system architectures",
+        "evidence_type": "Architecture Task",
+        "evidence_metric": "Review score / % of components mapped"
+      },
+      {
+        "id": "DESN_4_02",
+        "level": 4,
+        "description": "Balance functional and non-functional requirements",
+        "evidence_type": "Design Specification",
+        "evidence_metric": "% requirements addressed"
+      },
+      {
+        "id": "DESN_4_03",
+        "level": 4,
+        "description": "Evaluate architectural risks and trade-offs",
+        "evidence_type": "Risk Assessment",
+        "evidence_metric": "Number of risks mitigated correctly"
+      },
+      {
+        "id": "DESN_5_01",
+        "level": 5,
+        "description": "Lead architecture design for complex systems",
+        "evidence_type": "Leadership Task",
+        "evidence_metric": "Stakeholder approval rate (%)"
+      },
+      {
+        "id": "DESN_5_02",
+        "level": 5,
+        "description": "Define integration approaches across subsystems",
+        "evidence_type": "Integration Plan",
+        "evidence_metric": "Successful integrations / total planned"
+      },
+      {
+        "id": "DESN_5_03",
+        "level": 5,
+        "description": "Guide architecture decisions across teams",
+        "evidence_type": "Advisory / Meeting Log",
+        "evidence_metric": "Adoption rate of guidance (%)"
+      },
+      {
+        "id": "DESN_6_01",
+        "level": 6,
+        "description": "Establish enterprise-wide architecture principles",
+        "evidence_type": "Enterprise Architecture Task",
+        "evidence_metric": "Adoption across systems (%)"
+      },
+      {
+        "id": "DESN_6_02",
+        "level": 6,
+        "description": "Define long-term system architecture strategy",
+        "evidence_type": "Strategic Plan",
+        "evidence_metric": "Executive review approval (%)"
+      }
+    ],
+    "what_it_covers": "Defining overall system structure, components, interfaces, and constraints to meet business and technical requirements"
+  },
+  "DLMG": {
+    "skill_name": "System development management",
+    "subcategory": "Systems development",
+    "sub_area": "Lifecycle, safety, and governance",
+    "tag": "MANAGEMENT",
+    "capabilities": [
+      {
+        "id": "DLMG_4_01",
+        "level": 4,
+        "description": "Plan and monitor system development activities",
+        "evidence_type": "Management Task",
+        "evidence_metric": "% of planned activities completed on schedule"
+      },
+      {
+        "id": "DLMG_4_02",
+        "level": 4,
+        "description": "Manage development resources and schedules",
+        "evidence_type": "Management Task",
+        "evidence_metric": "Resource utilization efficiency (%)"
+      },
+      {
+        "id": "DLMG_5_01",
+        "level": 5,
+        "description": "Lead system development programmes",
+        "evidence_type": "Leadership Task",
+        "evidence_metric": "Stakeholder approval rate (%)"
+      },
+      {
+        "id": "DLMG_5_02",
+        "level": 5,
+        "description": "Manage risks, dependencies, and delivery constraints",
+        "evidence_type": "Risk Management Task",
+        "evidence_metric": "% of risks mitigated successfully"
+      },
+      {
+        "id": "DLMG_6_01",
+        "level": 6,
+        "description": "Define development management frameworks",
+        "evidence_type": "Governance Task",
+        "evidence_metric": "Adoption of frameworks across teams (%)"
+      },
+      {
+        "id": "DLMG_6_02",
+        "level": 6,
+        "description": "Govern large-scale development initiatives",
+        "evidence_type": "Governance Task",
+        "evidence_metric": "Compliance with governance standards (%)"
+      },
+      {
+        "id": "DLMG_7_01",
+        "level": 7,
+        "description": "Set strategic direction for system development",
+        "evidence_type": "Strategic Task",
+        "evidence_metric": "Alignment of portfolios with organisational strategy (%)"
+      },
+      {
+        "id": "DLMG_7_02",
+        "level": 7,
+        "description": "Align development portfolios with organisational strategy",
+        "evidence_type": "Strategic Task",
+        "evidence_metric": "% of portfolios aligned with strategic objectives"
+      }
+    ],
+    "what_it_covers": "Planning, monitoring, and controlling system development activities and resources"
+  },
+  "DTAN": {
+    "skill_name": "Data modelling and design",
+    "subcategory": "Data and analytics",
+    "sub_area": "Data and analytics",
+    "tag": "DATA",
+    "capabilities": [
+      {
+        "id": "DTAN_2_01",
+        "level": 2,
+        "description": "Produce basic logical data models",
+        "evidence_type": "Task",
+        "evidence_metric": "Accuracy of logical data models (%)"
+      },
+      {
+        "id": "DTAN_2_02",
+        "level": 2,
+        "description": "Maintain data definitions and metadata",
+        "evidence_type": "Task",
+        "evidence_metric": "% of metadata correctly maintained"
+      },
+      {
+        "id": "DTAN_3_01",
+        "level": 3,
+        "description": "Design logical and physical data models",
+        "evidence_type": "Design Task",
+        "evidence_metric": "Quality and completeness of data models (%)"
+      },
+      {
+        "id": "DTAN_3_02",
+        "level": 3,
+        "description": "Align data structures with application requirements",
+        "evidence_type": "Review Task",
+        "evidence_metric": "% of alignment with application requirements"
+      },
+      {
+        "id": "DTAN_4_01",
+        "level": 4,
+        "description": "Define data architecture standards",
+        "evidence_type": "Governance Task",
+        "evidence_metric": "Adoption rate of architecture standards (%)"
+      },
+      {
+        "id": "DTAN_4_02",
+        "level": 4,
+        "description": "Ensure consistency across data models and systems",
+        "evidence_type": "Review Task",
+        "evidence_metric": "% of models consistent across systems"
+      },
+      {
+        "id": "DTAN_5_01",
+        "level": 5,
+        "description": "Lead data modelling and architecture practices",
+        "evidence_type": "Leadership Task",
+        "evidence_metric": "Stakeholder approval of modelling practices (%)"
+      },
+      {
+        "id": "DTAN_5_02",
+        "level": 5,
+        "description": "Optimise data architectures for scalability and reuse",
+        "evidence_type": "Optimization Task",
+        "evidence_metric": "% improvement in architecture scalability and reuse"
+      }
+    ],
+    "what_it_covers": "Designing logical and physical data models aligned with system needs"
+  },
+  "GRDN": {
+    "skill_name": "Graphic design",
+    "subcategory": "Content management",
+    "sub_area": "Content management",
+    "tag": "UIUX",
+    "capabilities": [
+      {
+        "id": "GRDN_1_01",
+        "level": 1,
+        "description": "Create basic visual assets",
+        "evidence_type": "Task",
+        "evidence_metric": "% of assets meeting quality standards"
+      },
+      {
+        "id": "GRDN_2_01",
+        "level": 2,
+        "description": "Design graphics following brand guidelines",
+        "evidence_type": "Task",
+        "evidence_metric": "% adherence to brand guidelines"
+      },
+      {
+        "id": "GRDN_3_01",
+        "level": 3,
+        "description": "Produce consistent visual designs across products",
+        "evidence_type": "Review Task",
+        "evidence_metric": "Consistency score across designs (%)"
+      },
+      {
+        "id": "GRDN_4_01",
+        "level": 4,
+        "description": "Develop visual design systems",
+        "evidence_type": "Design Task",
+        "evidence_metric": "Completeness and usability of design system (%)"
+      },
+      {
+        "id": "GRDN_5_01",
+        "level": 5,
+        "description": "Define organisational visual identity",
+        "evidence_type": "Governance Task",
+        "evidence_metric": "Stakeholder adoption rate (%)"
+      }
+    ],
+    "what_it_covers": "Designing visual assets, branding, and graphical elements"
+  },
+  "HCEV": {
+    "skill_name": "User experience design",
+    "subcategory": "User centred design",
+    "sub_area": "User centred design",
+    "tag": "UIUX",
+    "capabilities": [
+      {
+        "id": "HCEV_2_01",
+        "level": 2,
+        "description": "Design basic interface elements and interactions",
+        "evidence_type": "Task",
+        "evidence_metric": "% of interfaces meeting requirements"
+      },
+      {
+        "id": "HCEV_3_01",
+        "level": 3,
+        "description": "Create wireframes and interaction flows",
+        "evidence_type": "Design Task",
+        "evidence_metric": "Accuracy of wireframes (%)"
+      },
+      {
+        "id": "HCEV_4_01",
+        "level": 4,
+        "description": "Design end-to-end user interactions and workflows",
+        "evidence_type": "Design Task",
+        "evidence_metric": "Completeness of workflows (%)"
+      },
+      {
+        "id": "HCEV_4_02",
+        "level": 4,
+        "description": "Apply usability and accessibility principles",
+        "evidence_type": "Review Task",
+        "evidence_metric": "% compliance with principles"
+      },
+      {
+        "id": "HCEV_5_01",
+        "level": 5,
+        "description": "Define interaction design standards and patterns",
+        "evidence_type": "Governance Task",
+        "evidence_metric": "Adoption rate of standards (%)"
+      },
+      {
+        "id": "HCEV_6_01",
+        "level": 6,
+        "description": "Lead organisational interaction design strategy",
+        "evidence_type": "Leadership Task",
+        "evidence_metric": "Stakeholder satisfaction rate (%)"
+      }
+    ],
+    "what_it_covers": "Designing interfaces, interactions, and workflows"
+  },
+  "HPCC": {
+    "skill_name": "High-performance computing",
+    "subcategory": "Computational science",
+    "sub_area": "Computational science",
+    "tag": "SCIENCE, CLOUD",
+    "capabilities": [
+      {
+        "id": "HPCC_4_01",
+        "level": 4,
+        "description": "Develop software for parallel execution",
+        "evidence_type": "Task",
+        "evidence_metric": "% of code executing correctly in parallel"
+      },
+      {
+        "id": "HPCC_5_01",
+        "level": 5,
+        "description": "Optimise applications for high-performance systems",
+        "evidence_type": "Optimization Task",
+        "evidence_metric": "Performance improvement (%)"
+      },
+      {
+        "id": "HPCC_6_01",
+        "level": 6,
+        "description": "Architect scalable and HPC solutions",
+        "evidence_type": "Design Task",
+        "evidence_metric": "Scalability and reliability metrics met (%)"
+      },
+      {
+        "id": "HPCC_7_01",
+        "level": 7,
+        "description": "Define enterprise HPC strategy and capability",
+        "evidence_type": "Strategic Task",
+        "evidence_metric": "Stakeholder adoption rate (%)"
+      }
+    ],
+    "what_it_covers": "Developing and optimising software for parallel and high-performance systems"
+  },
+  "IFDN": {
+    "skill_name": "Infrastructure design",
+    "subcategory": "Systems development",
+    "sub_area": "Design and architecture",
+    "tag": "INFRA, CLOUD",
+    "capabilities": [
+      {
+        "id": "IFDN_2_01",
+        "level": 2,
+        "description": "Design infrastructure components using standard patterns",
+        "evidence_type": "Design Task",
+        "evidence_metric": "% compliance with infrastructure patterns"
+      },
+      {
+        "id": "IFDN_2_02",
+        "level": 2,
+        "description": "Document infrastructure configurations",
+        "evidence_type": "Documentation Task",
+        "evidence_metric": "Completeness & clarity of configuration docs"
+      },
+      {
+        "id": "IFDN_3_01",
+        "level": 3,
+        "description": "Design infrastructure solutions across environments",
+        "evidence_type": "Architecture Task",
+        "evidence_metric": "Accuracy of design across environments (%)"
+      },
+      {
+        "id": "IFDN_3_02",
+        "level": 3,
+        "description": "Select compute, storage, and platform services",
+        "evidence_type": "Design Task",
+        "evidence_metric": "Correct selection of services (# correct / total)"
+      },
+      {
+        "id": "IFDN_4_01",
+        "level": 4,
+        "description": "Design scalable and secure infrastructure architectures",
+        "evidence_type": "Architecture Task",
+        "evidence_metric": "Review score on scalability & security"
+      },
+      {
+        "id": "IFDN_4_02",
+        "level": 4,
+        "description": "Optimise infrastructure for cost and resilience",
+        "evidence_type": "Optimization Task",
+        "evidence_metric": "Cost reduction % and resilience score"
+      },
+      {
+        "id": "IFDN_5_01",
+        "level": 5,
+        "description": "Lead infrastructure architecture for complex systems",
+        "evidence_type": "Leadership Task",
+        "evidence_metric": "Stakeholder approval rate (%)"
+      },
+      {
+        "id": "IFDN_5_02",
+        "level": 5,
+        "description": "Define cloud and platform strategies",
+        "evidence_type": "Strategic Plan",
+        "evidence_metric": "Adoption of strategy across systems (%)"
+      },
+      {
+        "id": "IFDN_6_01",
+        "level": 6,
+        "description": "Define enterprise infrastructure architecture vision",
+        "evidence_type": "Strategic Plan",
+        "evidence_metric": "Alignment with organisational goals (%)"
+      },
+      {
+        "id": "IFDN_6_02",
+        "level": 6,
+        "description": "Govern infrastructure standards and roadmap",
+        "evidence_type": "Governance Task",
+        "evidence_metric": "Adoption of standards and roadmap compliance (%)"
+      }
+    ],
+    "what_it_covers": "Designing compute, storage, and platform infrastructure (on-prem or cloud)"
+  },
+  "INCA": {
+    "skill_name": "Content design and authoring",
+    "subcategory": "Content management",
+    "sub_area": "Content management",
+    "tag": "CONTENT, UIUX",
+    "capabilities": [
+      {
+        "id": "INCA_1_01",
+        "level": 1,
+        "description": "Create simple digital content following templates",
+        "evidence_type": "Task",
+        "evidence_metric": "% of content meeting template standards"
+      },
+      {
+        "id": "INCA_2_01",
+        "level": 2,
+        "description": "Write clear, structured user-focused content",
+        "evidence_type": "Task",
+        "evidence_metric": "% clarity and completeness of content"
+      },
+      {
+        "id": "INCA_3_01",
+        "level": 3,
+        "description": "Design content structures and information hierarchy",
+        "evidence_type": "Design Task",
+        "evidence_metric": "Stakeholder approval of structure (%)"
+      },
+      {
+        "id": "INCA_4_01",
+        "level": 4,
+        "description": "Apply content standards and tone of voice",
+        "evidence_type": "Review Task",
+        "evidence_metric": "% adherence to content standards"
+      },
+      {
+        "id": "INCA_5_01",
+        "level": 5,
+        "description": "Define content strategy and governance",
+        "evidence_type": "Governance Task",
+        "evidence_metric": "Adoption of content strategy (%)"
+      },
+      {
+        "id": "INCA_6_01",
+        "level": 6,
+        "description": "Lead organisational content design capability",
+        "evidence_type": "Leadership Task",
+        "evidence_metric": "Stakeholder satisfaction rate (%)"
+      }
+    ],
+    "what_it_covers": "Creating structured, user-focused digital content"
+  },
+  "KNOW": {
+    "skill_name": "Knowledge management",
+    "subcategory": "Content management",
+    "sub_area": "Content management",
+    "tag": "CONTENT",
+    "capabilities": [
+      {
+        "id": "KNOW_2_01",
+        "level": 2,
+        "description": "Capture and organise knowledge assets",
+        "evidence_type": "Task",
+        "evidence_metric": "% of assets correctly documented"
+      },
+      {
+        "id": "KNOW_3_01",
+        "level": 3,
+        "description": "Maintain knowledge repositories and taxonomies",
+        "evidence_type": "Task",
+        "evidence_metric": "% of repositories up-to-date"
+      },
+      {
+        "id": "KNOW_4_01",
+        "level": 4,
+        "description": "Design knowledge sharing processes",
+        "evidence_type": "Design Task",
+        "evidence_metric": "Stakeholder adoption rate (%)"
+      },
+      {
+        "id": "KNOW_5_01",
+        "level": 5,
+        "description": "Define organisational knowledge management strategy",
+        "evidence_type": "Governance Task",
+        "evidence_metric": "Alignment with organisational goals (%)"
+      },
+      {
+        "id": "KNOW_6_01",
+        "level": 6,
+        "description": "Integrate knowledge systems across functions",
+        "evidence_type": "Strategic Task",
+        "evidence_metric": "# of systems successfully integrated"
+      },
+      {
+        "id": "KNOW_7_01",
+        "level": 7,
+        "description": "Set enterprise-wide knowledge governance",
+        "evidence_type": "Leadership Task",
+        "evidence_metric": "Compliance with governance framework (%)"
+      }
+    ],
+    "what_it_covers": "Capturing, structuring, and sharing organisational knowledge"
+  },
+  "MLNG": {
+    "skill_name": "Machine learning",
+    "subcategory": "Data and analytics",
+    "sub_area": "Data and analytics",
+    "tag": "DATA, AI",
+    "capabilities": [
+      {
+        "id": "MLNG_2_01",
+        "level": 2,
+        "description": "Implement basic machine learning models",
+        "evidence_type": "Task",
+        "evidence_metric": "Accuracy of model implementation (%)"
+      },
+      {
+        "id": "MLNG_2_02",
+        "level": 2,
+        "description": "Prepare training and test datasets",
+        "evidence_type": "Task",
+        "evidence_metric": "% of datasets correctly prepared"
+      },
+      {
+        "id": "MLNG_3_01",
+        "level": 3,
+        "description": "Train, evaluate, and tune models",
+        "evidence_type": "Task",
+        "evidence_metric": "Model performance metrics (%)"
+      },
+      {
+        "id": "MLNG_3_02",
+        "level": 3,
+        "description": "Apply feature engineering techniques",
+        "evidence_type": "Task",
+        "evidence_metric": "% of features correctly engineered"
+      },
+      {
+        "id": "MLNG_4_01",
+        "level": 4,
+        "description": "Design ML solutions for defined problems",
+        "evidence_type": "Design Task",
+        "evidence_metric": "Quality of ML solution (%)"
+      },
+      {
+        "id": "MLNG_4_02",
+        "level": 4,
+        "description": "Integrate models into systems and pipelines",
+        "evidence_type": "Integration Task",
+        "evidence_metric": "% successful integration into systems"
+      },
+      {
+        "id": "MLNG_5_01",
+        "level": 5,
+        "description": "Lead machine learning development efforts",
+        "evidence_type": "Leadership Task",
+        "evidence_metric": "Stakeholder approval rate (%)"
+      },
+      {
+        "id": "MLNG_5_02",
+        "level": 5,
+        "description": "Select ML approaches aligned with business needs",
+        "evidence_type": "Decision Task",
+        "evidence_metric": "% of approaches aligned with objectives"
+      },
+      {
+        "id": "MLNG_6_01",
+        "level": 6,
+        "description": "Define organisational ML strategy",
+        "evidence_type": "Governance Task",
+        "evidence_metric": "Adoption of ML strategy across teams (%)"
+      },
+      {
+        "id": "MLNG_6_02",
+        "level": 6,
+        "description": "Govern model lifecycle, ethics, and risk",
+        "evidence_type": "Governance Task",
+        "evidence_metric": "% compliance with governance and ethics"
+      }
+    ],
+    "what_it_covers": "Developing, training, evaluating, and deploying machine learning models"
+  },
+  "NFTS": {
+    "skill_name": "Non-functional testing",
+    "subcategory": "Systems development",
+    "sub_area": "Testing and quality assurance",
+    "tag": "SOFTWARE, QA",
+    "capabilities": [
+      {
+        "id": "NFTS_1_01",
+        "level": 1,
+        "description": "Execute predefined non-functional tests",
+        "evidence_type": "Test Execution",
+        "evidence_metric": "% of non-functional tests executed correctly"
+      },
+      {
+        "id": "NFTS_1_02",
+        "level": 1,
+        "description": "Collect performance and reliability test data",
+        "evidence_type": "Test Report",
+        "evidence_metric": "Completeness and accuracy of collected data"
+      },
+      {
+        "id": "NFTS_2_01",
+        "level": 2,
+        "description": "Conduct basic performance and usability testing",
+        "evidence_type": "Test Execution",
+        "evidence_metric": "% of performance/usability criteria tested"
+      },
+      {
+        "id": "NFTS_2_02",
+        "level": 2,
+        "description": "Identify non-functional defects",
+        "evidence_type": "Analysis Task",
+        "evidence_metric": "# of defects correctly identified"
+      },
+      {
+        "id": "NFTS_3_01",
+        "level": 3,
+        "description": "Design non-functional test scenarios",
+        "evidence_type": "Test Design",
+        "evidence_metric": "Coverage of performance, security, reliability scenarios (%)"
+      },
+      {
+        "id": "NFTS_3_02",
+        "level": 3,
+        "description": "Analyse performance, security, and reliability results",
+        "evidence_type": "Analysis Task",
+        "evidence_metric": "% of issues correctly analysed"
+      },
+      {
+        "id": "NFTS_4_01",
+        "level": 4,
+        "description": "Plan and manage non-functional testing activities",
+        "evidence_type": "Management Task",
+        "evidence_metric": "% of activities completed on schedule"
+      },
+      {
+        "id": "NFTS_4_02",
+        "level": 4,
+        "description": "Evaluate system quality attributes against targets",
+        "evidence_type": "Review Task",
+        "evidence_metric": "% of quality attributes meeting targets"
+      },
+      {
+        "id": "NFTS_5_01",
+        "level": 5,
+        "description": "Lead non-functional testing strategy",
+        "evidence_type": "Leadership Task",
+        "evidence_metric": "Stakeholder approval rate (%)"
+      },
+      {
+        "id": "NFTS_5_02",
+        "level": 5,
+        "description": "Define performance, security, and reliability benchmarks",
+        "evidence_type": "Governance Task",
+        "evidence_metric": "% adoption of benchmarks across systems"
+      },
+      {
+        "id": "NFTS_6_01",
+        "level": 6,
+        "description": "Establish organisational non-functional testing standards",
+        "evidence_type": "Governance Task",
+        "evidence_metric": "Compliance with organisational standards (%)"
+      },
+      {
+        "id": "NFTS_6_02",
+        "level": 6,
+        "description": "Govern quality attribute assurance across systems",
+        "evidence_type": "Governance Task",
+        "evidence_metric": "% of systems meeting QA targets"
+      }
+    ],
+    "what_it_covers": "Testing performance, security, usability, scalability, and reliability"
+  },
+  "NTDS": {
+    "skill_name": "Network design",
+    "subcategory": "Systems development",
+    "sub_area": "Design and architecture",
+    "tag": "INFRA, NETWORK",
+    "capabilities": [
+      {
+        "id": "NTDS_2_01",
+        "level": 2,
+        "description": "Assist in designing network configurations",
+        "evidence_type": "Configuration Task",
+        "evidence_metric": "Accuracy of configuration against template (%)"
+      },
+      {
+        "id": "NTDS_2_02",
+        "level": 2,
+        "description": "Apply standard network design templates",
+        "evidence_type": "Design Task",
+        "evidence_metric": "Correct application of templates (# correct / total)"
+      },
+      {
+        "id": "NTDS_3_01",
+        "level": 3,
+        "description": "Design network topologies to meet capacity needs",
+        "evidence_type": "Topology Design",
+        "evidence_metric": "% of capacity requirements met"
+      },
+      {
+        "id": "NTDS_3_02",
+        "level": 3,
+        "description": "Select appropriate network protocols",
+        "evidence_type": "Design Task",
+        "evidence_metric": "Correct protocol selection (%)"
+      },
+      {
+        "id": "NTDS_3_03",
+        "level": 3,
+        "description": "Address basic network security requirements",
+        "evidence_type": "Security Task",
+        "evidence_metric": "# of security controls correctly applied"
+      },
+      {
+        "id": "NTDS_4_01",
+        "level": 4,
+        "description": "Design resilient and secure network architectures",
+        "evidence_type": "Architecture Task",
+        "evidence_metric": "Review score on resilience & security"
+      },
+      {
+        "id": "NTDS_4_02",
+        "level": 4,
+        "description": "Evaluate network performance and risks",
+        "evidence_type": "Performance / Risk Assessment",
+        "evidence_metric": "% of performance targets met; risks mitigated"
+      },
+      {
+        "id": "NTDS_5_01",
+        "level": 5,
+        "description": "Lead network architecture design for complex environments",
+        "evidence_type": "Leadership Task",
+        "evidence_metric": "Stakeholder approval rate (%)"
+      },
+      {
+        "id": "NTDS_5_02",
+        "level": 5,
+        "description": "Define network integration strategies",
+        "evidence_type": "Integration Plan",
+        "evidence_metric": "Successful integrations / total planned"
+      },
+      {
+        "id": "NTDS_6_01",
+        "level": 6,
+        "description": "Set strategic network architecture direction",
+        "evidence_type": "Strategic Plan",
+        "evidence_metric": "Executive approval; alignment with organisational goals (%)"
+      },
+      {
+        "id": "NTDS_6_02",
+        "level": 6,
+        "description": "Define organisational network standards",
+        "evidence_type": "Governance Task",
+        "evidence_metric": "Adoption rate of standards across systems (%)"
+      }
+    ],
+    "what_it_covers": "Designing network topologies, protocols, capacity, and connectivity to support system requirements"
+  },
+  "NUAN": {
+    "skill_name": "Numerical analysis",
+    "subcategory": "Computational science",
+    "sub_area": "Computational science",
+    "tag": "SCIENCE, DATA",
+    "capabilities": [
+      {
+        "id": "NUAN_4_01",
+        "level": 4,
+        "description": "Apply numerical methods to solve problems",
+        "evidence_type": "Task",
+        "evidence_metric": "Accuracy of numerical solutions (%)"
+      },
+      {
+        "id": "NUAN_5_01",
+        "level": 5,
+        "description": "Optimise numerical algorithms",
+        "evidence_type": "Optimization Task",
+        "evidence_metric": "Improvement in computational efficiency (%)"
+      },
+      {
+        "id": "NUAN_6_01",
+        "level": 6,
+        "description": "Lead numerical analysis for complex systems",
+        "evidence_type": "Leadership Task",
+        "evidence_metric": "Success rate of analyses (%)"
+      },
+      {
+        "id": "NUAN_7_01",
+        "level": 7,
+        "description": "Define organisational numerical computation strategy",
+        "evidence_type": "Strategic Task",
+        "evidence_metric": "Alignment with organisational objectives (%)"
+      }
+    ],
+    "what_it_covers": "Applying numerical methods to solve complex mathematical problems"
+  },
+  "PORT": {
+    "skill_name": "Software configuration",
+    "subcategory": "Systems development",
+    "sub_area": "Development and build",
+    "tag": "SOFTWARE, DEVOPS",
+    "capabilities": [
+      {
+        "id": "PORT_2_01",
+        "level": 2,
+        "description": "Maintain software versions and configuration records",
+        "evidence_type": "Configuration Task",
+        "evidence_metric": "% completeness and accuracy of version records"
+      },
+      {
+        "id": "PORT_2_02",
+        "level": 2,
+        "description": "Follow release and deployment procedures",
+        "evidence_type": "Process Task",
+        "evidence_metric": "% adherence to release procedures"
+      },
+      {
+        "id": "PORT_3_01",
+        "level": 3,
+        "description": "Manage builds and environments",
+        "evidence_type": "Build Task",
+        "evidence_metric": "% of successful builds without errors"
+      },
+      {
+        "id": "PORT_3_02",
+        "level": 3,
+        "description": "Prepare software for release",
+        "evidence_type": "Release Task",
+        "evidence_metric": "% of releases meeting readiness criteria"
+      },
+      {
+        "id": "PORT_4_01",
+        "level": 4,
+        "description": "Define configuration management practices",
+        "evidence_type": "Process Design",
+        "evidence_metric": "Review score / completeness of CM practices"
+      },
+      {
+        "id": "PORT_4_02",
+        "level": 4,
+        "description": "Ensure deployment readiness",
+        "evidence_type": "Validation Task",
+        "evidence_metric": "% deployments ready without issues"
+      },
+      {
+        "id": "PORT_5_01",
+        "level": 5,
+        "description": "Lead release management across systems",
+        "evidence_type": "Leadership Task",
+        "evidence_metric": "Stakeholder approval rate (%)"
+      },
+      {
+        "id": "PORT_5_02",
+        "level": 5,
+        "description": "Coordinate multi-environment deployments",
+        "evidence_type": "Coordination Task",
+        "evidence_metric": "% of deployments successfully coordinated"
+      },
+      {
+        "id": "PORT_6_01",
+        "level": 6,
+        "description": "Define organisational release strategy",
+        "evidence_type": "Strategic Task",
+        "evidence_metric": "Adoption rate of strategy across systems (%)"
+      },
+      {
+        "id": "PORT_6_02",
+        "level": 6,
+        "description": "Govern configuration and deployment standards",
+        "evidence_type": "Governance Task",
+        "evidence_metric": "Compliance with standards (%)"
+      }
+    ],
+    "what_it_covers": "Managing software versions, configurations, environments, and deployment readiness"
+  },
+  "PROD": {
+    "skill_name": "Product management",
+    "subcategory": "Systems development",
+    "sub_area": "Lifecycle, safety, and governance",
+    "tag": "MANAGEMENT",
+    "capabilities": [
+      {
+        "id": "PROD_2_01",
+        "level": 2,
+        "description": "Support product planning and backlog activities",
+        "evidence_type": "Planning Task",
+        "evidence_metric": "% of backlog items correctly documented"
+      },
+      {
+        "id": "PROD_2_02",
+        "level": 2,
+        "description": "Gather and document product requirements",
+        "evidence_type": "Documentation Task",
+        "evidence_metric": "Completeness and clarity of requirements (%)"
+      },
+      {
+        "id": "PROD_3_01",
+        "level": 3,
+        "description": "Manage product backlog and prioritisation",
+        "evidence_type": "Management Task",
+        "evidence_metric": "% of backlog prioritisation accuracy"
+      },
+      {
+        "id": "PROD_3_02",
+        "level": 3,
+        "description": "Coordinate product delivery with stakeholders",
+        "evidence_type": "Coordination Task",
+        "evidence_metric": "% of deliveries aligned with stakeholder expectations"
+      },
+      {
+        "id": "PROD_4_01",
+        "level": 4,
+        "description": "Define product roadmap and release plans",
+        "evidence_type": "Planning Task",
+        "evidence_metric": "Roadmap completeness and approval rate (%)"
+      },
+      {
+        "id": "PROD_4_02",
+        "level": 4,
+        "description": "Balance value, cost, and delivery constraints",
+        "evidence_type": "Decision Task",
+        "evidence_metric": "% of decisions meeting value/cost/delivery targets"
+      },
+      {
+        "id": "PROD_5_01",
+        "level": 5,
+        "description": "Lead product strategy and value delivery",
+        "evidence_type": "Leadership Task",
+        "evidence_metric": "Stakeholder satisfaction rate (%)"
+      },
+      {
+        "id": "PROD_5_02",
+        "level": 5,
+        "description": "Align product outcomes with business goals",
+        "evidence_type": "Strategic Task",
+        "evidence_metric": "% of products meeting business objectives"
+      },
+      {
+        "id": "PROD_6_01",
+        "level": 6,
+        "description": "Set organisational product management standards",
+        "evidence_type": "Governance Task",
+        "evidence_metric": "Adoption rate of product management standards (%)"
+      },
+      {
+        "id": "PROD_6_02",
+        "level": 6,
+        "description": "Govern product portfolios and investment decisions",
+        "evidence_type": "Governance Task",
+        "evidence_metric": "Compliance with portfolio governance (%)"
+      }
+    ],
+    "what_it_covers": "Managing product vision, roadmap, prioritisation, and value delivery"
+  },
+  "PROG": {
+    "skill_name": "Programming / software development",
+    "subcategory": "Systems development",
+    "sub_area": "Development and build",
+    "tag": "SOFTWARE",
+    "capabilities": [
+      {
+        "id": "PROG_2_01",
+        "level": 2,
+        "description": "Implement program logic using control structures",
+        "evidence_type": "Coding Task",
+        "evidence_metric": "% correct on automated test"
+      },
+      {
+        "id": "PROG_2_02",
+        "level": 2,
+        "description": "Debug and resolve straightforward code-level errors",
+        "evidence_type": "Coding Task",
+        "evidence_metric": "Number of bugs fixed correctly"
+      },
+      {
+        "id": "PROG_3_01",
+        "level": 3,
+        "description": "Develop modular software components",
+        "evidence_type": "Coding Task",
+        "evidence_metric": "Correctness and adherence to spec (%)"
+      },
+      {
+        "id": "PROG_3_02",
+        "level": 3,
+        "description": "Use debugging tools and tests to resolve issues",
+        "evidence_type": "Debugging Task",
+        "evidence_metric": "# issues resolved using tools"
+      },
+      {
+        "id": "PROG_3_03",
+        "level": 3,
+        "description": "Follow coding standards and version control practices",
+        "evidence_type": "Code Review",
+        "evidence_metric": "% adherence to coding standards"
+      },
+      {
+        "id": "PROG_4_01",
+        "level": 4,
+        "description": "Implement complex application features",
+        "evidence_type": "Coding Task",
+        "evidence_metric": "Feature completeness & correctness (%)"
+      },
+      {
+        "id": "PROG_4_02",
+        "level": 4,
+        "description": "Refactor code to improve performance and maintainability",
+        "evidence_type": "Refactoring Task",
+        "evidence_metric": "Performance improvement %; maintainability rating"
+      },
+      {
+        "id": "PROG_4_03",
+        "level": 4,
+        "description": "Review and improve code quality",
+        "evidence_type": "Code Review",
+        "evidence_metric": "Code quality score from peer review"
+      },
+      {
+        "id": "PROG_5_01",
+        "level": 5,
+        "description": "Lead implementation of critical software components",
+        "evidence_type": "Leadership Task",
+        "evidence_metric": "Stakeholder approval rate (%)"
+      },
+      {
+        "id": "PROG_5_02",
+        "level": 5,
+        "description": "Resolve systemic and architectural code issues",
+        "evidence_type": "Debugging & Design Task",
+        "evidence_metric": "% critical issues resolved successfully"
+      },
+      {
+        "id": "PROG_6_01",
+        "level": 6,
+        "description": "Set organisational programming standards",
+        "evidence_type": "Governance Task",
+        "evidence_metric": "Adoption of standards across teams (%)"
+      },
+      {
+        "id": "PROG_6_02",
+        "level": 6,
+        "description": "Define long-term technical direction",
+        "evidence_type": "Strategic Task",
+        "evidence_metric": "Alignment with organisational goals (%)"
+      }
+    ],
+    "what_it_covers": "Writing, testing, and maintaining application code using appropriate languages and frameworks"
+  },
+  "PRTS": {
+    "skill_name": "Process testing",
+    "subcategory": "Systems development",
+    "sub_area": "Testing and quality assurance",
+    "tag": "SOFTWARE, QA",
+    "capabilities": [
+      {
+        "id": "PRTS_1_01",
+        "level": 1,
+        "description": "Follow defined development and operational processes",
+        "evidence_type": "Process Task",
+        "evidence_metric": "% compliance with defined processes"
+      },
+      {
+        "id": "PRTS_1_02",
+        "level": 1,
+        "description": "Record process compliance evidence",
+        "evidence_type": "Documentation Task",
+        "evidence_metric": "Completeness and accuracy of process records"
+      },
+      {
+        "id": "PRTS_2_01",
+        "level": 2,
+        "description": "Verify adherence to documented processes",
+        "evidence_type": "Audit Task",
+        "evidence_metric": "% of adherence correctly verified"
+      },
+      {
+        "id": "PRTS_2_02",
+        "level": 2,
+        "description": "Identify basic process deviations",
+        "evidence_type": "Analysis Task",
+        "evidence_metric": "# of deviations correctly identified"
+      },
+      {
+        "id": "PRTS_3_01",
+        "level": 3,
+        "description": "Conduct process audits against standards",
+        "evidence_type": "Audit Task",
+        "evidence_metric": "% of audit findings addressed"
+      },
+      {
+        "id": "PRTS_3_02",
+        "level": 3,
+        "description": "Analyse process compliance issues",
+        "evidence_type": "Analysis Task",
+        "evidence_metric": "# of issues correctly analysed"
+      },
+      {
+        "id": "PRTS_4_01",
+        "level": 4,
+        "description": "Plan and manage process assurance activities",
+        "evidence_type": "Management Task",
+        "evidence_metric": "% of activities completed successfully"
+      },
+      {
+        "id": "PRTS_4_02",
+        "level": 4,
+        "description": "Ensure regulatory and standard compliance",
+        "evidence_type": "Review Task",
+        "evidence_metric": "Compliance rate (%)"
+      },
+      {
+        "id": "PRTS_5_01",
+        "level": 5,
+        "description": "Lead process and compliance assurance strategy",
+        "evidence_type": "Leadership Task",
+        "evidence_metric": "Stakeholder approval rate (%)"
+      },
+      {
+        "id": "PRTS_5_02",
+        "level": 5,
+        "description": "Define process improvement initiatives",
+        "evidence_type": "Strategic Task",
+        "evidence_metric": "% of initiatives implemented successfully"
+      },
+      {
+        "id": "PRTS_6_01",
+        "level": 6,
+        "description": "Establish organisational process governance",
+        "evidence_type": "Governance Task",
+        "evidence_metric": "Adoption rate of governance framework (%)"
+      },
+      {
+        "id": "PRTS_6_02",
+        "level": 6,
+        "description": "Influence compliance policy and standards",
+        "evidence_type": "Strategic Task",
+        "evidence_metric": "% of policies influenced / adopted"
+      }
+    ],
+    "what_it_covers": "Validating development and operational processes against standards and regulations"
+  },
+  "RESD": {
+    "skill_name": "Real-time / embedded systems development",
+    "subcategory": "Systems development",
+    "sub_area": "Development and build",
+    "tag": "EMBEDDED",
+    "capabilities": [
+      {
+        "id": "RESD_2_01",
+        "level": 2,
+        "description": "Develop basic embedded or real-time code",
+        "evidence_type": "Coding Task",
+        "evidence_metric": "% correct execution on hardware tests"
+      },
+      {
+        "id": "RESD_2_02",
+        "level": 2,
+        "description": "Interface with hardware peripherals",
+        "evidence_type": "Integration Task",
+        "evidence_metric": "% successful peripheral connections"
+      },
+      {
+        "id": "RESD_3_01",
+        "level": 3,
+        "description": "Develop embedded systems under timing and resource constraints",
+        "evidence_type": "Development Task",
+        "evidence_metric": "Meeting timing/resource constraints (%)"
+      },
+      {
+        "id": "RESD_3_02",
+        "level": 3,
+        "description": "Debug embedded and real-time issues",
+        "evidence_type": "Debugging Task",
+        "evidence_metric": "# of issues resolved correctly"
+      },
+      {
+        "id": "RESD_4_01",
+        "level": 4,
+        "description": "Design and implement complex embedded solutions",
+        "evidence_type": "Design & Coding Task",
+        "evidence_metric": "Correctness and completeness of implementation (%)"
+      },
+      {
+        "id": "RESD_4_02",
+        "level": 4,
+        "description": "Optimise real-time performance",
+        "evidence_type": "Optimization Task",
+        "evidence_metric": "Performance improvement %"
+      },
+      {
+        "id": "RESD_5_01",
+        "level": 5,
+        "description": "Lead embedded development for critical systems",
+        "evidence_type": "Leadership Task",
+        "evidence_metric": "Stakeholder approval rate (%)"
+      },
+      {
+        "id": "RESD_5_02",
+        "level": 5,
+        "description": "Ensure reliability and safety compliance",
+        "evidence_type": "Validation Task",
+        "evidence_metric": "Compliance with safety standards (%)"
+      },
+      {
+        "id": "RESD_6_01",
+        "level": 6,
+        "description": "Define embedded systems engineering standards",
+        "evidence_type": "Governance Task",
+        "evidence_metric": "Adoption of engineering standards across teams (%)"
+      }
+    ],
+    "what_it_covers": "Developing time-critical and resource-constrained systems such as IoT and control systems"
+  },
+  "SCMO": {
+    "skill_name": "Scientic modelling",
+    "subcategory": "Computational science",
+    "sub_area": "Computational science",
+    "tag": "SCIENCE, DATA",
+    "capabilities": [
+      {
+        "id": "SCMO_4_01",
+        "level": 4,
+        "description": "Develop computational models of systems",
+        "evidence_type": "Task",
+        "evidence_metric": "Accuracy of model predictions (%)"
+      },
+      {
+        "id": "SCMO_5_01",
+        "level": 5,
+        "description": "Validate and refine simulation models",
+        "evidence_type": "Review Task",
+        "evidence_metric": "% of models validated successfully"
+      },
+      {
+        "id": "SCMO_6_01",
+        "level": 6,
+        "description": "Lead complex modelling initiatives",
+        "evidence_type": "Leadership Task",
+        "evidence_metric": "Stakeholder satisfaction rate (%)"
+      },
+      {
+        "id": "SCMO_7_01",
+        "level": 7,
+        "description": "Define modelling standards and research direction",
+        "evidence_type": "Governance Task",
+        "evidence_metric": "Adoption of standards (%)"
+      }
+    ],
+    "what_it_covers": "Developing mathematical and simulation models of real-world systems"
+  },
+  "SFAS": {
+    "skill_name": "Safety assessment",
+    "subcategory": "Systems development",
+    "sub_area": "Lifecycle, safety, and governance",
+    "tag": "SAFETY",
+    "capabilities": [
+      {
+        "id": "SFAS_4_01",
+        "level": 4,
+        "description": "Conduct safety assessments against defined criteria",
+        "evidence_type": "Assessment Task",
+        "evidence_metric": "% of assessments meeting criteria"
+      },
+      {
+        "id": "SFAS_4_02",
+        "level": 4,
+        "description": "Document safety evidence and assessment results",
+        "evidence_type": "Documentation Task",
+        "evidence_metric": "Completeness and accuracy of evidence"
+      },
+      {
+        "id": "SFAS_5_01",
+        "level": 5,
+        "description": "Lead safety validation and certification activities",
+        "evidence_type": "Leadership Task",
+        "evidence_metric": "Stakeholder approval of validation (%)"
+      },
+      {
+        "id": "SFAS_5_02",
+        "level": 5,
+        "description": "Assess compliance with safety regulations and standards",
+        "evidence_type": "Assessment Task",
+        "evidence_metric": "% compliance with regulations"
+      },
+      {
+        "id": "SFAS_6_01",
+        "level": 6,
+        "description": "Define organisational safety assessment frameworks",
+        "evidence_type": "Governance Task",
+        "evidence_metric": "Adoption of frameworks across organisation (%)"
+      },
+      {
+        "id": "SFAS_6_02",
+        "level": 6,
+        "description": "Govern safety certification and assurance practices",
+        "evidence_type": "Governance Task",
+        "evidence_metric": "Compliance with certification and assurance standards (%)"
+      }
+    ],
+    "what_it_covers": "Assessing and certifying system safety against standards and regulations"
+  },
+  "SFEN": {
+    "skill_name": "Safety engineering",
+    "subcategory": "Systems development",
+    "sub_area": "Lifecycle, safety, and governance",
+    "tag": "SAFETY, EMBEDDED",
+    "capabilities": [
+      {
+        "id": "SFEN_2_01",
+        "level": 2,
+        "description": "Apply basic safety engineering principles",
+        "evidence_type": "Safety Task",
+        "evidence_metric": "% of safety principles correctly applied"
+      },
+      {
+        "id": "SFEN_2_02",
+        "level": 2,
+        "description": "Identify potential system hazards",
+        "evidence_type": "Analysis Task",
+        "evidence_metric": "# of hazards correctly identified"
+      },
+      {
+        "id": "SFEN_3_01",
+        "level": 3,
+        "description": "Perform hazard analysis and risk identification",
+        "evidence_type": "Risk Analysis Task",
+        "evidence_metric": "% of hazards analysed and risks documented"
+      },
+      {
+        "id": "SFEN_3_02",
+        "level": 3,
+        "description": "Define safety requirements and controls",
+        "evidence_type": "Design Task",
+        "evidence_metric": "Completeness of safety requirements (%)"
+      },
+      {
+        "id": "SFEN_4_01",
+        "level": 4,
+        "description": "Design systems to mitigate safety risks",
+        "evidence_type": "Design Task",
+        "evidence_metric": "% of safety risks mitigated in design"
+      },
+      {
+        "id": "SFEN_4_02",
+        "level": 4,
+        "description": "Integrate safety requirements into system designs",
+        "evidence_type": "Integration Task",
+        "evidence_metric": "% of safety requirements correctly integrated"
+      },
+      {
+        "id": "SFEN_5_01",
+        "level": 5,
+        "description": "Lead system safety engineering activities",
+        "evidence_type": "Leadership Task",
+        "evidence_metric": "Stakeholder approval rate (%)"
+      },
+      {
+        "id": "SFEN_5_02",
+        "level": 5,
+        "description": "Ensure compliance with safety standards",
+        "evidence_type": "Validation Task",
+        "evidence_metric": "Compliance rate with standards (%)"
+      },
+      {
+        "id": "SFEN_6_01",
+        "level": 6,
+        "description": "Define organisational safety engineering strategy",
+        "evidence_type": "Governance Task",
+        "evidence_metric": "Adoption rate of safety strategy (%)"
+      },
+      {
+        "id": "SFEN_6_02",
+        "level": 6,
+        "description": "Govern system safety practices across portfolios",
+        "evidence_type": "Governance Task",
+        "evidence_metric": "Compliance rate across portfolios (%)"
+      }
+    ],
+    "what_it_covers": "Designing systems to prevent hazards and ensure safe operation"
+  },
+  "SINT": {
+    "skill_name": "Systems integration and build",
+    "subcategory": "Systems development",
+    "sub_area": "Development and build",
+    "tag": "SOFTWARE, INFRA",
+    "capabilities": [
+      {
+        "id": "SINT_2_01",
+        "level": 2,
+        "description": "Assist with integrating system components",
+        "evidence_type": "Integration Task",
+        "evidence_metric": "% of components successfully integrated"
+      },
+      {
+        "id": "SINT_2_02",
+        "level": 2,
+        "description": "Follow defined build and integration procedures",
+        "evidence_type": "Process Task",
+        "evidence_metric": "Compliance with defined procedures (%)"
+      },
+      {
+        "id": "SINT_3_01",
+        "level": 3,
+        "description": "Integrate hardware and software subsystems",
+        "evidence_type": "Integration Task",
+        "evidence_metric": "Number of subsystems successfully integrated"
+      },
+      {
+        "id": "SINT_3_02",
+        "level": 3,
+        "description": "Diagnose and resolve integration issues",
+        "evidence_type": "Debugging Task",
+        "evidence_metric": "# of integration issues resolved correctly"
+      },
+      {
+        "id": "SINT_4_01",
+        "level": 4,
+        "description": "Manage integration of complex systems",
+        "evidence_type": "Management Task",
+        "evidence_metric": "Integration success rate (%)"
+      },
+      {
+        "id": "SINT_4_02",
+        "level": 4,
+        "description": "Coordinate system builds and deployments",
+        "evidence_type": "Coordination Task",
+        "evidence_metric": "% on-time and error-free builds/deployments"
+      },
+      {
+        "id": "SINT_5_01",
+        "level": 5,
+        "description": "Lead system integration strategy",
+        "evidence_type": "Leadership Task",
+        "evidence_metric": "Stakeholder approval rate (%)"
+      },
+      {
+        "id": "SINT_5_02",
+        "level": 5,
+        "description": "Resolve cross-system dependencies",
+        "evidence_type": "Problem Solving Task",
+        "evidence_metric": "% dependencies resolved without impacting delivery"
+      },
+      {
+        "id": "SINT_6_01",
+        "level": 6,
+        "description": "Define enterprise integration frameworks",
+        "evidence_type": "Strategic Task",
+        "evidence_metric": "Adoption rate of frameworks across systems (%)"
+      },
+      {
+        "id": "SINT_6_02",
+        "level": 6,
+        "description": "Govern system integration standards",
+        "evidence_type": "Governance Task",
+        "evidence_metric": "Compliance with integration standards (%)"
+      }
+    ],
+    "what_it_covers": "Integrating hardware, software, and subsystems into a functioning whole and managing builds"
+  },
+  "SLEN": {
+    "skill_name": "Systems and software lifecycle engineering",
+    "subcategory": "Systems development",
+    "sub_area": "Lifecycle, safety, and governance",
+    "tag": "SOFTWARE, MANAGEMENT",
+    "capabilities": [
+      {
+        "id": "SLEN_3_01",
+        "level": 3,
+        "description": "Apply defined lifecycle models in projects",
+        "evidence_type": "Application Task",
+        "evidence_metric": "% correct application of lifecycle model"
+      },
+      {
+        "id": "SLEN_3_02",
+        "level": 3,
+        "description": "Support lifecycle activities across development stages",
+        "evidence_type": "Support Task",
+        "evidence_metric": "# of activities completed correctly"
+      },
+      {
+        "id": "SLEN_4_01",
+        "level": 4,
+        "description": "Tailor lifecycle models to project needs",
+        "evidence_type": "Design Task",
+        "evidence_metric": "Appropriateness of lifecycle tailoring (%)"
+      },
+      {
+        "id": "SLEN_4_02",
+        "level": 4,
+        "description": "Coordinate lifecycle activities across teams",
+        "evidence_type": "Coordination Task",
+        "evidence_metric": "% of activities successfully coordinated"
+      },
+      {
+        "id": "SLEN_5_01",
+        "level": 5,
+        "description": "Lead adoption of lifecycle models (Agile, DevOps, V-model)",
+        "evidence_type": "Leadership Task",
+        "evidence_metric": "Stakeholder adoption rate (%)"
+      },
+      {
+        "id": "SLEN_5_02",
+        "level": 5,
+        "description": "Integrate lifecycle practices across delivery pipelines",
+        "evidence_type": "Integration Task",
+        "evidence_metric": "% of pipelines using integrated practices"
+      },
+      {
+        "id": "SLEN_6_01",
+        "level": 6,
+        "description": "Define organisational lifecycle frameworks",
+        "evidence_type": "Governance Task",
+        "evidence_metric": "Adoption rate of lifecycle frameworks (%)"
+      },
+      {
+        "id": "SLEN_6_02",
+        "level": 6,
+        "description": "Optimise lifecycle practices for efficiency and quality",
+        "evidence_type": "Optimization Task",
+        "evidence_metric": "% improvement in process efficiency"
+      },
+      {
+        "id": "SLEN_7_01",
+        "level": 7,
+        "description": "Set strategic direction for lifecycle engineering",
+        "evidence_type": "Strategic Task",
+        "evidence_metric": "Alignment with organisational objectives (%)"
+      },
+      {
+        "id": "SLEN_7_02",
+        "level": 7,
+        "description": "Influence enterprise-wide delivery and deployment models",
+        "evidence_type": "Strategic Task",
+        "evidence_metric": "Adoption of recommended models (%)"
+      }
+    ],
+    "what_it_covers": "Applying lifecycle models (e.g. Agile, DevOps, V-model) across development and deployment"
+  },
+  "SWDN": {
+    "skill_name": "Software design",
+    "subcategory": "Systems development",
+    "sub_area": "Design and architecture",
+    "tag": "SOFTWARE",
+    "capabilities": [
+      {
+        "id": "SWDN_2_01",
+        "level": 2,
+        "description": "Produce detailed designs for small software components",
+        "evidence_type": "Design Task",
+        "evidence_metric": "% accuracy against requirements"
+      },
+      {
+        "id": "SWDN_2_02",
+        "level": 2,
+        "description": "Translate requirements into design artefacts",
+        "evidence_type": "Documentation Task",
+        "evidence_metric": "Completeness & clarity of artefacts"
+      },
+      {
+        "id": "SWDN_3_01",
+        "level": 3,
+        "description": "Design application modules and data structures",
+        "evidence_type": "Design Task",
+        "evidence_metric": "Correctness and adherence to spec (%)"
+      },
+      {
+        "id": "SWDN_3_02",
+        "level": 3,
+        "description": "Define component interfaces and interactions",
+        "evidence_type": "Design Task",
+        "evidence_metric": "Interfaces correctly defined / total"
+      },
+      {
+        "id": "SWDN_3_03",
+        "level": 3,
+        "description": "Apply design patterns appropriately",
+        "evidence_type": "Design Review",
+        "evidence_metric": "Patterns correctly applied (%)"
+      },
+      {
+        "id": "SWDN_4_01",
+        "level": 4,
+        "description": "Design complete software solutions",
+        "evidence_type": "Architecture Task",
+        "evidence_metric": "Solution completeness & integration review score"
+      },
+      {
+        "id": "SWDN_4_02",
+        "level": 4,
+        "description": "Ensure designs meet quality, security, and scalability needs",
+        "evidence_type": "Design Review",
+        "evidence_metric": "# of requirements met / total"
+      },
+      {
+        "id": "SWDN_4_03",
+        "level": 4,
+        "description": "Validate designs against implementation constraints",
+        "evidence_type": "Validation Task",
+        "evidence_metric": "Number of constraints correctly addressed"
+      },
+      {
+        "id": "SWDN_5_01",
+        "level": 5,
+        "description": "Lead software design across multiple systems",
+        "evidence_type": "Leadership Task",
+        "evidence_metric": "Stakeholder approval rate (%)"
+      },
+      {
+        "id": "SWDN_5_02",
+        "level": 5,
+        "description": "Align software design with business objectives",
+        "evidence_type": "Strategic Task",
+        "evidence_metric": "% of designs aligned with business goals"
+      },
+      {
+        "id": "SWDN_6_01",
+        "level": 6,
+        "description": "Define organisational software design standards",
+        "evidence_type": "Governance Task",
+        "evidence_metric": "Adoption of standards across teams (%)"
+      },
+      {
+        "id": "SWDN_6_02",
+        "level": 6,
+        "description": "Govern software architecture consistency",
+        "evidence_type": "Review / Audit",
+        "evidence_metric": "Number of systems compliant with standards"
+      }
+    ],
+    "what_it_covers": "Designing software components, modules, data structures, and interactions before implementation"
+  },
+  "TEST": {
+    "skill_name": "Functional testing",
+    "subcategory": "Systems development",
+    "sub_area": "Testing and quality assurance",
+    "tag": "SOFTWARE, QA",
+    "capabilities": [
+      {
+        "id": "TEST_1_01",
+        "level": 1,
+        "description": "Execute predefined test cases",
+        "evidence_type": "Test Execution",
+        "evidence_metric": "% of test cases executed correctly"
+      },
+      {
+        "id": "TEST_1_02",
+        "level": 1,
+        "description": "Record test results and observed defects",
+        "evidence_type": "Test Report",
+        "evidence_metric": "Completeness and accuracy of test logs"
+      },
+      {
+        "id": "TEST_2_01",
+        "level": 2,
+        "description": "Design basic functional test cases from requirements",
+        "evidence_type": "Test Design",
+        "evidence_metric": "% of test cases correctly derived from requirements"
+      },
+      {
+        "id": "TEST_2_02",
+        "level": 2,
+        "description": "Verify system behaviour against expected outcomes",
+        "evidence_type": "Test Execution",
+        "evidence_metric": "% of test outcomes matching expected results"
+      },
+      {
+        "id": "TEST_3_01",
+        "level": 3,
+        "description": "Design functional test scenarios covering edge cases",
+        "evidence_type": "Test Design",
+        "evidence_metric": "Coverage of edge cases (%)"
+      },
+      {
+        "id": "TEST_3_02",
+        "level": 3,
+        "description": "Analyse defects and support root cause identification",
+        "evidence_type": "Analysis Task",
+        "evidence_metric": "# of defects correctly analysed"
+      },
+      {
+        "id": "TEST_4_01",
+        "level": 4,
+        "description": "Plan and manage functional testing activities",
+        "evidence_type": "Management Task",
+        "evidence_metric": "% of testing milestones met"
+      },
+      {
+        "id": "TEST_4_02",
+        "level": 4,
+        "description": "Ensure test coverage aligns with system requirements",
+        "evidence_type": "Review Task",
+        "evidence_metric": "% of requirements covered by tests"
+      },
+      {
+        "id": "TEST_5_01",
+        "level": 5,
+        "description": "Lead functional testing strategy across systems",
+        "evidence_type": "Leadership Task",
+        "evidence_metric": "Stakeholder approval rate (%)"
+      },
+      {
+        "id": "TEST_5_02",
+        "level": 5,
+        "description": "Define testing standards and quality metrics",
+        "evidence_type": "Governance Task",
+        "evidence_metric": "Adoption rate of standards & metrics (%)"
+      },
+      {
+        "id": "TEST_6_01",
+        "level": 6,
+        "description": "Establish organisational functional testing governance",
+        "evidence_type": "Governance Task",
+        "evidence_metric": "Compliance with organisational standards (%)"
+      },
+      {
+        "id": "TEST_6_02",
+        "level": 6,
+        "description": "Drive continuous improvement in testing practices",
+        "evidence_type": "Strategic Task",
+        "evidence_metric": "% improvement in testing efficiency and effectiveness"
+      }
+    ],
+    "what_it_covers": "Verifying that system functions behave as specified according to requirements"
+  },
+  "UNAN": {
+    "skill_name": "User experience analysis",
+    "subcategory": "User centred design",
+    "sub_area": "User centred design",
+    "tag": "UIUX",
+    "capabilities": [
+      {
+        "id": "UNAN_2_01",
+        "level": 2,
+        "description": "Identify usability issues from user feedback",
+        "evidence_type": "Task",
+        "evidence_metric": "# of issues correctly identified"
+      },
+      {
+        "id": "UNAN_3_01",
+        "level": 3,
+        "description": "Analyse user behaviour and interaction patterns",
+        "evidence_type": "Analysis Task",
+        "evidence_metric": "% of patterns accurately identified"
+      },
+      {
+        "id": "UNAN_4_01",
+        "level": 4,
+        "description": "Conduct structured usability and experience analysis",
+        "evidence_type": "Task",
+        "evidence_metric": "Completeness of usability analysis (%)"
+      },
+      {
+        "id": "UNAN_5_01",
+        "level": 5,
+        "description": "Lead UX analysis to inform strategic design decisions",
+        "evidence_type": "Leadership Task",
+        "evidence_metric": "Stakeholder approval (%)"
+      }
+    ],
+    "what_it_covers": "Analysing user behaviour, usability issues, and interaction patterns"
+  },
+  "URCH": {
+    "skill_name": "User research",
+    "subcategory": "User centred design",
+    "sub_area": "User centred design",
+    "tag": "UIUX",
+    "capabilities": [
+      {
+        "id": "URCH_2_01",
+        "level": 2,
+        "description": "Collect user data using interviews, surveys, and observation",
+        "evidence_type": "Task",
+        "evidence_metric": "# of user insights correctly captured"
+      },
+      {
+        "id": "URCH_2_02",
+        "level": 2,
+        "description": "Document user needs and research findings",
+        "evidence_type": "Task",
+        "evidence_metric": "Completeness and clarity of documentation (%)"
+      },
+      {
+        "id": "URCH_3_01",
+        "level": 3,
+        "description": "Plan and conduct structured user research activities",
+        "evidence_type": "Task",
+        "evidence_metric": "Research plan execution rate (%)"
+      },
+      {
+        "id": "URCH_3_02",
+        "level": 3,
+        "description": "Analyse qualitative and quantitative user data",
+        "evidence_type": "Analysis Task",
+        "evidence_metric": "Accuracy of research analysis (%)"
+      },
+      {
+        "id": "URCH_4_01",
+        "level": 4,
+        "description": "Select appropriate research methods to inform design decisions",
+        "evidence_type": "Design Task",
+        "evidence_metric": "% of methods correctly applied"
+      },
+      {
+        "id": "URCH_4_02",
+        "level": 4,
+        "description": "Translate research insights into actionable requirements",
+        "evidence_type": "Task",
+        "evidence_metric": "# of actionable requirements generated"
+      },
+      {
+        "id": "URCH_5_01",
+        "level": 5,
+        "description": "Define user research strategy aligned with business goals",
+        "evidence_type": "Governance Task",
+        "evidence_metric": "Alignment of strategy with business objectives (%)"
+      },
+      {
+        "id": "URCH_6_01",
+        "level": 6,
+        "description": "Lead organisational user research capability and practice",
+        "evidence_type": "Leadership Task",
+        "evidence_metric": "Stakeholder satisfaction rate (%)"
+      }
+    ],
+    "what_it_covers": "Collecting qualitative and quantitative user insights to inform design"
+  },
+  "USEV": {
+    "skill_name": "User experience evaluation",
+    "subcategory": "User centred design",
+    "sub_area": "User centred design",
+    "tag": "UIUX",
+    "capabilities": [
+      {
+        "id": "USEV_2_01",
+        "level": 2,
+        "description": "Support usability testing activities",
+        "evidence_type": "Task",
+        "evidence_metric": "% of tests executed correctly"
+      },
+      {
+        "id": "USEV_3_01",
+        "level": 3,
+        "description": "Conduct usability tests and gather feedback",
+        "evidence_type": "Task",
+        "evidence_metric": "Completeness and accuracy of test feedback (%)"
+      },
+      {
+        "id": "USEV_4_01",
+        "level": 4,
+        "description": "Analyse evaluation results and recommend changes",
+        "evidence_type": "Analysis Task",
+        "evidence_metric": "% of recommendations implemented"
+      },
+      {
+        "id": "USEV_5_01",
+        "level": 5,
+        "description": "Plan and manage UX evaluation programmes",
+        "evidence_type": "Leadership Task",
+        "evidence_metric": "% of evaluation goals achieved"
+      },
+      {
+        "id": "USEV_6_01",
+        "level": 6,
+        "description": "Define evaluation frameworks and success metrics",
+        "evidence_type": "Governance Task",
+        "evidence_metric": "Adoption of frameworks (%)"
+      }
+    ],
+    "what_it_covers": "Evaluating designs through usability testing and feedback"
+  },
+  "VISL": {
+    "skill_name": "Data visualisation",
+    "subcategory": "Data and analytics",
+    "sub_area": "Data and analytics",
+    "tag": "DATA, UIUX",
+    "capabilities": [
+      {
+        "id": "VISL_2_01",
+        "level": 2,
+        "description": "Create basic charts and visualisations",
+        "evidence_type": "Task",
+        "evidence_metric": "Accuracy and clarity of visuals (%)"
+      },
+      {
+        "id": "VISL_2_02",
+        "level": 2,
+        "description": "Apply visual design guidelines",
+        "evidence_type": "Task",
+        "evidence_metric": "% adherence to guidelines"
+      },
+      {
+        "id": "VISL_3_01",
+        "level": 3,
+        "description": "Design visualisations to communicate insights",
+        "evidence_type": "Design Task",
+        "evidence_metric": "Stakeholder feedback on effectiveness (%)"
+      },
+      {
+        "id": "VISL_3_02",
+        "level": 3,
+        "description": "Select appropriate visual forms for data",
+        "evidence_type": "Design Task",
+        "evidence_metric": "% of visuals correctly mapped to data type"
+      },
+      {
+        "id": "VISL_4_01",
+        "level": 4,
+        "description": "Define visual analytics standards",
+        "evidence_type": "Governance Task",
+        "evidence_metric": "Adoption rate of standards (%)"
+      },
+      {
+        "id": "VISL_4_02",
+        "level": 4,
+        "description": "Ensure accessibility and usability of visuals",
+        "evidence_type": "Review Task",
+        "evidence_metric": "% compliance with accessibility standards"
+      },
+      {
+        "id": "VISL_5_01",
+        "level": 5,
+        "description": "Lead visual analytics strategy",
+        "evidence_type": "Leadership Task",
+        "evidence_metric": "Stakeholder satisfaction (%)"
+      },
+      {
+        "id": "VISL_5_02",
+        "level": 5,
+        "description": "Influence data storytelling practices",
+        "evidence_type": "Strategic Task",
+        "evidence_metric": "Evidence of improved insights adoption (%)"
+      }
+    ],
+    "what_it_covers": "Designing visual representations of data to support interpretation and insight"
+  }
+}
