@@ -4,6 +4,7 @@ from datetime import datetime
 import warnings
 
 import matplotlib.pyplot as plt
+import numpy as np
 import pandas as pd
 import seaborn as sns
 
@@ -288,3 +289,34 @@ learner_speed = (
 
 print("\nAverage progression speed per learner (points per day):")
 print(learner_speed.to_string(index=False))
+
+# Step 11: Model how time between attempts affects progress (per learner)
+time_effect_records = []
+for learner_id in learners:
+    learner_df = progression_df[progression_df["Learner"] == learner_id]
+    interval_df = learner_df[learner_df["TimeDiffDays"] > 0]
+
+    if len(interval_df) >= 2:
+        x = interval_df["TimeDiffDays"].values
+        y = interval_df["ScoreDelta"].values
+        slope, intercept = np.polyfit(x, y, 1)
+        corr = np.corrcoef(x, y)[0, 1]
+    else:
+        slope, intercept, corr = np.nan, np.nan, np.nan
+
+    time_effect_records.append(
+        {
+            "Learner": learner_id,
+            "NumIntervals": int(len(interval_df)),
+            "TimeEffectSlope": slope,
+            "TimeEffectIntercept": intercept,
+            "TimeEffectCorrelation": corr,
+        }
+    )
+
+time_effect_df = pd.DataFrame(time_effect_records)
+time_effect_path = os.path.join(output_dir, "learning_speed_time_effect.csv")
+time_effect_df.to_csv(time_effect_path, index=False)
+
+print("\nEstimated time–progress relationship per learner:")
+print(time_effect_df.to_string(index=False))
