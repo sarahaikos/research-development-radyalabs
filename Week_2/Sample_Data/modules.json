@@ -1,0 +1,5 @@
+{
+    "Software Development Module": {"prerequisites": [], "available": true},
+    "Data Analysis Module": {"prerequisites": [], "available": true},
+    "Machine Learning Module": {"prerequisites": ["Data Analysis Module"], "available": true}
+}  

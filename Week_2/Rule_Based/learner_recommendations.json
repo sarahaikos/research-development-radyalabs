@@ -1,0 +1,128 @@
+{
+  "L001": {
+    "mastery": {
+      "PROG_2_01": {
+        "state": "Partial",
+        "score": 66.09,
+        "level": 2
+      },
+      "PROG_2_02": {
+        "state": "Partial",
+        "score": 59.68,
+        "level": 2
+      },
+      "TEST_2_01": {
+        "state": "Mastered",
+        "score": 90.49,
+        "level": 2
+      },
+      "DAAN_2_01": {
+        "state": "Partial",
+        "score": 62.88,
+        "level": 2
+      },
+      "DAAN_2_02": {
+        "state": "Partial",
+        "score": 58.36,
+        "level": 2
+      },
+      "DATS_3_01": {
+        "state": "Not Mastered",
+        "score": 46.6,
+        "level": 3
+      }
+    },
+    "recommendations": [
+      {
+        "module": "Data Analysis Module",
+        "score": 0.8,
+        "rules": [
+          "Data Analysis Intro"
+        ],
+        "capabilities": [
+          {
+            "id": "DAAN_2_01",
+            "level": 2,
+            "description": "Prepare datasets for analysis",
+            "tag": "DATA",
+            "sub_area": "Data and analytics",
+            "subcategory": "Data and analytics",
+            "state": "Partial"
+          }
+        ]
+      }
+    ]
+  },
+  "L002": {
+    "mastery": {
+      "PROG_2_01": {
+        "state": "Mastered",
+        "score": 92.22,
+        "level": 2
+      },
+      "PROG_2_02": {
+        "state": "Mastered",
+        "score": 90.49,
+        "level": 2
+      },
+      "DAAN_2_01": {
+        "state": "Mastered",
+        "score": 93.11,
+        "level": 2
+      },
+      "DAAN_2_02": {
+        "state": "Mastered",
+        "score": 96.49,
+        "level": 2
+      },
+      "MLNG_3_01": {
+        "state": "Not Mastered",
+        "score": 42.36,
+        "level": 3
+      },
+      "MLNG_3_02": {
+        "state": "Not Mastered",
+        "score": 47.73,
+        "level": 3
+      }
+    },
+    "recommendations": [
+      {
+        "module": "Data Analysis Module",
+        "score": 0.8,
+        "rules": [
+          "Data Analysis Intro"
+        ],
+        "capabilities": [
+          {
+            "id": "DAAN_2_01",
+            "level": 2,
+            "description": "Prepare datasets for analysis",
+            "tag": "DATA",
+            "sub_area": "Data and analytics",
+            "subcategory": "Data and analytics",
+            "state": "Mastered"
+          }
+        ]
+      },
+      {
+        "module": "Software Development Module",
+        "score": 0.5,
+        "rules": [
+          "Software Core Mastery"
+        ],
+        "capabilities": [
+          {
+            "id": "PROG_2_01",
+            "level": 2,
+            "description": "Implement program logic using control structures",
+            "tag": "SOFTWARE",
+            "sub_area": "Development and build",
+            "subcategory": "Systems development",
+            "state": "Mastered"
+          }
+        ]
+      }
+    ]
+  }
+}

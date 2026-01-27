@@ -1,0 +1,88 @@
+{
+  "L001": {
+    "capabilities": {
+      "PROG_2_01": {
+        "learning_events": [
+          { "event_id": "E001", "type": "quiz", "attempt": 1, "score": 42, "timestamp": "2026-01-05T09:00:00" },
+          { "event_id": "E002", "type": "quiz", "attempt": 2, "score": 55, "timestamp": "2026-01-10T10:30:00" },
+          { "event_id": "E003", "type": "quiz", "attempt": 3, "score": 67, "timestamp": "2026-01-20T14:00:00" },
+          { "event_id": "E004", "type": "quiz", "attempt": 4, "score": 75, "timestamp": "2026-01-25T11:00:00" }
+        ]
+      },
+      "PROG_2_02": {
+        "learning_events": [
+          { "event_id": "E005", "type": "lab", "attempt": 1, "score": 48, "timestamp": "2026-01-12T16:00:00" },
+          { "event_id": "E006", "type": "lab", "attempt": 2, "score": 58, "timestamp": "2026-01-18T16:00:00" },
+          { "event_id": "E007", "type": "lab", "attempt": 3, "score": 65, "timestamp": "2026-01-25T16:00:00" }
+        ]
+      },
+      "TEST_2_01": {
+        "learning_events": [
+          { "event_id": "E008", "type": "quiz", "attempt": 1, "score": 88, "timestamp": "2026-01-22T11:00:00" },
+          { "event_id": "E009", "type": "quiz", "attempt": 2, "score": 92, "timestamp": "2026-01-27T11:00:00" }
+        ]
+      },
+      "DAAN_2_01": {
+        "learning_events": [
+          { "event_id": "E010", "type": "quiz", "attempt": 1, "score": 45, "timestamp": "2026-01-08T11:00:00" },
+          { "event_id": "E011", "type": "quiz", "attempt": 2, "score": 62, "timestamp": "2026-01-19T15:00:00" },
+          { "event_id": "E012", "type": "quiz", "attempt": 3, "score": 70, "timestamp": "2026-01-24T11:00:00" }
+        ]
+      },
+      "DAAN_2_02": {
+        "learning_events": [
+          { "event_id": "E013", "type": "assignment", "attempt": 1, "score": 54, "timestamp": "2026-01-23T13:30:00" },
+          { "event_id": "E014", "type": "assignment", "attempt": 2, "score": 61, "timestamp": "2026-01-26T14:30:00" }
+        ]
+      },
+      "DATS_3_01": {
+        "learning_events": [
+          { "event_id": "E015", "type": "project", "attempt": 1, "score": 41, "timestamp": "2026-01-26T10:00:00" },
+          { "event_id": "E016", "type": "project", "attempt": 2, "score": 50, "timestamp": "2026-01-28T10:00:00" }
+        ]
+      }
+    }
+  },
+
+  "L002": {
+    "capabilities": {
+      "PROG_2_01": {
+        "learning_events": [
+          { "event_id": "E017", "type": "quiz", "attempt": 1, "score": 85, "timestamp": "2026-01-06T09:00:00" },
+          { "event_id": "E018", "type": "quiz", "attempt": 2, "score": 92, "timestamp": "2026-01-18T10:30:00" },
+          { "event_id": "E019", "type": "quiz", "attempt": 3, "score": 95, "timestamp": "2026-01-25T14:00:00" }
+        ]
+      },
+      "PROG_2_02": {
+        "learning_events": [
+          { "event_id": "E020", "type": "lab", "attempt": 1, "score": 88, "timestamp": "2026-01-21T15:30:00" },
+          { "event_id": "E021", "type": "lab", "attempt": 2, "score": 92, "timestamp": "2026-01-26T16:00:00" }
+        ]
+      },
+      "DAAN_2_01": {
+        "learning_events": [
+          { "event_id": "E022", "type": "quiz", "attempt": 1, "score": 90, "timestamp": "2026-01-14T13:00:00" },
+          { "event_id": "E023", "type": "quiz", "attempt": 2, "score": 95, "timestamp": "2026-01-24T13:00:00" }
+        ]
+      },
+      "DAAN_2_02": {
+        "learning_events": [
+          { "event_id": "E024", "type": "assignment", "attempt": 1, "score": 94, "timestamp": "2026-01-20T14:00:00" },
+          { "event_id": "E025", "type": "assignment", "attempt": 2, "score": 98, "timestamp": "2026-01-27T14:00:00" }
+        ]
+      },
+      "MLNG_3_01": {
+        "learning_events": [
+          { "event_id": "E026", "type": "lab", "attempt": 1, "score": 38, "timestamp": "2026-01-22T16:30:00" },
+          { "event_id": "E027", "type": "lab", "attempt": 2, "score": 45, "timestamp": "2026-01-26T16:30:00" }
+        ]
+      },
+      "MLNG_3_02": {
+        "learning_events": [
+          { "event_id": "E028", "type": "project", "attempt": 1, "score": 44, "timestamp": "2026-01-27T10:00:00" },
+          { "event_id": "E029", "type": "project", "attempt": 2, "score": 50, "timestamp": "2026-01-28T10:00:00" }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+    "levels": {
+      "1": {
+        "mastered": 60,
+        "partial": 40
+      },
+      "2": {
+        "mastered": 70,
+        "partial": 50
+      },
+      "3": {
+        "mastered": 80,
+        "partial": 60
+      },
+      "4": {
+        "mastered": 85,
+        "partial": 65
+      },
+      "5": {
+        "mastered": 90,
+        "partial": 70
+      },
+      "6": {
+        "mastered": 92,
+        "partial": 75
+      },
+      "7": {
+        "mastered": 95,
+        "partial": 80
+      }
+    }
+  }
+  

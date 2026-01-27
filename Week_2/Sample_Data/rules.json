@@ -1,0 +1,23 @@
+[
+    {
+      "id": "R1",
+      "name": "Software Core Mastery",
+      "conditions": {"PROG_2_01": "Mastered", "PROG_3_01": "Mastered"},
+      "module": "Software Development Module",
+      "weight": 1.0
+    },
+    {
+      "id": "R2",
+      "name": "Data Analysis Intro",
+      "conditions": {"DAAN_2_01": "Partial"},
+      "module": "Data Analysis Module",
+      "weight": 0.8
+    },
+    {
+      "id": "R3",
+      "name": "Machine Learning Capabilities",
+      "conditions": {"MLNG_3_01": "Mastered"},
+      "module": "Machine Learning Module",
+      "weight": 1.2
+    }
+]  
